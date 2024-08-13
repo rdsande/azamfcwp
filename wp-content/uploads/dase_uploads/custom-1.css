@@ -1,0 +1,417 @@
+
+		/* Table Header Background Color */
+				.dase-paginated-table-container table thead th,
+		.dase-match-timeline-title,
+		.dase-match-commentary-title,
+		.dase-match-visual-lineup-left-header,
+		.dase-match-visual-lineup-right-header,
+		.dase-match-score-header,
+		.dase-person-summary-content-title
+		{background: rgba(242,242,242,1) !important;}
+
+		/* Table Header Border Color */
+				.dase-paginated-table-container table thead th,
+		.dase-match-timeline-title,
+		.dase-match-commentary-title,
+		.dase-match-visual-lineup-left-header,
+		.dase-match-visual-lineup-right-header,
+		.dase-match-score-header,
+		.dase-person-summary-content-title
+		{border-color: rgba(225,225,225,1) !important;}
+
+		/* Table Header Font Color */
+				.dase-paginated-table-container table thead th,
+		.dase-match-timeline-title,
+		.dase-match-commentary-title,
+		.dase-match-visual-lineup-left-header,
+		.dase-match-visual-lineup-right-header,
+		.dase-match-score-header,
+		.dase-person-summary-content-title
+		{color: rgba(51,51,51,1) !important;}
+
+		/* Table Body Background Color */
+				.dase-paginated-table-container table tbody td,
+		.dase-match-timeline-content-row,
+		.dase-match-commentary-content,
+		.dase-match-visual-lineup-right table td,
+		.dase-match-score-body,
+		.dase-person-summary-content-wrapper
+		{background: rgba(255,255,255,1) !important;}
+
+		/* Table Body Border Color */
+				.dase-paginated-table-container table tbody td,
+		.dase-match-timeline-content-row,
+		.dase-match-commentary-content,
+		.dase-match-commentary-event-data,
+		.dase-match-commentary-row,
+		.dase-match-visual-lineup-right table td,
+		.dase-match-score-body
+		{border-color: rgba(225,225,225,1) !important;}
+
+		/* Table Body Font Color */
+				.dase-paginated-table-container table tbody td,
+		.dase-match-timeline-player-name,
+		.dase-match-timeline-description,
+		.dase-match-visual-lineup-right table td,
+		.dase-match-score-body,
+		.dase-match-commentary-event-time-top,
+		.dase-match-commentary-event-description,
+		.dase-match-commentary-event-details-row,
+		.dase-match-score-body-team-1-name,
+		.dase-match-score-body-team-1-position,
+		.dase-match-score-body-match-result,
+		.dase-match-score-body-team-2-name,
+		.dase-match-score-body-team-2-position,
+		.dase-person-summary-information-item-field,
+		.dase-person-summary-information-item-value
+		{color: rgba(102,102,102,1) !important;}
+
+		/* Table Pagination Background Color */
+				.dase-paginated-table-pagination .dase-paginated-table-pagination-inner > a
+		{background: rgba(242,242,242,1) !important;}
+
+		/* Table Pagination Border Color */
+				.dase-paginated-table-pagination .dase-paginated-table-pagination-inner > a
+		{border-color: rgba(225,225,225,1) !important;}
+
+		/* Table Pagination Font Color */
+				.dase-paginated-table-pagination .dase-paginated-table-pagination-inner > a,
+		.dase-paginated-table-pagination .dase-paginated-table-pagination-inner > span
+		{color: rgba(51,51,51,1) !important;}
+
+
+
+		/* Table Pagination Disabled Background Color */
+				.dase-paginated-table-pagination .dase-paginated-table-pagination-inner > a.disabled
+		{background: rgba(238,238,238,1) !important;}
+
+		/* Table Pagination Disabled Border Color */
+				.dase-paginated-table-pagination .dase-paginated-table-pagination-inner > a.disabled
+		{border-color: rgba(238,238,238,1) !important;}
+
+		/* Table Pagination Disabled Font Color */
+				.dase-paginated-table-pagination .dase-paginated-table-pagination-inner > a.disabled
+		{color: rgba(255,255,255,1) !important;}
+
+		/* Formation Field Player Number Background Color */
+				.dase-match-visual-lineup-left-formation-player-jersey-number
+		{background: rgba(50,102,185,1) !important;}
+
+		/* Formation Field Player Number Border Color */
+				.dase-match-visual-lineup-left-formation-player-jersey-number
+		{border-color: rgba(255,255,255,1) !important;}
+
+		/* Formation Field Player Number Font Color */
+				.dase-match-visual-lineup-left-formation-player-jersey-number
+		{color: rgba(255,255,255,1) !important;}
+
+		/* Formation Field Player Name Font Color */
+				.dase-match-visual-lineup-left-formation-player-name
+		{color: rgba(255,255,255,1) !important;}
+
+		/* Block Margin Top */
+
+		.dase-paginated-table-container,
+		.dase-line-chart,
+		.dase-match-timeline,
+		.dase-match-commentary,
+		.dase-match-score,
+		.dase-person-summary,
+		.dase-match-visual-lineup{
+				margin-top: 20px !important;
+				margin-bottom: 20px !important;
+		}
+
+		
+		/* Breakpoint 1 */
+		@media screen and (min-width: 481px) and (max-width: 1024px){
+
+		/* Paginated Table -------------------------------------------------------------------------------------- */
+		.dase-paginated-table-container [data-breakpoint-1-hidden="1"]{
+		display: none !important;
+		}
+
+		/* Match Timeline --------------------------------------------------------------------------------------- */
+		.dase-match-timeline-content-clock{
+		order: 1 !important;
+		}
+
+		.dase-match-timeline-content-team-1-logo,
+		.dase-match-timeline-content-team-2-logo{
+		order: 2 !important;;
+		flex-basis: 50px !important;
+		}
+
+		.dase-match-timeline-content-team-1-player,
+		.dase-match-timeline-content-team-2-player{
+		order: 3 !important;;
+		flex-basis: calc(100% - 110px) !important;
+		}
+
+		.dase-match-timeline-player-container-team-1-image{
+		flex-basis: 40px !important;
+		order: 1 !important;
+		margin: 0 10px 0 0 !important;
+		}
+
+		.dase-match-timeline-content-team-1-logo img,
+		.dase-match-timeline-content-team-1-logo svg{
+		margin: 0 10px 0 0 !important;
+		}
+
+		.dase-match-timeline-player-container-team-1 .dase-match-timeline-player-name,
+		.dase-match-timeline-player-container-team-1 .dase-match-timeline-description{
+		text-align: left !important;
+		}
+
+		.dase-match-timeline-player-container-team-1-content{
+		flex-basis: calc(100% - 50px) !important;
+		order: 2 !important;
+		}
+
+		.dase-match-timeline-content-team-1-player-empty,
+		.dase-match-timeline-content-team-2-player-empty,
+		.dase-match-timeline-content-team-1-logo-empty,
+		.dase-match-timeline-content-team-2-logo-empty{
+		display: none !important;
+		}
+
+		/* Match Score ------------------------------------------------------------------------------------------ */
+		.dase-match-score-body-info,
+		.dase-match-score-body-additional-info-stadium-attendance,
+		.dase-match-score-body-additional-info-referee{
+		display: none !important;
+		}
+
+		.dase-match-score-body-result{
+		margin: 0 !important;
+		}
+
+		.dase-match-score-body-team-1-logo,
+		.dase-match-score-body-team-2-logo{
+		flex-basis: 40px !important;
+		height: 40px !important;
+		}
+
+		.dase-match-score-body-team-1-logo img, .dase-match-score-body-team-1-logo svg,
+		.dase-match-score-body-team-2-logo img, .dase-match-score-body-team-2-logo svg{
+		height: 40px !important;
+		min-width: 40px !important;
+		}
+
+		.dase-match-score-body-team-1-details,
+		.dase-match-score-body-team-2-details {
+		flex-basis: calc(100% - 40px) !important;
+		min-height: 40px !important;
+		height: auto !important;
+		}
+
+		.dase-match-score-body-match-result{
+		line-height: 24px !important;
+		height: auto !important;
+		font-size: 11px !important;
+		font-weight: 700 !important;
+		margin: 8px 0 8px 0 !important;
+		}
+
+		.dase-match-score-body-team-1-name,
+		.dase-match-score-body-team-2-name{
+		height: auto !important;
+		font-size: 11px !important;
+		line-height: 14px !important;
+		min-height: 14px !important;
+		margin: 13px 0 13px 0 !important;
+		}
+
+		.dase-match-score-body-team-1,
+		.dase-match-score-body-team-2{
+		flex-basis: calc( 50% - 24px ) !important;
+		}
+
+		.dase-match-score-body-center{
+		flex-basis: 48px !important;
+		}
+
+		/* Person Summary --------------------------------------------------------------------------------------- */
+		.dase-person-summary-image{
+		display: none !important;
+		}
+
+		.dase-person-summary-information {
+		flex-basis: 100% !important;
+		display: flex !important;
+		flex-direction: column !important;
+		}
+
+		/* Match Visual Lineup ---------------------------------------------------------------------------------- */
+		.dase-match-visual-lineup{
+		flex-direction: column !important;
+		}
+
+		.dase-match-visual-lineup-left,
+		.dase-match-visual-lineup-right{
+		flex-basis: 100% !important;
+		}
+
+		}
+
+		/* Breakpoint 2 */
+		@media screen and (max-width: 480px) {
+
+		/* Paginated Table -------------------------------------------------------------------------------------- */
+		.dase-paginated-table-container [data-breakpoint-2-hidden="1"]{
+		display: none !important;
+		}
+
+		/* Match Timeline --------------------------------------------------------------------------------------- */
+		.dase-match-timeline-content-clock{
+		order: 1 !important;
+		}
+
+		.dase-match-timeline-content-team-1-logo,
+		.dase-match-timeline-content-team-2-logo{
+		display: none !important;
+		}
+
+		.dase-match-timeline-content-team-1-player,
+		.dase-match-timeline-content-team-2-player{
+		order: 2;
+		flex-basis: calc(100% - 60px) !important;
+		}
+
+		.dase-match-timeline-player-container-team-1-image,
+		.dase-match-timeline-player-container-team-2-image{
+		display: none !important;
+		}
+
+		.dase-match-timeline-player-container-team-1 .dase-match-timeline-player-name,
+		.dase-match-timeline-player-container-team-1 .dase-match-timeline-description{
+		text-align: left !important;
+		}
+
+		.dase-match-timeline-content-row-cell{
+		min-height: 40px !important;
+		height: auto !important;
+		}
+
+		.dase-match-timeline-player-container-team-1-content{
+		flex-basis: calc(100% - 50px) !important;
+		order: 2 !important;
+		}
+
+		.dase-match-timeline-content-team-1-player-empty,
+		.dase-match-timeline-content-team-2-player-empty,
+		.dase-match-timeline-content-team-1-logo-empty,
+		.dase-match-timeline-content-team-2-logo-empty{
+		display: none !important;
+		}
+
+		/* Match Commentary ------------------------------------------------------------------------------------- */
+		.dase-match-commentary-event-details-left{
+		display: none !important;
+		}
+
+		.dase-match-commentary-event-details-right {
+		width: 100% !important;
+		}
+
+		/* Match Score ------------------------------------------------------------------------------------------ */
+		.dase-match-score-body-info,
+		.dase-match-score-body-additional-info-stadium-attendance,
+		.dase-match-score-body-additional-info-referee{
+		display: none !important;
+		}
+
+		.dase-match-score-body-team-1-logo,
+		.dase-match-score-body-team-2-logo{
+		flex-basis: 40px !important;
+		height: 40px !important;
+		}
+
+		.dase-match-score-body-team-1-logo img, .dase-match-score-body-team-1-logo svg,
+		.dase-match-score-body-team-2-logo img, .dase-match-score-body-team-2-logo svg{
+		height: 40px !important;
+		min-width: 40px !important;
+		}
+
+		.dase-match-score-body-team-1-details,
+		.dase-match-score-body-team-2-details{
+		flex-basis: calc(100% - 40px) !important;
+		min-height: 40px !important;
+		height: auto !important;
+		}
+
+		.dase-match-score-body-match-result{
+		line-height: 24px !important;
+		height: auto !important;
+		font-size: 11px !important;
+		font-weight: 700 !important;
+		margin: 8px 0 8px 0 !important;
+		}
+
+		.dase-match-score-body-team-1-name,
+		.dase-match-score-body-team-2-name{
+		height: auto !important;
+		font-size: 11px !important;
+		line-height: 14px !important;
+		min-height: 14px !important;
+		margin: 13px 0 13px 0 !important;
+		}
+
+		.dase-match-score-body-team-1,
+		.dase-match-score-body-team-2{
+		flex-basis: calc( 50% - 24px ) !important;
+		}
+
+		.dase-match-score-body-center{
+		flex-basis: 48px !important;
+		}
+
+		.dase-match-score-body-result{
+		margin: 0 !important;
+		}
+
+		.dase-match-score-body-team-1-logo,
+		.dase-match-score-body-team-2-logo{
+		display: none !important;
+		}
+
+		.dase-match-score-body-team-1-details,
+		.dase-match-score-body-team-2-details{
+		flex-basis: calc(100%) !important;
+		padding: 0 !important;
+		}
+
+		/* Person Summary --------------------------------------------------------------------------------------- */
+		.dase-person-summary-image{
+		display: none !important;
+		}
+
+		.dase-person-summary-information {
+		flex-basis: 100% !important;
+		display: flex !important;
+		flex-direction: column !important;
+		}
+
+		/* Match Visual Lineup ---------------------------------------------------------------------------------- */
+		.dase-match-visual-lineup{
+		flex-direction: column !important;
+		}
+
+		.dase-match-visual-lineup-left,
+		.dase-match-visual-lineup-right{
+		flex-basis: 100% !important;
+		}
+
+		}
+		/* Font Family */
+				.dase-paginated-table-container *,
+		.dase-no-data-paragraph *,
+		.dase-match-timeline *,
+		.dase-match-commentary *,
+		.dase-match-visual-lineup *,
+		.dase-match-score *,
+		.dase-person-summary *
+		{font-family: 'Barlow', Sans-serif !important;}
+
+		

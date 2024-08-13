@@ -1,0 +1,363 @@
+{
+  "domain": "messages",
+  "locale_data": {
+    "messages": {
+      "": {
+        "domain": "messages",
+        "plural_forms": "nplurals=2; plural=(n != 1);",
+        "lang": "it_IT"
+      },
+      "Agency": [
+        "Agenzia"
+      ],
+      "Agency Contract Type": [
+        "Tipologia Contratto Agenzia"
+      ],
+      "Columns": [
+        "Colonne"
+      ],
+      "Hidden Columns (Breakpoint 1)": [
+        "Colonne Nascoste (Breakpoint 1)"
+      ],
+      "Hidden Columns (Breakpoint 2)": [
+        "Colonne Nascoste (Breakpoint 2)"
+      ],
+      "Pagination": [
+        "Paginazione"
+      ],
+      "Agency Contracts": [
+        "Contratti Agenzia"
+      ],
+      "agency": [
+        "agenzia"
+      ],
+      "contract": [
+        "contratto"
+      ],
+      "soccer": [
+        "soccer"
+      ],
+      "Competition": [
+        "Competizione"
+      ],
+      "Round": [
+        "Round"
+      ],
+      "Type": [
+        "Tipo"
+      ],
+      "Competition Round": [
+        "Round Competizione"
+      ],
+      "competition round": [
+        "round competizione"
+      ],
+      "engine": [
+        "engine"
+      ],
+      "Competition Standings Table": [
+        "Classifica Competizione"
+      ],
+      "competition standings table": [
+        "classifica competizione"
+      ],
+      "Player": [
+        "Giocatore"
+      ],
+      "Injury Type": [
+        "Tipologia Infortunio"
+      ],
+      "Injuries": [
+        "Infortuni"
+      ],
+      "injuries": [
+        "Infortuni"
+      ],
+      "players": [
+        "giocatori"
+      ],
+      "Player 1": [
+        "Giocatore 1"
+      ],
+      "Player 2": [
+        "Giocatore 2"
+      ],
+      "Player 3": [
+        "Giocatore 3"
+      ],
+      "Player 4": [
+        "Giocatore 4"
+      ],
+      "Start Date": [
+        "Data Inizio"
+      ],
+      "End Date": [
+        "Data Fine"
+      ],
+      "Market Value Transitions Chart": [
+        "Grafico Transizione Valore Mercato"
+      ],
+      "market value transitions chart": [
+        "grafico transizione valore mercato"
+      ],
+      "Market Value Transitions": [
+        "Transizione Valore Mercato"
+      ],
+      "market value transitions": [
+        "transizione valore mercato"
+      ],
+      "Match": [
+        "Partita"
+      ],
+      "Match Commentary": [
+        "Commento Partita"
+      ],
+      "match commentary": [
+        "commento partita"
+      ],
+      "Team": [
+        "Team"
+      ],
+      "Match Lineup": [
+        "Lineup Partita"
+      ],
+      "match lineup": [
+        "lineup partita"
+      ],
+      "Match Score": [
+        "Punteggio Partita"
+      ],
+      "match score": [
+        "punteggio partita"
+      ],
+      "Match Staff": [
+        "Staff Partita"
+      ],
+      "match staff": [
+        "staff partita"
+      ],
+      "Match Substitutions": [
+        "Sostituzioni Partita"
+      ],
+      "match substitutions": [
+        "sostituzioni partita"
+      ],
+      "Match Effect": [
+        "Effetto su Partita"
+      ],
+      "Match Timeline": [
+        "Timeline Partita"
+      ],
+      "match timeline": [
+        "timeline partita"
+      ],
+      "Match Visual Lineup": [
+        "Lineup Visuale Partita"
+      ],
+      "match visual lineup": [
+        "lineup visuale partita"
+      ],
+      "Team 1": [
+        "Team 1"
+      ],
+      "Team 2": [
+        "Team 2"
+      ],
+      "Matches": [
+        "Partite"
+      ],
+      "matches": [
+        "partite"
+      ],
+      "Player Award Type": [
+        "Tipologie Premi Giocatore"
+      ],
+      "Player Awards": [
+        "Premi Giocatore"
+      ],
+      "player": [
+        "giocatore"
+      ],
+      "awards": [
+        "premi"
+      ],
+      "Player Summary": [
+        "Sommario Giocatore"
+      ],
+      "summary": [
+        "sommario"
+      ],
+      "Citizenship": [
+        "Cittadinanza"
+      ],
+      "Start Date of Birth": [
+        "Inizio Data di Nascita"
+      ],
+      "End Date of Birth": [
+        "Fine Data di Nascita"
+      ],
+      "Foot": [
+        "Piede"
+      ],
+      "Squad": [
+        "Squadra"
+      ],
+      "Player Position": [
+        "Posizione Giocatore"
+      ],
+      "Players": [
+        "Giocatori"
+      ],
+      "Team 3": [
+        "Team 3"
+      ],
+      "Team 4": [
+        "Team 4"
+      ],
+      "Ranking Type": [
+        "Tipologia Ranking"
+      ],
+      "Ranking Transitions Chart": [
+        "Grafico Transizioni Ranking"
+      ],
+      "ranking transitions chart": [
+        "grafico transizioni ranking"
+      ],
+      "Ranking Transitions": [
+        "Transizioni Ranking"
+      ],
+      "ranking transitions": [
+        "transizioni ranking"
+      ],
+      "Referee": [
+        "Arbitro"
+      ],
+      "Referee Statistics by Competition": [
+        "Statistiche Arbitro per Competizione"
+      ],
+      "referee statistics by competition": [
+        "statistiche arbitro per competizione"
+      ],
+      "Referee Statistics by Team": [
+        "Statistiche Arbitro per Team"
+      ],
+      "referee statistics by team": [
+        "statistiche arbitro per team"
+      ],
+      "Referee Summary": [
+        "Sommario Arbitro"
+      ],
+      "referee summary": [
+        "sommario arbitro"
+      ],
+      "Squad Lineup": [
+        "Lineup Squadra"
+      ],
+      "squad lineup": [
+        "lineup squadra"
+      ],
+      "Squad Staff": [
+        "Staff Squadra"
+      ],
+      "squad staff": [
+        "staff squadra"
+      ],
+      "Squad Substitutions": [
+        "Sostituzioni Squadra"
+      ],
+      "squad substitutions": [
+        "sostituzioni squadra"
+      ],
+      "Staff Award Type": [
+        "Tipologia Premi Staff"
+      ],
+      "Staff Awards": [
+        "Premi Staff"
+      ],
+      "staff": [
+        "staff"
+      ],
+      "Staff": [
+        "Staff"
+      ],
+      "Staff Summary": [
+        "Sommario Staff"
+      ],
+      "Retired": [
+        "Ritirato"
+      ],
+      "Gender": [
+        "Genere"
+      ],
+      "Team Contract Type": [
+        "Tipologia Contratto Team"
+      ],
+      "Team Contracts": [
+        "Contratti Team"
+      ],
+      "team": [
+        "team"
+      ],
+      "Team Left": [
+        "Team Lasciato"
+      ],
+      "Team Joined": [
+        "Team Entrata"
+      ],
+      "Fee Lower Limit": [
+        "Limite Inferiore Commissione"
+      ],
+      "Set the fee lower limit": [
+        "Imposta il limite inferiore della commissione"
+      ],
+      "Fee Higher Limit": [
+        "Limite Superiore Commissione"
+      ],
+      "Set the fee higher limit": [
+        "Imposta il limite superiore della commissione"
+      ],
+      "Transfer Type": [
+        "Tipologia Trasferimento"
+      ],
+      "Transfers": [
+        "Trasferimenti"
+      ],
+      "transfers": [
+        "trasferimenti"
+      ],
+      "Trophy Type": [
+        "Tipologia Trofei"
+      ],
+      "Start Assignment Date": [
+        "Inizio Data Assegnazione"
+      ],
+      "End Assignment Date": [
+        "Fine Data Assegnazione"
+      ],
+      "Trophies": [
+        "Trofei"
+      ],
+      "trophies": [
+        "trofei"
+      ],
+      "Unavailable Player Type": [
+        "Tipologia Giocatori Indisponibile"
+      ],
+      "Unavailable Players": [
+        "Giocatori Indisponibili"
+      ],
+      "unavailable": [
+        "indisponibile"
+      ],
+      "Select...": [
+        "Scegli..."
+      ],
+      "No options": [
+        "Nessuna opzione"
+      ],
+      "Soccer Engine": [
+        "Soccer Engine"
+      ]
+    }
+  }
+}

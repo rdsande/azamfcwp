@@ -1,0 +1,6395 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Soccer Engine\n"
+"POT-Creation-Date: 2020-08-18 07:31-0500\n"
+"PO-Revision-Date: 2020-08-18 07:31-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: blocks\n"
+"X-Poedit-SearchPathExcluded-1: admin/asssets/inc/handsontable\n"
+
+#: ../admin/class-dase-admin.php:297
+msgid "Delete"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:298 ../admin/view/agencies.php:25
+#: ../admin/view/agency_contract_types.php:25
+#: ../admin/view/agency_contracts.php:25 ../admin/view/competitions.php:25
+#: ../admin/view/events.php:25 ../admin/view/formations.php:25
+#: ../admin/view/injuries.php:25 ../admin/view/injury_types.php:25
+#: ../admin/view/jersey_sets.php:25
+#: ../admin/view/market_value_transitions.php:25 ../admin/view/matches.php:25
+#: ../admin/view/player_award_types.php:25 ../admin/view/player_awards.php:25
+#: ../admin/view/player_positions.php:25 ../admin/view/players.php:25
+#: ../admin/view/players.php:26 ../admin/view/ranking_transitions.php:25
+#: ../admin/view/ranking_types.php:25 ../admin/view/referee_badge_types.php:25
+#: ../admin/view/referee_badges.php:25 ../admin/view/referees.php:25
+#: ../admin/view/squads.php:25 ../admin/view/stadiums.php:25
+#: ../admin/view/staff.php:25 ../admin/view/staff_award_types.php:25
+#: ../admin/view/staff_awards.php:25 ../admin/view/staff_types.php:25
+#: ../admin/view/team_contract_types.php:25
+#: ../admin/view/team_contracts.php:25 ../admin/view/teams.php:25
+#: ../admin/view/transfer_types.php:25 ../admin/view/transfers.php:25
+#: ../admin/view/trophies.php:25 ../admin/view/trophy_types.php:25
+#: ../admin/view/unavailable_player_types.php:25
+#: ../admin/view/unavailable_players.php:25
+msgid "Cancel"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:299
+msgid "Add Color"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1483 ../admin/class-dase-admin.php:1529
+#: ../admin/class-dase-admin.php:1611 ../admin/class-dase-admin.php:1693
+#: ../admin/class-dase-admin.php:1739 ../admin/class-dase-admin.php:1776
+#: ../admin/class-dase-admin.php:1867
+msgid "SE"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1484
+msgid "SE Matches"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1493
+msgid "SE - Matches"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1494 ../admin/view/events.php:296
+#: ../admin/view/events_wizard.php:412 ../admin/view/matches.php:20
+#: ../public/class-dase-public.php:2610 ../shared/class-dase-shared.php:970
+#: ../shared/class-dase-shared.php:981 ../shared/class-dase-shared.php:1102
+#: ../shared/class-dase-shared.php:1107 ../shared/class-dase-shared.php:1132
+#: ../shared/class-dase-shared.php:1150 ../shared/class-dase-shared.php:1199
+#: ../shared/class-dase-shared.php:1202 ../shared/class-dase-shared.php:1223
+#: ../shared/class-dase-shared.php:1226
+msgid "Matches"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1502
+msgid "SE - Events"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1503 ../admin/view/events.php:20
+#: ../shared/class-dase-shared.php:1113 ../shared/class-dase-shared.php:1187
+msgid "Events"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1511
+msgid "SE - Events Wizard"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1512 ../admin/view/events_wizard.php:443
+msgid "Events Wizard"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1520
+msgid "SE - Competitions"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1521 ../admin/view/competitions.php:20
+#: ../shared/class-dase-shared.php:1141 ../shared/class-dase-shared.php:1177
+#: ../shared/class-dase-shared.php:1211
+msgid "Competitions"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1530
+msgid "SE Transfers"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1539
+msgid "SE - Transfers"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1540 ../admin/view/transfers.php:19
+#: ../admin/view/transfers.php:20 ../shared/class-dase-shared.php:1081
+#: ../shared/class-dase-shared.php:1093 ../shared/class-dase-shared.php:1164
+#: ../shared/class-dase-shared.php:1167
+msgid "Transfers"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1548
+msgid "SE - Transfer Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1549 ../admin/view/transfer_types.php:20
+#: ../admin/view/transfers.php:215
+msgid "Transfer Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1557
+msgid "SE - Team Contracts"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1558 ../admin/view/team_contracts.php:20
+#: ../shared/class-dase-shared.php:1054 ../shared/class-dase-shared.php:1094
+#: ../shared/class-dase-shared.php:1161
+msgid "Team Contracts"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1566
+msgid "SE - Team Contract Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1567 ../admin/view/team_contract_types.php:20
+#: ../admin/view/team_contracts.php:204
+msgid "Team Contract Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1575
+msgid "SE - Agencies"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1576 ../admin/view/agencies.php:20
+msgid "Agencies"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1584
+msgid "SE - Agency Contracts"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1585 ../admin/view/agency_contracts.php:20
+#: ../shared/class-dase-shared.php:1045 ../shared/class-dase-shared.php:1063
+#: ../shared/class-dase-shared.php:1095
+msgid "Agency Contracts"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1593
+msgid "SE - Agency Contract Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1594
+#: ../admin/view/agency_contract_types.php:20
+#: ../admin/view/agency_contracts.php:182
+msgid "Agency Contract Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1602
+msgid "SE - Market Value Transitions"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1603
+#: ../admin/view/market_value_transitions.php:20
+#: ../shared/class-dase-shared.php:1096
+msgid "Market Value Transitions"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1612
+msgid "SE Players"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1621
+msgid "SE - Players"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1622 ../admin/view/agency_contracts.php:172
+#: ../admin/view/injuries.php:154 ../admin/view/jersey_sets.php:94
+#: ../admin/view/market_value_transitions.php:123
+#: ../admin/view/player_awards.php:133 ../admin/view/players.php:19
+#: ../admin/view/players.php:20 ../admin/view/team_contracts.php:194
+#: ../admin/view/transfers.php:195 ../admin/view/unavailable_players.php:148
+#: ../shared/class-dase-shared.php:1122
+msgid "Players"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1630
+msgid "SE - Player Positions"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1631 ../admin/view/player_positions.php:20
+#: ../admin/view/players.php:297
+msgid "Player Positions"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1639
+msgid "SE - Player Awards"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1640 ../admin/view/player_awards.php:20
+#: ../shared/class-dase-shared.php:1009 ../shared/class-dase-shared.php:1090
+msgid "Player Awards"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1648
+msgid "SE - Player Award Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1649 ../admin/view/player_award_types.php:20
+#: ../admin/view/player_awards.php:123
+msgid "Player Award Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1657
+msgid "SE - Unavailable Players"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1658 ../admin/view/unavailable_players.php:20
+#: ../shared/class-dase-shared.php:1027 ../shared/class-dase-shared.php:1091
+msgid "Unavailable Players"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1666
+msgid "SE - Unavailable Player Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1667
+#: ../admin/view/unavailable_player_types.php:20
+#: ../admin/view/unavailable_players.php:158
+msgid "Unavailable Player Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1675
+msgid "SE - Injuries"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1676 ../admin/view/injuries.php:20
+#: ../shared/class-dase-shared.php:1072 ../shared/class-dase-shared.php:1092
+msgid "Injuries"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1684
+msgid "SE - Injury Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1685 ../admin/view/injuries.php:144
+#: ../admin/view/injury_types.php:20
+msgid "Injury Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1694
+msgid "SE Staff"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1703
+msgid "SE - Staff"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1704 ../admin/view/events.php:222
+#: ../admin/view/matches.php:499 ../admin/view/squads.php:153
+#: ../admin/view/squads.php:162 ../admin/view/staff.php:19
+#: ../admin/view/staff.php:20 ../admin/view/staff_awards.php:41
+#: ../admin/view/staff_awards.php:67 ../admin/view/staff_awards.php:135
+#: ../class-dase-ajax.php:1571 ../class-dase-ajax.php:1965
+#: ../class-dase-ajax.php:2033 ../class-dase-ajax.php:2069
+#: ../shared/class-dase-shared.php:1000 ../shared/class-dase-shared.php:3201
+#: ../shared/class-dase-shared.php:3369 ../shared/class-dase-shared.php:5363
+#: ../shared/class-dase-shared.php:5825
+msgid "Staff"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1712
+msgid "SE - Staff Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1713 ../admin/view/staff.php:263
+#: ../admin/view/staff_types.php:20
+msgid "Staff Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1721
+msgid "SE - Staff Awards"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1722 ../admin/view/staff_awards.php:20
+#: ../shared/class-dase-shared.php:965 ../shared/class-dase-shared.php:1018
+msgid "Staff Awards"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1730
+msgid "SE - Staff Award Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1731 ../admin/view/staff_award_types.php:20
+#: ../admin/view/staff_awards.php:125
+msgid "Staff Award Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1740
+msgid "SE Referees"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1749
+msgid "SE - Referees"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1750 ../admin/view/referee_badges.php:147
+#: ../admin/view/referees.php:20
+msgid "Referees"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1758
+msgid "SE - Referee Badges"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1759 ../admin/view/referee_badges.php:20
+#: ../shared/class-dase-shared.php:982 ../shared/class-dase-shared.php:991
+msgid "Referee Badges"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1767
+msgid "SE - Referee Badge Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1768 ../admin/view/referee_badge_types.php:20
+#: ../admin/view/referee_badges.php:157
+msgid "Referee Badge Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1777
+msgid "SE Teams"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1786
+msgid "SE - Teams"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1787 ../admin/view/agency_contracts.php:192
+#: ../admin/view/competitions.php:159 ../admin/view/events.php:306
+#: ../admin/view/matches.php:419 ../admin/view/ranking_transitions.php:156
+#: ../admin/view/team_contracts.php:214 ../admin/view/teams.php:20
+#: ../admin/view/transfers.php:205 ../admin/view/trophies.php:135
+#: ../shared/class-dase-shared.php:1131
+msgid "Teams"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1795
+msgid "SE - Squads"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1796 ../admin/view/squads.php:20
+#: ../shared/class-dase-shared.php:1196 ../shared/class-dase-shared.php:1220
+msgid "Squads"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1804
+msgid "SE - Formations"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1805 ../admin/view/formations.php:20
+msgid "Formations"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1813
+msgid "SE - Jersey Sets"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1814 ../admin/view/jersey_sets.php:20
+msgid "Jersey Sets"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1822
+msgid "SE - Stadiums"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1823 ../admin/view/stadiums.php:20
+msgid "Stadiums"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1831
+msgid "SE - Trophies"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1832 ../admin/view/trophies.php:20
+#: ../shared/class-dase-shared.php:1036 ../shared/class-dase-shared.php:1160
+msgid "Trophies"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1840
+msgid "SE - Trophy Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1841 ../admin/view/trophies.php:125
+#: ../admin/view/trophy_types.php:20
+msgid "Trophy Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1849
+msgid "SE - Ranking Transitions"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1850 ../admin/view/ranking_transitions.php:20
+#: ../shared/class-dase-shared.php:956 ../shared/class-dase-shared.php:1159
+msgid "Ranking Transitions"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1858
+msgid "SE - Ranking Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1859
+#: ../admin/view/ranking_transitions.php:146
+#: ../admin/view/ranking_types.php:20
+msgid "Ranking Types"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1868
+msgid "SE Settings"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1877
+msgid "SE - Import"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1878
+msgid "Import"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1886
+msgid "SE - Export"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1887 ../admin/view/export.php:24
+msgid "Export"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1895
+msgid "SE - Maintenance"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1896 ../admin/view/maintenance.php:99
+msgid "Maintenance"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1904
+msgid "SE - Options"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1905
+msgid "Options"
+msgstr ""
+
+#: ../admin/class-dase-admin.php:1940 ../admin/view/events_wizard.php:7
+#: ../admin/view/export.php:4 ../admin/view/import.php:4
+#: ../admin/view/maintenance.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:24
+msgid "Table Header Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:38
+msgid "Table Header Border Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:52
+msgid "Table Header Font Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:66
+msgid "Table Body Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:80
+msgid "Table Body Border Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:94
+msgid "Table Body Font Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:108
+msgid "Table Pagination Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:122
+msgid "Table Pagination Border Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:136
+msgid "Table Pagination Font Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:150
+msgid "Table Pagination Disabled Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:164
+msgid "Table Pagination Disabled Border Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:178
+msgid "Table Pagination Disabled Font Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:192
+msgid "Line Chart Dataset Line Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:206
+msgid "Line Chart Dataset Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:220
+msgid "Line Chart Font Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:234
+msgid "Line Chart Tooltips Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:248
+msgid "Line Chart Tooltips Font Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:262
+msgid "Line Chart Gridlines Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:276
+msgid "Formation Field Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:290
+msgid "Formation Field Line Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:304
+msgid "Formation Player Number Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:318
+msgid "Formation Player Number Border Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:332
+msgid "Formation Player Number Font Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:346
+msgid "Formation Player Name Font Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:360
+msgid "Clock Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:374
+msgid "Clock Primary Ticks Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:388
+msgid "Clock Secondary Ticks Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:402
+msgid "Clock Border Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:416
+msgid "Clock Overlay Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:430
+msgid "Clock Extra Time Overlay Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:444
+msgid "Event Icon Goal Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:458
+msgid "Event Icon Yellow Card Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:472
+msgid "Event Icon Red Card Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:486
+msgid "Event Icon Substitution Left Arrow Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:500
+msgid "Event Icon Substitution Right Arrow Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:514
+msgid "Default Avatar Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:528
+msgid "Default Avatar Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:542
+msgid "Default Team Logo Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:556
+msgid "Default Team Logo Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:570
+msgid "Default Competition Logo Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:584
+msgid "Default Competition Logo Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:598
+msgid "Default Trophy Type Logo Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:612
+msgid "Default Trophy Type Logo Background Color"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:634
+#: ../admin/inc/class-dase-menu-options.php:929
+#: ../admin/inc/class-dase-menu-options.php:1169
+#: ../admin/inc/class-dase-menu-options.php:1267
+msgid "Menu Players"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:648
+#: ../admin/inc/class-dase-menu-options.php:1183
+msgid "Menu Player Positions"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:662
+#: ../admin/inc/class-dase-menu-options.php:1197
+msgid "Menu Player Awards"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:676
+msgid "Menu Player Award Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:690
+#: ../admin/inc/class-dase-menu-options.php:1211
+msgid "Menu Unavailable Players"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:704
+msgid "Menu Unavailable Players Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:718
+#: ../admin/inc/class-dase-menu-options.php:1239
+msgid "Menu Injuries"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:732
+#: ../admin/inc/class-dase-menu-options.php:1253
+msgid "Menu Injury Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:746
+#: ../admin/inc/class-dase-menu-options.php:1281
+msgid "Menu Staff"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:760
+#: ../admin/inc/class-dase-menu-options.php:1295
+msgid "Menu Staff Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:774
+#: ../admin/inc/class-dase-menu-options.php:1309
+msgid "Menu Staff Awards"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:788
+msgid "Menu Staff Awards Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:802
+#: ../admin/inc/class-dase-menu-options.php:1337
+msgid "Menu Referees"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:816
+#: ../admin/inc/class-dase-menu-options.php:1351
+msgid "Menu Referee Badges"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:830
+msgid "Menu Referee Badge Type"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:844
+#: ../admin/inc/class-dase-menu-options.php:1379
+msgid "Menu Teams"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:858
+#: ../admin/inc/class-dase-menu-options.php:1393
+msgid "Menu Squads"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:872
+#: ../admin/inc/class-dase-menu-options.php:1407
+msgid "Menu Formations"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:886
+msgid "Menu Jersey Sets"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:900
+msgid "Menu Stadiums"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:914
+#: ../admin/inc/class-dase-menu-options.php:1435
+msgid "Menu Trophies"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:943
+#: ../admin/inc/class-dase-menu-options.php:1449
+msgid "Menu Trophy Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:957
+#: ../admin/inc/class-dase-menu-options.php:1463
+msgid "Menu Ranking Transitions"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:971
+#: ../admin/inc/class-dase-menu-options.php:1477
+msgid "Menu Ranking Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:985
+#: ../admin/inc/class-dase-menu-options.php:1491
+msgid "Menu Matches"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:999
+#: ../admin/inc/class-dase-menu-options.php:1505
+msgid "Menu Events"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1007
+msgid "Menu Events Wizard"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1021
+#: ../admin/inc/class-dase-menu-options.php:1519
+msgid "Menu Competitions"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1035
+#: ../admin/inc/class-dase-menu-options.php:1533
+msgid "Menu Transfers"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1049
+#: ../admin/inc/class-dase-menu-options.php:1547
+msgid "Menu Transfer Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1063
+#: ../admin/inc/class-dase-menu-options.php:1562
+msgid "Menu Team Contracts"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1077
+msgid "Menu Contract Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1091
+#: ../admin/inc/class-dase-menu-options.php:1590
+msgid "Menu Agencies"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1105
+#: ../admin/inc/class-dase-menu-options.php:1604
+msgid "Menu Agency Contracts"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1119
+msgid "Menu Agency Contract Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1133
+#: ../admin/inc/class-dase-menu-options.php:1632
+msgid "Menu Market Value Transitions"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1147
+msgid "REST API"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1225
+msgid "Menu Unavailable Player Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1323
+msgid "Menu Staff Award Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1365
+msgid "Menu Referee Badge Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1421
+msgid "Menu Stadius"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1576
+msgid "Menu Team Contract Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1618
+msgid "Menu Agency Contracts Types"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1654
+msgid "Money Format Decimal Separator"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1668
+msgid "Money Format Thousands Separator"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1682
+msgid "Money Format Simplify Million"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1696
+msgid "Money Format Million Symbol"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1710
+msgid "Money Format Simplify Thousands"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1724
+msgid "Money Format Thousands Symbol"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1738
+msgid "Money Format Currency"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1752
+msgid "Money Format Currency Position"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1766
+msgid "Height Measurement Unit"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1780
+msgid "Set Max Execution Time"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1794
+msgid "Max Execution Time Value"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1808
+msgid "Set Memory Limit"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1822
+msgid "Memory Limit Value"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1836
+msgid "REST API Authentication (Read)"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1850
+msgid "REST API Authentication (Create)"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1864
+#: ../admin/inc/class-dase-menu-options.php:5319
+#: ../admin/inc/class-dase-menu-options.php:5338
+msgid "REST API Key"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1878
+msgid "Line Chart Show Legend"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1892
+msgid "Line Chart Show Gridlines"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1906
+msgid "Line Chart Show Tooltips"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1920
+msgid "Line Chart Legend Position"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1934
+msgid "Line Chart Fill"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1948
+msgid "Formation Field Line Stroke Width"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1962
+msgid "Block Margin Top"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1976
+msgid "Block Margin Bottom"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:1990
+msgid "Responsive Breakpoint 1"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2004
+msgid "Responsive Breakpoint 2"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2018
+msgid "Font Family"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2032
+msgid "Google Font URL"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2052
+msgid "A color that will be used for the header background color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2064
+msgid ""
+"Please enter a valid color in the \"Table Header Background Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2080
+msgid "A color that will be used for the header border color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2092
+msgid "Please enter a valid color in the \"Table Header Border Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2108
+msgid "A color that will be used for the header font color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2120
+msgid "Please enter a valid color in the \"Table Header Font Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2136
+msgid "A color that will be used for the body background color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2148
+msgid ""
+"Please enter a valid color in the \"Table Body Background Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2164
+msgid "A color that will be used for the body border color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2176
+msgid "Please enter a valid color in the \"Table Body Border Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2192
+msgid "A color that will be used for the body font color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2204
+msgid "Please enter a valid color in the \"Table Body Font Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2220
+msgid ""
+"A color or a comma separated list of colors that will be used for the areas "
+"of the line chart."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2233
+msgid "A color that will be used for the pagination background color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2245
+msgid ""
+"Please enter a valid color in the \"Table Pagination Background Color\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2261
+msgid "A color that will be used for the pagination border color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2273
+msgid ""
+"Please enter a valid color in the \"Table Pagination Border Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2289
+msgid "A color that will be used for the pagination font color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2301
+msgid ""
+"Please enter a valid color in the \"Table Pagination Font Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2317
+msgid "A color that will be used for the pagination disabled background color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2329
+msgid ""
+"Please enter a valid color in the \"Table Pagination Disabled Background "
+"Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2345
+msgid "A color that will be used for the pagination disabled border color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2357
+msgid ""
+"Please enter a valid color in the \"Table Pagination Disabled Border Color\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2373
+msgid "A color that will be used for the pagination disabled font color."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2385
+msgid ""
+"Please enter a valid color in the \"Table Pagination Disabled Font Color\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2401
+msgid ""
+"A color or a comma separated list of colors that will be used for the lines "
+"of the line chart."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2413
+msgid ""
+"Please enter a valid color or a comma separated list of colors in the \"Line "
+"Chart Dataset Background Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2426
+#: ../admin/inc/class-dase-menu-options.php:2444
+#: ../admin/inc/class-dase-menu-options.php:2462
+#: ../admin/inc/class-dase-menu-options.php:2612
+#: ../admin/inc/class-dase-menu-options.php:5090
+#: ../admin/inc/class-dase-menu-options.php:5132
+#: ../admin/inc/class-dase-menu-options.php:5234
+#: ../admin/inc/class-dase-menu-options.php:5276
+#: ../admin/view/referees.php:211 ../class-dase-ajax.php:894
+#: ../public/class-dase-public.php:2669
+msgid "No"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2427
+#: ../admin/inc/class-dase-menu-options.php:2445
+#: ../admin/inc/class-dase-menu-options.php:2463
+#: ../admin/inc/class-dase-menu-options.php:2613
+#: ../admin/inc/class-dase-menu-options.php:5091
+#: ../admin/inc/class-dase-menu-options.php:5133
+#: ../admin/inc/class-dase-menu-options.php:5235
+#: ../admin/inc/class-dase-menu-options.php:5277
+#: ../admin/view/referees.php:216 ../class-dase-ajax.php:898
+#: ../public/class-dase-public.php:2669
+msgid "Yes"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2429
+msgid ""
+"This option determines if the legend of the line chart should be displayed."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2447
+msgid ""
+"This option determines if the gridlines of the line chart should be "
+"displayed."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2465
+msgid ""
+"This option determines if the tooltips of the line chart should be displayed."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2480
+msgid "Top"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2481
+#: ../admin/inc/class-dase-menu-options.php:5199
+#: ../admin/inc/class-dase-menu-utility.php:804 ../class-dase-ajax.php:548
+#: ../shared/class-dase-shared.php:9396
+msgid "Right"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2482
+msgid "Bottom"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2483
+#: ../admin/inc/class-dase-menu-options.php:5198
+#: ../admin/inc/class-dase-menu-utility.php:799 ../class-dase-ajax.php:544
+#: ../shared/class-dase-shared.php:9392
+msgid "Left"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2485
+msgid "This option determines the position of the legend in the line chart."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2503
+msgid "A color that will be used for the fonts of the line chart."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2515
+msgid "Please enter a valid color in the \"Line Chart Font Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2531
+msgid ""
+"A color that will be used for the background of the line chart tooltips."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2543
+msgid ""
+"Please enter a valid color in the \"Line Chart Tooltips Background Color\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2559
+msgid "A color that will be used for the fonts of the line chart tooltips."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2571
+msgid ""
+"Please enter a valid color in the \"Line Chart Tooltips font Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2587
+msgid "A color that will be used for the gridlines of the line chart."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2599
+msgid ""
+"Please enter a valid color in the \"Line Chart Tooltip Background Color\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2615
+msgid ""
+"This option determines if the fill of the lines of the line chart should be "
+"displayed."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2633
+msgid "A color that will be used for the background of the field."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2645
+msgid ""
+"Please enter a valid color in the \"Formation Field Background Color\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2661
+msgid "A color that will be used for the lines of the field."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2673
+msgid ""
+"Please enter a valid color in the \"Formation Field Line Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2686
+msgid "The stroke width used for the lines of the field."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2697
+msgid ""
+"Please enter a valid value in the \"Formation Field Line Stroke Width\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2713
+msgid "A color that will be used for the background of the player number."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2725
+msgid ""
+"Please enter a valid color in the \"Formation Field Player Number Background "
+"Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2741
+msgid "A color that will be used for the border of the player number."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2753
+msgid ""
+"Please enter a valid color in the \"Formation Field Player Number Border "
+"Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2769
+msgid "A color that will be used for the font of the player number."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2781
+msgid ""
+"Please enter a valid color in the \"Formation Field Player Number Font Color"
+"\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2797
+msgid "A color that will be used for the font of the player name."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2809
+msgid ""
+"Please enter a valid color in the \"Formation Field Player Name Font Color\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2825
+msgid "A color that will be used for the background color of the clock."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2837
+msgid "Please enter a valid color in the \"Clock Background Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2853
+msgid "A color that will be used for the primary ticks of the clock."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2865
+msgid "Please enter a valid color in the \"Clock Primary Ticks Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2881
+msgid "A color that will be used for the secondary ticks of the clock."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2893
+msgid ""
+"Please enter a valid color in the \"Clock Secondary Ticks Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2909
+msgid "A color that will be used for the border of the clock."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2921
+msgid "Please enter a valid color in the \"Clock Border Color Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2937
+msgid "A color that will be used for the overlay of the clock."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2949
+msgid "Please enter a valid color in the \"Clock Overlay Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2965
+msgid "A color that will be used for the extra time overlay of the clock."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2977
+msgid ""
+"Please enter a valid color in the \"Clock Extra Time Overlay Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:2993
+msgid "The color of the goal event icon."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3005
+msgid "Please enter a valid color in the \"Event Icon Goal Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3021
+msgid "The color of the yellow card event icon."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3033
+msgid "Please enter a valid color in the \"Event Icon Red Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3049
+msgid "The color of the red card event icon."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3061
+msgid "Please enter a valid color in the \"Event Icon Red Card Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3077
+msgid "The color of the subsitution left arrow event icon."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3089
+msgid ""
+"Please enter a valid color in the \"Event Icon Substitution Left Arrow Color"
+"\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3105
+msgid "The color of the subsitution right arrow event icon."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3117
+msgid ""
+"Please enter a valid color in the \"Event Icon Substitution Right Arrow Color"
+"\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3133
+msgid "The color of the default avatar."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3145
+msgid "Please enter a valid color in the \"Default Avatar Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3161
+msgid "The background color of the default avatar."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3173
+msgid ""
+"Please enter a valid color in the \"Default Avatar Background Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3189
+msgid "The color of the default team logo."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3201
+msgid "Please enter a valid color in the \"Default Team Logo Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3217
+msgid "The background color of the default team logo."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3229
+msgid ""
+"Please enter a valid color in the \"Default Team Logo Background Color\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3245
+msgid "The color of the default competition logo."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3257
+msgid ""
+"Please enter a valid color in the \"Default Competition Logo Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3273
+msgid "The background color of the default competition logo."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3285
+msgid ""
+"Please enter a valid color in the \"Default Competition Logo Background Color"
+"\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3301
+msgid "The color of the default trophy type logo."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3313
+msgid ""
+"Please enter a valid color in the \"Default Trophy Type Logo Color\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3329
+msgid "The background color of the trophy type logo."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3341
+msgid ""
+"Please enter a valid color in the \"Default Trophy Type Logo Background Color"
+"\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3354
+#: ../admin/inc/class-dase-menu-options.php:3376
+msgid "The capability required to get access on the \"Players\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3363
+msgid "Please enter a valid capability in the \"Menu Players\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3385
+msgid ""
+"Please enter a valid capability in the \"Menu Player Positions\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3398
+msgid "The capability required to get access on the \"Player Awards\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3407
+msgid "Please enter a valid capability in the \"Menu Player Awards\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3420
+msgid ""
+"The capability required to get access on the \"Player Award Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3429
+msgid ""
+"Please enter a valid capability in the \"Menu Player Award Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3442
+msgid ""
+"The capability required to get access on the \"Unavailable Players\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3451
+msgid ""
+"Please enter a valid capability in the \"Menu Unavailable Players\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3464
+msgid ""
+"The capability required to get access on the \"Unavailable Player Types\" "
+"menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3473
+msgid ""
+"Please enter a valid capability in the \"Menu Unavailable Player Types\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3486
+msgid "The capability required to get access on the \"Injuries\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3495
+msgid "Please enter a valid capability in the \"Menu Injuries\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3508
+msgid "The capability required to get access on the \"Injury Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3517
+msgid "Please enter a valid capability in the \"Menu Injury Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3530
+msgid "The capability required to get access on the \"Staff\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3539
+msgid "Please enter a valid capability in the \"Menu Staff\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3552
+msgid "The capability required to get access on the \"Staff Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3561
+msgid "Please enter a valid capability in the \"Menu Staff Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3574
+msgid "The capability required to get access on the \"Staff Awards\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3583
+msgid "Please enter a valid capability in the \"Menu Staff Awards\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3596
+msgid ""
+"The capability required to get access on the \"Staff Award Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3605
+msgid ""
+"Please enter a valid capability in the \"Menu Staff Award Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3618
+msgid "The capability required to get access on the \"Referees\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3627
+msgid "Please enter a valid capability in the \"Referees\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3640
+msgid "The capability required to get access on the \"Referee Badges\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3649
+msgid "Please enter a valid capability in the \"Menu Referee Badges\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3662
+msgid ""
+"The capability required to get access on the \"Referee Badge Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3671
+msgid ""
+"Please enter a valid capability in the \"Menu Referee Badge Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3684
+msgid "The capability required to get access on the \"Teams\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3693
+msgid "Please enter a valid capability in the \"Menu Teams\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3706
+msgid "The capability required to get access on the \"Squads\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3715
+msgid "Please enter a valid capability in the \"Menu Squads\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3728
+msgid "The capability required to get access on the \"Formations\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3737
+msgid "Please enter a valid capability in the \"Menu Formations\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3750
+msgid "The capability required to get access on the \"Jersey Sets\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3759
+msgid "Please enter a valid capability in the \"Menu Jersey Sets\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3772
+msgid "The capability required to get access on the \"Stadiums\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3781
+msgid "Please enter a valid capability in the \"Menu Stadiums\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3794
+msgid "The capability required to get access on the \"Trophies\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3803
+msgid "Please enter a valid capability in the \"Menu Trophies\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3816
+msgid "The capability required to get access on the \"Trophy Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3825
+msgid "Please enter a valid capability in the \"Trophy Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3838
+msgid ""
+"The capability required to get access on the \"Ranking Transitions\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3847
+msgid "Please enter a valid capability in the \"Ranking Transitions\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3860
+msgid "The capability required to get access on the \"Ranking Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3869
+msgid "Please enter a valid capability in the \"Menu Ranking Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3882
+msgid "The capability required to get access on the \"Matches\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3891
+msgid "Please enter a valid capability in the \"Menu Matches\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3904
+msgid "The capability required to get access on the \"Events\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3913
+msgid "Please enter a valid capability in the \"Menu Events\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3926
+msgid "The capability required to get access on the \"Events Wizard\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3935
+msgid "Please enter a valid capability in the \"Menu Events Wizard\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3948
+msgid "The capability required to get access on the \"Competitions\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3957
+msgid "Please enter a valid capability in the \"Menu Competitions\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3970
+msgid "The capability required to get access on the \"Transfers\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3979
+msgid "Please enter a valid capability in the \"Menu Transfers\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:3992
+msgid "The capability required to get access on the \"Transfer Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4001
+msgid "Please enter a valid capability in the \"Menu Transfer Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4014
+msgid "The capability required to get access on the \"Team Contracts\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4023
+msgid "Please enter a valid capability in the \"Menu Team Contracts\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4036
+msgid ""
+"The capability required to get access on the \"Team Contract Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4045
+msgid ""
+"Please enter a valid capability in the \"Menu Team Contract Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4058
+msgid "The capability required to get access on the \"Agencies\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4067
+msgid "Please enter a valid capability in the \"Menu Agencies\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4080
+msgid "The capability required to get access on the \"Agency Contracts\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4089
+msgid ""
+"Please enter a valid capability in the \"Menu Agency Contracts\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4102
+msgid ""
+"The capability required to get access on the \"Agency Contract Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4111
+msgid ""
+"Please enter a valid capability in the \"Menu Agency Contract Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4124
+msgid ""
+"The capability required to get access on the \"Market Value Transition\" "
+"menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4133
+msgid ""
+"Please enter a valid capability in the \"Menu Market Value Transition\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4146
+msgid "The capability required to get access on the REST API."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4155
+msgid "Please enter a valid capability in the \"REST API\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4168
+#: ../admin/inc/class-dase-menu-options.php:4488
+#: ../admin/inc/class-dase-menu-options.php:4512
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Players\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4179
+msgid "Please enter a valid value in the \"Menu Players\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4192
+#: ../admin/inc/class-dase-menu-options.php:4216
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Player Positions\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4203
+msgid "Please enter a valid value in the \"Menu Player Positions\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4227
+msgid "Please enter a valid value in the \"Menu Player Awards\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4240
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Player Award Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4251
+msgid "Please enter a valid value in the \"Menu Player Award Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4264
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Unavailable Players\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4275
+msgid "Please enter a valid value in the \"Menu Unavailable Players\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4290
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Unavailable Player Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4301
+msgid ""
+"Please enter a valid value in the \"Menu Unavailable Player Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4316
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Injuries\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4327
+msgid "Please enter a valid value in the \"Menu Injuries\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4342
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Injury Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4353
+msgid "Please enter a valid value in the \"Menu Injury Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4367
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Staff\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4378
+msgid "Please enter a valid value in the \"Menu Staff\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4391
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Staff Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4402
+msgid "Please enter a valid value in the \"Menu Staff Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4415
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Staff Awards\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4426
+msgid "Please enter a valid value in the \"Menu Staff Awards\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4439
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Staff Award Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4450
+msgid "Please enter a valid value in the \"Menu Staff Award Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4464
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Referees\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4475
+msgid "Please enter a valid value in the \"Menu Referees\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4499
+msgid "Please enter a valid value in the \"Menu Referee Badges\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4523
+msgid "Please enter a valid value in the \"Menu Referee Badge Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4537
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Teams\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4548
+msgid "Please enter a valid value in the \"Menu Teams\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4561
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Squads\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4572
+msgid "Please enter a valid value in the \"Menu Squads\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4585
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Formations\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4596
+msgid "Please enter a valid value in the \"Menu Formations\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4609
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Jersey Sets\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4620
+msgid "Please enter a valid value in the \"Menu Jersey Sets\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4633
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Stadiums\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4644
+msgid "Please enter a valid value in the \"Menu Stadiums\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4657
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Trophies\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4668
+msgid "Please enter a valid value in the \"Menu Trophies\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4681
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Trophy Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4692
+msgid "Please enter a valid value in the \"Menu Trophy Ty\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4705
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Ranking Transitions\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4716
+msgid "Please enter a valid value in the \"Menu Ranking Transitions\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4729
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Ranking Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4740
+msgid "Please enter a valid value in the \"Menu Ranking Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4753
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Matches\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4764
+msgid "Please enter a valid value in the \"Menu Matches\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4777
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Events\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4788
+msgid "Please enter a valid value in the \"Menu Events\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4801
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Competitions\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4812
+msgid "Please enter a valid value in the \"Menu Competitions\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4825
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Transfers\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4836
+msgid "Please enter a valid value in the \"Menu Transfers\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4849
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Transfer Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4860
+msgid "Please enter a valid value in the \"Menu Transfer Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4873
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Team Contracts\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4884
+msgid "Please enter a valid value in the \"Menu Team Contracts\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4897
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Team Contract Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4908
+msgid "Please enter a valid value in the \"Menu Team Contract Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4921
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Agencies\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4932
+msgid "Please enter a valid value in the \"Menu Agencies\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4945
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Agency Contracts\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4956
+msgid "Please enter a valid value in the \"Menu Agency Contracts\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4969
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Agency Contract Types\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4980
+msgid ""
+"Please enter a valid value in the \"Menu Agency Contract Types\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:4993
+msgid ""
+"This options determines the number of elements per page displayed in the "
+"\"Market Value Transitions\" menu."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5004
+msgid ""
+"Please enter a valid value in the \"Menu Market Value Transitions\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5018
+#: ../admin/inc/class-dase-menu-options.php:5042
+msgid "The number of decimals displayed in the money format."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5029
+msgid ""
+"Please enter a valid number of decimals in the \"Money Format Decimals\" "
+"field."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5053
+msgid ""
+"Please enter a valid decimal separator in the \"Money Format Decimal "
+"Separator\" field."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5066
+msgid "The thousands separator displayed in the money format."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5077
+msgid ""
+"Please enter a valid decimal separator in the \"Money Format Thousands "
+"Separator\" field."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5093
+msgid ""
+"This option determines if the values over one million should be simplified."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5108
+msgid "The million symbol in the money format."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5119
+msgid ""
+"Please enter a valid million symbol in the \"Money Format Million Symbol\" "
+"field."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5135
+msgid ""
+"This option determines if the values over one thousand should be simplified."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5150
+msgid "The thousands symbol in the money format."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5161
+msgid ""
+"Please enter a valid thousands symbol in the \"Money Format Thousands Symbol"
+"\" field."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5174
+msgid "The currency of the money format."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5185
+msgid "Please enter a valid currency in the \"Money Format Currency\" field."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5201
+msgid "The currency position in the money format."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5216
+msgid "Meter"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5217
+msgid "Inch"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5219
+msgid "The measurement unit used for the height."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5237
+msgid ""
+"Select \"Yes\" to enable a custom \"Max Execution Time Value\" on resource "
+"intensive scripts."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5252
+msgid ""
+"This value determines the maximum number of seconds allowed to execute "
+"resource intensive scripts."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5263
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"Max Execution Time Value\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5279
+msgid ""
+"Select \"Yes\" to enable a custom \"Memory Limit Value\" on resource "
+"intensive scripts."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5294
+msgid ""
+"This value determines the PHP memory limit in megabytes allowed to execute "
+"resource intensive scripts."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5305
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"Memory Limit Value\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5318
+#: ../admin/inc/class-dase-menu-options.php:5337
+msgid "Cookies"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5320
+#: ../admin/inc/class-dase-menu-utility.php:32
+#: ../admin/inc/class-dase-menu-utility.php:137
+#: ../admin/inc/class-dase-menu-utility.php:205
+#: ../admin/inc/class-dase-menu-utility.php:240
+#: ../admin/inc/class-dase-menu-utility.php:275
+#: ../admin/inc/class-dase-menu-utility.php:310
+#: ../admin/inc/class-dase-menu-utility.php:345
+#: ../admin/inc/class-dase-menu-utility.php:380
+#: ../admin/inc/class-dase-menu-utility.php:487
+#: ../admin/inc/class-dase-menu-utility.php:721
+#: ../admin/inc/class-dase-menu-utility.php:849 ../class-dase-ajax.php:256
+#: ../class-dase-ajax.php:308 ../class-dase-ajax.php:606
+#: ../class-dase-ajax.php:860 ../class-dase-ajax.php:1070
+#: ../class-dase-ajax.php:1153 ../class-dase-ajax.php:1269
+#: ../class-dase-ajax.php:1322 ../class-dase-ajax.php:2351
+#: ../shared/class-dase-shared.php:729 ../shared/class-dase-shared.php:1271
+#: ../shared/class-dase-shared.php:1477 ../shared/class-dase-shared.php:1609
+#: ../shared/class-dase-shared.php:9371 ../shared/class-dase-shared.php:9433
+#: ../shared/class-dase-shared.php:9481 ../shared/class-dase-shared.php:9522
+#: ../shared/class-dase-shared.php:9526
+msgid "None"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5322
+msgid ""
+"This option determines the type of authentication required to get access on "
+"the REST API endpoints of type \"Read\"."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5340
+msgid ""
+"This option determines the type of authentication required to get access on "
+"the REST API endpoints of type \"Create\"."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5355
+msgid "The REST API key."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5366
+msgid "Please enter a REST API Key length with at least 128 characters."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5379
+msgid "The top margin of the blocks."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5390
+msgid ""
+"Please enter a number from 0 to 1000000 in the \"Block Margin Top\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5403
+msgid "The bottom margin of the blocks."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5414
+msgid ""
+"Please enter a number from 0 to 1000000 in the \"Block Margin Bottom\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5427
+msgid ""
+"When the browser viewport width goes below the value in pixels defined with "
+"this option the first responsive version of the layout elements generated by "
+"the plugin will be enabled."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5438
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"Responsive Breakpoint 1\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5451
+msgid ""
+"When the browser viewport width goes below the value in pixels defined with "
+"this option the second responsive version of the layout elements generated "
+"by the plugin will be enabled."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5462
+msgid ""
+"Please enter a number from 1 to 1000000 in the \"Responsive Breakpoint 2\" "
+"option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5475
+msgid ""
+"The font family of the text displayed in all the layout elements generated "
+"by the plugin."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5484
+msgid "Please enter a valid font family in the \"Font Family\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5497
+msgid "The URL of the Google Font loaded by the plugin in the front-end."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-options.php:5507
+msgid "Please enter a valid URL in the \"Google Font 1\" option."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-utility.php:171
+#: ../admin/inc/class-dase-menu-utility.php:794 ../class-dase-ajax.php:540
+#: ../shared/class-dase-shared.php:1498 ../shared/class-dase-shared.php:1535
+#: ../shared/class-dase-shared.php:1571 ../shared/class-dase-shared.php:1766
+#: ../shared/class-dase-shared.php:1840 ../shared/class-dase-shared.php:1862
+#: ../shared/class-dase-shared.php:7764 ../shared/class-dase-shared.php:9344
+#: ../shared/class-dase-shared.php:9388 ../shared/class-dase-shared.php:9555
+#: ../shared/class-dase-shared.php:9622 ../shared/class-dase-shared.php:9704
+#: ../shared/class-dase-shared.php:9791 ../shared/class-dase-shared.php:10002
+msgid "N/A"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-utility.php:754
+msgid "First Half"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-utility.php:760
+msgid "Second Half"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-utility.php:766
+msgid "First Half Extra Time"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-utility.php:772
+msgid "Second Half Extra Time"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-utility.php:778
+msgid "Penalty"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu-utility.php:809 ../class-dase-ajax.php:552
+#: ../shared/class-dase-shared.php:9400
+msgid "Both"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:494
+msgid "items"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:880
+msgid "*"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:1615 ../admin/inc/class-dase-menu.php:1649
+#: ../admin/inc/class-dase-menu.php:2442
+msgid "The \"Date of Birth\" must be before the \"Date of Death\"."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:1690
+msgid "This match is associated with one or more events and can't be edited."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:1700 ../admin/inc/class-dase-menu.php:1707
+#: ../admin/inc/class-dase-menu.php:1718 ../admin/inc/class-dase-menu.php:1725
+#: ../admin/inc/class-dase-menu.php:1833 ../admin/inc/class-dase-menu.php:1845
+#: ../admin/inc/class-dase-menu.php:1851
+msgid "You can't use this player multiple times"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:1739 ../admin/inc/class-dase-menu.php:1747
+#: ../admin/inc/class-dase-menu.php:1866
+msgid "You can't use this staff multiple times"
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:1773
+msgid "Team 1 is not present in the selected competition."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:1786
+msgid "Team 2 is not present in the selected competition."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:1794
+msgid "You can't select multiple times the same team."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:1909
+msgid ""
+"This competition is already associated with a match and can't be edited."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:1920
+msgid ""
+"The number of rounds of an elimination competition should be between 1 and 7."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:1982 ../rest/class-dase-rest.php:3100
+msgid "The \"Goal\" event can only be associated with a player."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:1992 ../admin/inc/class-dase-menu.php:2015
+#: ../admin/inc/class-dase-menu.php:2048 ../rest/class-dase-rest.php:3110
+#: ../rest/class-dase-rest.php:3133 ../rest/class-dase-rest.php:3166
+msgid ""
+"The selected player should be present in the team associated with the event."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2006 ../rest/class-dase-rest.php:3124
+msgid ""
+"The \"Yellow Card\" event can only be associated with a player or with a "
+"staff."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2025 ../admin/inc/class-dase-menu.php:2058
+#: ../rest/class-dase-rest.php:3143 ../rest/class-dase-rest.php:3176
+msgid ""
+"The selected staff should be present in the team associated with the event."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2039 ../rest/class-dase-rest.php:3157
+msgid ""
+"The \"Red Card\" event can only be associated with a player or with a staff."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2074 ../rest/class-dase-rest.php:3192
+msgid ""
+"The \"Substitution\" event can only be associated with a Player Substitution "
+"Our and a Player Substitution In."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2084 ../rest/class-dase-rest.php:3202
+msgid ""
+"The selected \"Player Substitution Out\" should be present in the team "
+"associated with the event."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2094 ../rest/class-dase-rest.php:3212
+msgid ""
+"The selected \"Player Substitution In\" should be present in the team "
+"associated with the event."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2107 ../rest/class-dase-rest.php:3225
+msgid "The first half time should be a value between between 1 and 45."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2113 ../rest/class-dase-rest.php:3231
+msgid "The second half time should be a value between between 1 and 45."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2119 ../rest/class-dase-rest.php:3237
+msgid "The first half extra time should be a value between between 1 and 15."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2125 ../rest/class-dase-rest.php:3243
+msgid "The second half extra time should be a value between between 1 and 15."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2131 ../rest/class-dase-rest.php:3249
+msgid "The penalty time should be a value between between 1 and 30."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2140 ../rest/class-dase-rest.php:3258
+msgid "The additional time should be a value between 0 and 60."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2145 ../rest/class-dase-rest.php:3263
+msgid "Please enter a valid description."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2180 ../admin/inc/class-dase-menu.php:2237
+#: ../admin/inc/class-dase-menu.php:2294 ../admin/inc/class-dase-menu.php:2351
+#: ../admin/inc/class-dase-menu.php:2408
+msgid "The \"Start Date\" must be before the \"End Date\"."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2204
+msgid "Another team contract of the same player exists in the same period."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2261
+msgid "Another agency contract of the same player exists in the same period."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2318
+msgid ""
+"Another unavailable player of the same player exists in the same period."
+msgstr ""
+
+#: ../admin/inc/class-dase-menu.php:2375
+msgid "Another injury of the same player exists in the same period."
+msgstr ""
+
+#: ../admin/view/agencies.php:18 ../admin/view/agency_contract_types.php:18
+#: ../admin/view/agency_contracts.php:18 ../admin/view/competitions.php:18
+#: ../admin/view/events.php:18 ../admin/view/formations.php:18
+#: ../admin/view/injuries.php:18 ../admin/view/injury_types.php:18
+#: ../admin/view/jersey_sets.php:18
+#: ../admin/view/market_value_transitions.php:18 ../admin/view/matches.php:18
+#: ../admin/view/player_award_types.php:18 ../admin/view/player_awards.php:18
+#: ../admin/view/player_positions.php:18 ../admin/view/players.php:18
+#: ../admin/view/ranking_transitions.php:18 ../admin/view/ranking_types.php:18
+#: ../admin/view/referee_badge_types.php:18
+#: ../admin/view/referee_badges.php:18 ../admin/view/referees.php:18
+#: ../admin/view/squads.php:18 ../admin/view/stadiums.php:18
+#: ../admin/view/staff.php:18 ../admin/view/staff_award_types.php:18
+#: ../admin/view/staff_awards.php:18 ../admin/view/staff_types.php:18
+#: ../admin/view/team_contract_types.php:18
+#: ../admin/view/team_contracts.php:18 ../admin/view/teams.php:18
+#: ../admin/view/transfer_types.php:18 ../admin/view/transfers.php:18
+#: ../admin/view/trophies.php:18 ../admin/view/trophy_types.php:18
+#: ../admin/view/unavailable_player_types.php:18
+#: ../admin/view/unavailable_players.php:18 ../blocks/src/init.php:82
+msgid "Soccer Engine"
+msgstr ""
+
+#: ../admin/view/agencies.php:19 ../admin/view/agency_contracts.php:48
+#: ../admin/view/agency_contracts.php:98 ../class-dase-ajax.php:2279
+#: ../class-dase-ajax.php:2307 ../public/class-dase-public.php:2547
+#: ../shared/class-dase-shared.php:3800 ../shared/class-dase-shared.php:3986
+msgid "Agency"
+msgstr ""
+
+#: ../admin/view/agencies.php:21
+msgid "Create New Agency"
+msgstr ""
+
+#: ../admin/view/agencies.php:22
+msgid "Edit Agency"
+msgstr ""
+
+#: ../admin/view/agencies.php:23
+msgid "Add Agency"
+msgstr ""
+
+#: ../admin/view/agencies.php:24
+msgid "Update Agency"
+msgstr ""
+
+#: ../admin/view/agencies.php:26 ../admin/view/agency_contract_types.php:26
+#: ../admin/view/agency_contracts.php:26 ../admin/view/competitions.php:26
+#: ../admin/view/events.php:26 ../admin/view/formations.php:26
+#: ../admin/view/injuries.php:26 ../admin/view/injury_types.php:26
+#: ../admin/view/jersey_sets.php:26
+#: ../admin/view/market_value_transitions.php:26 ../admin/view/matches.php:26
+#: ../admin/view/player_award_types.php:26 ../admin/view/player_awards.php:26
+#: ../admin/view/player_positions.php:26 ../admin/view/players.php:27
+#: ../admin/view/ranking_transitions.php:26 ../admin/view/ranking_types.php:26
+#: ../admin/view/referee_badge_types.php:26
+#: ../admin/view/referee_badges.php:26 ../admin/view/referees.php:26
+#: ../admin/view/squads.php:26 ../admin/view/stadiums.php:26
+#: ../admin/view/staff.php:26 ../admin/view/staff_award_types.php:26
+#: ../admin/view/staff_awards.php:26 ../admin/view/staff_types.php:26
+#: ../admin/view/team_contract_types.php:26
+#: ../admin/view/team_contracts.php:26 ../admin/view/teams.php:26
+#: ../admin/view/transfer_types.php:26 ../admin/view/transfers.php:26
+#: ../admin/view/trophies.php:26 ../admin/view/trophy_types.php:26
+#: ../admin/view/unavailable_player_types.php:26
+#: ../admin/view/unavailable_players.php:26
+msgid "Perform your Search"
+msgstr ""
+
+#: ../admin/view/agencies.php:27 ../admin/view/agency_contract_types.php:27
+#: ../admin/view/agency_contracts.php:27 ../admin/view/competitions.php:27
+#: ../admin/view/events.php:27 ../admin/view/formations.php:27
+#: ../admin/view/injuries.php:27 ../admin/view/injury_types.php:27
+#: ../admin/view/jersey_sets.php:27
+#: ../admin/view/market_value_transitions.php:27 ../admin/view/matches.php:27
+#: ../admin/view/player_award_types.php:27 ../admin/view/player_awards.php:27
+#: ../admin/view/player_positions.php:27 ../admin/view/players.php:28
+#: ../admin/view/ranking_transitions.php:27 ../admin/view/ranking_types.php:27
+#: ../admin/view/referee_badge_types.php:27
+#: ../admin/view/referee_badges.php:27 ../admin/view/referees.php:27
+#: ../admin/view/squads.php:27 ../admin/view/stadiums.php:27
+#: ../admin/view/staff.php:27 ../admin/view/staff_award_types.php:27
+#: ../admin/view/staff_awards.php:27 ../admin/view/staff_types.php:27
+#: ../admin/view/team_contract_types.php:27
+#: ../admin/view/team_contracts.php:27 ../admin/view/teams.php:27
+#: ../admin/view/transfer_types.php:27 ../admin/view/transfers.php:27
+#: ../admin/view/trophies.php:27 ../admin/view/trophy_types.php:27
+#: ../admin/view/unavailable_player_types.php:27
+#: ../admin/view/unavailable_players.php:27
+msgid "There are no results that match your filter."
+msgstr ""
+
+#: ../admin/view/agencies.php:28
+msgid "The agency has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/agencies.php:29
+msgid "The agency has been successfully added."
+msgstr ""
+
+#: ../admin/view/agencies.php:30
+msgid "The agency has been successfully updated."
+msgstr ""
+
+#: ../admin/view/agencies.php:36 ../admin/view/agency_contract_types.php:36
+#: ../admin/view/agency_contracts.php:37 ../admin/view/competitions.php:37
+#: ../admin/view/events.php:37 ../admin/view/formations.php:36
+#: ../admin/view/injuries.php:37 ../admin/view/injury_types.php:36
+#: ../admin/view/jersey_sets.php:36
+#: ../admin/view/market_value_transitions.php:36 ../admin/view/matches.php:37
+#: ../admin/view/player_award_types.php:36 ../admin/view/player_awards.php:36
+#: ../admin/view/player_positions.php:36 ../admin/view/players.php:38
+#: ../admin/view/ranking_transitions.php:36 ../admin/view/ranking_types.php:36
+#: ../admin/view/referee_badge_types.php:36
+#: ../admin/view/referee_badges.php:37 ../admin/view/referees.php:37
+#: ../admin/view/squads.php:37 ../admin/view/stadiums.php:36
+#: ../admin/view/staff.php:37 ../admin/view/staff_award_types.php:36
+#: ../admin/view/staff_awards.php:36 ../admin/view/staff_types.php:36
+#: ../admin/view/team_contract_types.php:36
+#: ../admin/view/team_contracts.php:37 ../admin/view/teams.php:36
+#: ../admin/view/transfer_types.php:36 ../admin/view/transfers.php:36
+#: ../admin/view/trophies.php:36 ../admin/view/trophy_types.php:36
+#: ../admin/view/unavailable_player_types.php:36
+#: ../admin/view/unavailable_players.php:37
+msgid "ID"
+msgstr ""
+
+#: ../admin/view/agencies.php:37
+msgid "The ID of the Agency."
+msgstr ""
+
+#: ../admin/view/agencies.php:41 ../admin/view/agencies.php:59
+#: ../admin/view/agency_contract_types.php:41
+#: ../admin/view/agency_contract_types.php:59
+#: ../admin/view/competitions.php:42 ../admin/view/competitions.php:61
+#: ../admin/view/formations.php:41 ../admin/view/formations.php:59
+#: ../admin/view/injury_types.php:41 ../admin/view/injury_types.php:59
+#: ../admin/view/jersey_sets.php:41 ../admin/view/jersey_sets.php:59
+#: ../admin/view/matches.php:42 ../admin/view/matches.php:79
+#: ../admin/view/player_award_types.php:41
+#: ../admin/view/player_award_types.php:59
+#: ../admin/view/player_positions.php:41 ../admin/view/player_positions.php:64
+#: ../admin/view/ranking_types.php:41 ../admin/view/ranking_types.php:59
+#: ../admin/view/referee_badge_types.php:41
+#: ../admin/view/referee_badge_types.php:59 ../admin/view/squads.php:42
+#: ../admin/view/squads.php:60 ../admin/view/stadiums.php:41
+#: ../admin/view/stadiums.php:59 ../admin/view/staff_award_types.php:41
+#: ../admin/view/staff_award_types.php:59 ../admin/view/staff_types.php:41
+#: ../admin/view/staff_types.php:59 ../admin/view/team_contract_types.php:41
+#: ../admin/view/team_contract_types.php:59 ../admin/view/teams.php:41
+#: ../admin/view/teams.php:60 ../admin/view/transfer_types.php:41
+#: ../admin/view/transfer_types.php:59 ../admin/view/trophy_types.php:41
+#: ../admin/view/trophy_types.php:59
+#: ../admin/view/unavailable_player_types.php:41
+#: ../admin/view/unavailable_player_types.php:59
+#: ../public/class-dase-public.php:2533 ../public/class-dase-public.php:2594
+#: ../public/class-dase-public.php:2654
+msgid "Name"
+msgstr ""
+
+#: ../admin/view/agencies.php:42 ../admin/view/agencies.php:60
+msgid "The name of the agency."
+msgstr ""
+
+#: ../admin/view/agencies.php:46 ../admin/view/agencies.php:75
+#: ../admin/view/agency_contract_types.php:46
+#: ../admin/view/agency_contract_types.php:75
+#: ../admin/view/competitions.php:77 ../admin/view/events.php:280
+#: ../admin/view/formations.php:46 ../admin/view/formations.php:75
+#: ../admin/view/injury_types.php:46 ../admin/view/injury_types.php:75
+#: ../admin/view/jersey_sets.php:46 ../admin/view/jersey_sets.php:75
+#: ../admin/view/matches.php:95 ../admin/view/player_award_types.php:46
+#: ../admin/view/player_award_types.php:75
+#: ../admin/view/player_positions.php:46 ../admin/view/player_positions.php:80
+#: ../admin/view/ranking_types.php:46 ../admin/view/ranking_types.php:75
+#: ../admin/view/referee_badge_types.php:46
+#: ../admin/view/referee_badge_types.php:75 ../admin/view/squads.php:47
+#: ../admin/view/squads.php:76 ../admin/view/stadiums.php:46
+#: ../admin/view/stadiums.php:75 ../admin/view/staff_award_types.php:46
+#: ../admin/view/staff_award_types.php:75 ../admin/view/staff_types.php:46
+#: ../admin/view/staff_types.php:75 ../admin/view/team_contract_types.php:46
+#: ../admin/view/team_contract_types.php:75 ../admin/view/teams.php:76
+#: ../admin/view/transfer_types.php:46 ../admin/view/transfer_types.php:75
+#: ../admin/view/trophy_types.php:46 ../admin/view/trophy_types.php:75
+#: ../admin/view/unavailable_player_types.php:46
+#: ../admin/view/unavailable_player_types.php:75
+msgid "Description"
+msgstr ""
+
+#: ../admin/view/agencies.php:47 ../admin/view/agencies.php:76
+msgid "The description of the agency."
+msgstr ""
+
+#: ../admin/view/agencies.php:66 ../admin/view/agency_contract_types.php:66
+#: ../admin/view/competitions.php:68 ../admin/view/formations.php:66
+#: ../admin/view/injury_types.php:66 ../admin/view/jersey_sets.php:66
+#: ../admin/view/matches.php:86 ../admin/view/player_award_types.php:66
+#: ../admin/view/player_positions.php:71 ../admin/view/ranking_types.php:66
+#: ../admin/view/referee_badge_types.php:66 ../admin/view/referees.php:67
+#: ../admin/view/squads.php:67 ../admin/view/stadiums.php:66
+#: ../admin/view/staff.php:73 ../admin/view/staff_award_types.php:66
+#: ../admin/view/staff_types.php:66 ../admin/view/team_contract_types.php:66
+#: ../admin/view/teams.php:67 ../admin/view/transfer_types.php:66
+#: ../admin/view/trophy_types.php:66
+#: ../admin/view/unavailable_player_types.php:66
+msgid "Please enter a valid value in the \"Name\" field."
+msgstr ""
+
+#: ../admin/view/agencies.php:82 ../admin/view/agency_contract_types.php:82
+#: ../admin/view/competitions.php:84 ../admin/view/formations.php:82
+#: ../admin/view/injury_types.php:82 ../admin/view/jersey_sets.php:82
+#: ../admin/view/matches.php:102 ../admin/view/player_award_types.php:82
+#: ../admin/view/player_positions.php:87 ../admin/view/ranking_types.php:82
+#: ../admin/view/referee_badge_types.php:82 ../admin/view/referees.php:83
+#: ../admin/view/squads.php:83 ../admin/view/stadiums.php:82
+#: ../admin/view/staff_award_types.php:82 ../admin/view/staff_types.php:82
+#: ../admin/view/team_contract_types.php:82 ../admin/view/teams.php:83
+#: ../admin/view/transfer_types.php:82 ../admin/view/trophy_types.php:82
+#: ../admin/view/unavailable_player_types.php:82
+msgid "Please enter a valid value in the \"Description\" field."
+msgstr ""
+
+#: ../admin/view/agencies.php:91 ../admin/view/teams.php:191
+msgid "Full Name"
+msgstr ""
+
+#: ../admin/view/agencies.php:92
+msgid "The full name of the agency."
+msgstr ""
+
+#: ../admin/view/agencies.php:98 ../admin/view/teams.php:198
+msgid "Please enter a valid value in the \"Full Name\" field."
+msgstr ""
+
+#: ../admin/view/agencies.php:107 ../admin/view/teams.php:207
+msgid "Address"
+msgstr ""
+
+#: ../admin/view/agencies.php:108
+msgid "The address of the agency."
+msgstr ""
+
+#: ../admin/view/agencies.php:114 ../admin/view/teams.php:214
+msgid "Please enter a valid value in the \"Address\" field."
+msgstr ""
+
+#: ../admin/view/agencies.php:123
+msgid "Telephone Number"
+msgstr ""
+
+#: ../admin/view/agencies.php:124
+msgid "The telephone number of the agency."
+msgstr ""
+
+#: ../admin/view/agencies.php:130
+msgid "Please enter a valid value in the \"Telephone\" field."
+msgstr ""
+
+#: ../admin/view/agencies.php:139
+msgid "Fax Number"
+msgstr ""
+
+#: ../admin/view/agencies.php:140
+msgid "The fax number of the agency."
+msgstr ""
+
+#: ../admin/view/agencies.php:146 ../admin/view/teams.php:246
+msgid "Please enter a valid value in the \"Fax\" field."
+msgstr ""
+
+#: ../admin/view/agencies.php:155
+msgid "Website"
+msgstr ""
+
+#: ../admin/view/agencies.php:156
+msgid "The website of the agency."
+msgstr ""
+
+#: ../admin/view/agencies.php:162
+msgid "Please enter a valid value in the \"Website\" field."
+msgstr ""
+
+#: ../admin/view/agency_contract_types.php:19
+#: ../admin/view/agency_contracts.php:54 ../class-dase-ajax.php:2311
+#: ../shared/class-dase-shared.php:3996
+msgid "Agency Contract Type"
+msgstr ""
+
+#: ../admin/view/agency_contract_types.php:21
+msgid "Create New Agency Contract Type"
+msgstr ""
+
+#: ../admin/view/agency_contract_types.php:22
+msgid "Edit Agency Contract Type"
+msgstr ""
+
+#: ../admin/view/agency_contract_types.php:23
+msgid "Add Agency Contract Type"
+msgstr ""
+
+#: ../admin/view/agency_contract_types.php:24
+msgid "Update Agency Contract Type"
+msgstr ""
+
+#: ../admin/view/agency_contract_types.php:28
+msgid "The agency contract type has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/agency_contract_types.php:29
+msgid "The agency contract type has been successfully added."
+msgstr ""
+
+#: ../admin/view/agency_contract_types.php:30
+msgid "The agency contract type has been successfully updated."
+msgstr ""
+
+#: ../admin/view/agency_contract_types.php:37
+msgid "The ID of the agency contract type."
+msgstr ""
+
+#: ../admin/view/agency_contract_types.php:42
+#: ../admin/view/agency_contract_types.php:60
+msgid "The name of the agency contract type."
+msgstr ""
+
+#: ../admin/view/agency_contract_types.php:47
+#: ../admin/view/agency_contract_types.php:76
+msgid "The description of the agency contract type."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:19
+msgid "Agency Contract"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:21
+msgid "Create New Agency Contract"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:22
+msgid "Edit Agency Contract"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:23
+msgid "Add Agency Contract"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:24
+msgid "Update Agency Contract"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:28 ../admin/view/team_contracts.php:28
+msgid "The contract has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:29 ../admin/view/team_contracts.php:29
+msgid "The contract has been successfully added."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:30 ../admin/view/team_contracts.php:30
+msgid "The contract has been successfully updated."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:38 ../admin/view/team_contracts.php:38
+msgid "The ID of the contract."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:42 ../admin/view/agency_contracts.php:80
+#: ../admin/view/events.php:168 ../admin/view/injuries.php:42
+#: ../admin/view/injuries.php:74 ../admin/view/jersey_sets.php:104
+#: ../admin/view/market_value_transitions.php:41
+#: ../admin/view/market_value_transitions.php:67 ../admin/view/matches.php:441
+#: ../admin/view/player_awards.php:41 ../admin/view/player_awards.php:67
+#: ../admin/view/squads.php:104 ../admin/view/team_contracts.php:42
+#: ../admin/view/team_contracts.php:86 ../admin/view/transfers.php:41
+#: ../admin/view/transfers.php:85 ../admin/view/unavailable_players.php:42
+#: ../admin/view/unavailable_players.php:74 ../class-dase-ajax.php:1454
+#: ../class-dase-ajax.php:1498 ../class-dase-ajax.php:1539
+#: ../class-dase-ajax.php:1599 ../class-dase-ajax.php:1673
+#: ../class-dase-ajax.php:1713 ../class-dase-ajax.php:1805
+#: ../class-dase-ajax.php:1929 ../class-dase-ajax.php:1997
+#: ../class-dase-ajax.php:2142 ../class-dase-ajax.php:2186
+#: ../class-dase-ajax.php:2243 ../class-dase-ajax.php:2303
+#: ../shared/class-dase-shared.php:2038 ../shared/class-dase-shared.php:2347
+#: ../shared/class-dase-shared.php:2624 ../shared/class-dase-shared.php:2803
+#: ../shared/class-dase-shared.php:3002 ../shared/class-dase-shared.php:3701
+#: ../shared/class-dase-shared.php:3976 ../shared/class-dase-shared.php:4190
+#: ../shared/class-dase-shared.php:5208 ../shared/class-dase-shared.php:5502
+#: ../shared/class-dase-shared.php:5657 ../shared/class-dase-shared.php:5977
+msgid "Player"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:43 ../admin/view/agency_contracts.php:81
+#: ../admin/view/market_value_transitions.php:42
+#: ../admin/view/market_value_transitions.php:68
+#: ../admin/view/player_awards.php:42 ../admin/view/player_awards.php:68
+#: ../admin/view/team_contracts.php:43 ../admin/view/team_contracts.php:87
+#: ../admin/view/transfers.php:42 ../admin/view/transfers.php:86
+msgid "The player."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:49
+msgid "The agency of the player."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:55
+#: ../admin/view/agency_contracts.php:117 ../admin/view/team_contracts.php:55
+#: ../admin/view/team_contracts.php:123
+msgid "The contract type."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:60
+#: ../admin/view/agency_contracts.php:134 ../admin/view/injuries.php:54
+#: ../admin/view/injuries.php:106 ../admin/view/referee_badges.php:54
+#: ../admin/view/referee_badges.php:109 ../admin/view/team_contracts.php:60
+#: ../admin/view/team_contracts.php:140
+#: ../admin/view/unavailable_players.php:54
+#: ../admin/view/unavailable_players.php:110 ../class-dase-ajax.php:1462
+#: ../class-dase-ajax.php:2150 ../class-dase-ajax.php:2255
+#: ../class-dase-ajax.php:2315 ../shared/class-dase-shared.php:2823
+#: ../shared/class-dase-shared.php:3022 ../shared/class-dase-shared.php:3734
+#: ../shared/class-dase-shared.php:4006
+msgid "Start Date"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:61
+#: ../admin/view/agency_contracts.php:135 ../admin/view/team_contracts.php:61
+#: ../admin/view/team_contracts.php:141
+msgid "The start date of the contract."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:66
+#: ../admin/view/agency_contracts.php:150 ../admin/view/injuries.php:60
+#: ../admin/view/injuries.php:122 ../admin/view/referee_badges.php:60
+#: ../admin/view/referee_badges.php:125 ../admin/view/team_contracts.php:66
+#: ../admin/view/team_contracts.php:156
+#: ../admin/view/unavailable_players.php:60
+#: ../admin/view/unavailable_players.php:126 ../class-dase-ajax.php:1466
+#: ../class-dase-ajax.php:2154 ../class-dase-ajax.php:2259
+#: ../shared/class-dase-shared.php:2833 ../shared/class-dase-shared.php:3032
+#: ../shared/class-dase-shared.php:3745 ../shared/class-dase-shared.php:4016
+msgid "End Date"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:67
+#: ../admin/view/agency_contracts.php:151 ../admin/view/team_contracts.php:67
+#: ../admin/view/team_contracts.php:157
+msgid "The end date of the contract."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:89 ../admin/view/events.php:177
+#: ../admin/view/injuries.php:82 ../admin/view/market_value_transitions.php:76
+#: ../admin/view/player_awards.php:76 ../admin/view/transfers.php:94
+msgid "Please enter a valid value in the \"Player\" field."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:99
+msgid "The agency."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:107
+msgid "Please enter a valid value in the \"Agency\" field."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:116 ../admin/view/team_contracts.php:54
+#: ../admin/view/team_contracts.php:122
+msgid "Contract Type"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:125
+msgid "Please enter a valid value in the \"Agency Contract Type\" field."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:141 ../admin/view/referee_badges.php:116
+#: ../admin/view/team_contracts.php:147
+msgid "Please enter a valid value in the \"Start Date\" field."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:157 ../admin/view/referee_badges.php:132
+#: ../admin/view/team_contracts.php:163
+msgid "Please enter a valid value in the \"End Date\" field."
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:169 ../admin/view/injuries.php:151
+#: ../admin/view/market_value_transitions.php:120
+#: ../admin/view/player_awards.php:130
+#: ../admin/view/unavailable_players.php:145
+msgid "Please add at least one player with the"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:174
+#: ../admin/view/agency_contracts.php:184
+#: ../admin/view/agency_contracts.php:194 ../admin/view/events.php:298
+#: ../admin/view/events.php:308 ../admin/view/events_wizard.php:412
+#: ../admin/view/injuries.php:146 ../admin/view/injuries.php:156
+#: ../admin/view/market_value_transitions.php:125
+#: ../admin/view/matches.php:421 ../admin/view/player_awards.php:125
+#: ../admin/view/player_awards.php:135 ../admin/view/players.php:299
+#: ../admin/view/ranking_transitions.php:148
+#: ../admin/view/ranking_transitions.php:158
+#: ../admin/view/referee_badges.php:149 ../admin/view/referee_badges.php:159
+#: ../admin/view/staff.php:265 ../admin/view/staff_awards.php:127
+#: ../admin/view/staff_awards.php:137 ../admin/view/team_contracts.php:196
+#: ../admin/view/team_contracts.php:206 ../admin/view/team_contracts.php:216
+#: ../admin/view/transfers.php:197 ../admin/view/transfers.php:207
+#: ../admin/view/transfers.php:217 ../admin/view/trophies.php:127
+#: ../admin/view/trophies.php:137 ../admin/view/unavailable_players.php:150
+#: ../admin/view/unavailable_players.php:160
+msgid "menu"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:179
+msgid "Please add at least one contract type with the"
+msgstr ""
+
+#: ../admin/view/agency_contracts.php:189
+msgid "Please add at least one agency with the"
+msgstr ""
+
+#: ../admin/view/competitions.php:19 ../admin/view/matches.php:111
+#: ../class-dase-ajax.php:1845 ../shared/class-dase-shared.php:6145
+msgid "Competition"
+msgstr ""
+
+#: ../admin/view/competitions.php:21
+msgid "Create Competition"
+msgstr ""
+
+#: ../admin/view/competitions.php:22
+msgid "Edit Competition"
+msgstr ""
+
+#: ../admin/view/competitions.php:23
+msgid "Add Competition"
+msgstr ""
+
+#: ../admin/view/competitions.php:24
+msgid "Update Competition"
+msgstr ""
+
+#: ../admin/view/competitions.php:28
+msgid "The competition has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/competitions.php:29
+msgid "The competition has been successfully added."
+msgstr ""
+
+#: ../admin/view/competitions.php:30
+msgid "The competition has been successfully updated."
+msgstr ""
+
+#: ../admin/view/competitions.php:38
+msgid "The ID of the competition."
+msgstr ""
+
+#: ../admin/view/competitions.php:43 ../admin/view/competitions.php:62
+msgid "The name of the competition."
+msgstr ""
+
+#: ../admin/view/competitions.php:47 ../admin/view/competitions.php:128
+#: ../admin/view/matches.php:162 ../admin/view/teams.php:46
+#: ../admin/view/teams.php:110
+msgid "Type"
+msgstr ""
+
+#: ../admin/view/competitions.php:48 ../admin/view/competitions.php:129
+msgid "The type of competition."
+msgstr ""
+
+#: ../admin/view/competitions.php:78
+msgid "The description of the competition."
+msgstr ""
+
+#: ../admin/view/competitions.php:93 ../admin/view/teams.php:92
+#: ../admin/view/trophy_types.php:91
+msgid "Logo"
+msgstr ""
+
+#: ../admin/view/competitions.php:94
+msgid "Select a logo that represents this competition."
+msgstr ""
+
+#: ../admin/view/competitions.php:95 ../admin/view/players.php:101
+#: ../admin/view/referees.php:94 ../admin/view/stadiums.php:93
+#: ../admin/view/staff.php:100 ../admin/view/teams.php:94
+#: ../admin/view/trophy_types.php:93
+msgid "Set Image"
+msgstr ""
+
+#: ../admin/view/competitions.php:96 ../admin/view/players.php:102
+#: ../admin/view/referees.php:95 ../admin/view/stadiums.php:94
+#: ../admin/view/staff.php:101 ../admin/view/teams.php:95
+#: ../admin/view/trophy_types.php:94
+msgid "Remove Image"
+msgstr ""
+
+#: ../admin/view/competitions.php:102 ../admin/view/teams.php:101
+#: ../admin/view/trophy_types.php:100
+msgid "Please enter a valid value in the \"Logo\" field."
+msgstr ""
+
+#: ../admin/view/competitions.php:111
+msgid "Rounds"
+msgstr ""
+
+#: ../admin/view/competitions.php:112
+msgid "The number of rounds of the competition."
+msgstr ""
+
+#: ../admin/view/competitions.php:119
+msgid "Please enter a valid value in the \"Rounds\" field."
+msgstr ""
+
+#: ../admin/view/competitions.php:134 ../shared/class-dase-shared.php:7322
+msgid "Elimination"
+msgstr ""
+
+#: ../admin/view/competitions.php:139 ../admin/view/competitions.php:188
+#: ../shared/class-dase-shared.php:7324
+msgid "Round Robin"
+msgstr ""
+
+#: ../admin/view/competitions.php:147
+msgid "Please enter a valid value in the \"Hidden\" field."
+msgstr ""
+
+#: ../admin/view/competitions.php:168 ../admin/view/events.php:54
+#: ../admin/view/events.php:121 ../admin/view/ranking_transitions.php:41
+#: ../admin/view/ranking_transitions.php:72
+#: ../admin/view/team_contracts.php:48 ../admin/view/team_contracts.php:104
+#: ../admin/view/teams.php:19 ../admin/view/trophies.php:47
+#: ../admin/view/trophies.php:85 ../class-dase-ajax.php:1398
+#: ../class-dase-ajax.php:1769 ../class-dase-ajax.php:1881
+#: ../class-dase-ajax.php:2114 ../class-dase-ajax.php:2263
+#: ../shared/class-dase-shared.php:3558 ../shared/class-dase-shared.php:3712
+#: ../shared/class-dase-shared.php:4371 ../shared/class-dase-shared.php:4892
+#: ../shared/class-dase-shared.php:6390
+msgid "Team"
+msgstr ""
+
+#: ../admin/view/competitions.php:169
+msgid "The team"
+msgstr ""
+
+#: ../admin/view/competitions.php:177
+msgid "Please enter a valid value in the \"Team"
+msgstr ""
+
+#: ../admin/view/competitions.php:178 ../admin/view/formations.php:103
+msgid "field."
+msgstr ""
+
+#: ../admin/view/competitions.php:195
+msgid "Victory Points"
+msgstr ""
+
+#: ../admin/view/competitions.php:196
+msgid ""
+"The number of points assigned to a team when a victory is achieved in a "
+"Round Robin competition."
+msgstr ""
+
+#: ../admin/view/competitions.php:203
+msgid "Please enter a valid value in the \"Victory Points\" field."
+msgstr ""
+
+#: ../admin/view/competitions.php:213
+msgid "Draw Points"
+msgstr ""
+
+#: ../admin/view/competitions.php:214
+msgid ""
+"The number of points assigned to a team when a draw is achieved in a Round "
+"Robin competition."
+msgstr ""
+
+#: ../admin/view/competitions.php:221
+msgid "Please enter a valid value in the \"Draw Points\" field."
+msgstr ""
+
+#: ../admin/view/competitions.php:231
+msgid "Defeat Points"
+msgstr ""
+
+#: ../admin/view/competitions.php:232
+msgid ""
+"The number of points assigned to a team when a defeat is achieved in a Round "
+"Robin competition."
+msgstr ""
+
+#: ../admin/view/competitions.php:239
+msgid "Please enter a valid value in the \"Defeat Points\" field."
+msgstr ""
+
+#: ../admin/view/competitions.php:249
+msgid "Order (Priority 1)"
+msgstr ""
+
+#: ../admin/view/competitions.php:250 ../admin/view/competitions.php:327
+msgid ""
+"This option allows you to enable (in descending or ascending order) or "
+"disable the order for the specified column."
+msgstr ""
+
+#: ../admin/view/competitions.php:255 ../admin/view/competitions.php:332
+msgid "Descending"
+msgstr ""
+
+#: ../admin/view/competitions.php:260 ../admin/view/competitions.php:337
+msgid "Ascending"
+msgstr ""
+
+#: ../admin/view/competitions.php:268
+msgid "Please enter a valid value in the \"Order 1\" field."
+msgstr ""
+
+#: ../admin/view/competitions.php:276 ../admin/view/competitions.php:353
+#: ../class-dase-ajax.php:1406 ../class-dase-ajax.php:1889
+#: ../public/class-dase-public.php:2612 ../shared/class-dase-shared.php:4912
+msgid "Won"
+msgstr ""
+
+#: ../admin/view/competitions.php:281 ../admin/view/competitions.php:358
+#: ../class-dase-ajax.php:1410 ../class-dase-ajax.php:1893
+#: ../public/class-dase-public.php:2614 ../shared/class-dase-shared.php:4922
+msgid "Drawn"
+msgstr ""
+
+#: ../admin/view/competitions.php:286 ../admin/view/competitions.php:363
+#: ../class-dase-ajax.php:1414 ../class-dase-ajax.php:1897
+#: ../public/class-dase-public.php:2616 ../shared/class-dase-shared.php:4932
+msgid "Lost"
+msgstr ""
+
+#: ../admin/view/competitions.php:291 ../admin/view/competitions.php:368
+#: ../admin/view/events_wizard.php:481 ../admin/view/events_wizard.php:528
+#: ../public/class-dase-public.php:2608
+msgid "Goals"
+msgstr ""
+
+#: ../admin/view/competitions.php:296 ../admin/view/competitions.php:373
+#: ../class-dase-ajax.php:1426
+msgid "Goal Difference"
+msgstr ""
+
+#: ../admin/view/competitions.php:301 ../admin/view/competitions.php:378
+#: ../class-dase-ajax.php:1430
+msgid "Points"
+msgstr ""
+
+#: ../admin/view/competitions.php:309
+msgid "Order by (Priority 1)"
+msgstr ""
+
+#: ../admin/view/competitions.php:310 ../admin/view/competitions.php:387
+msgid ""
+"This option allows you to determine for which column the order should be "
+"applied."
+msgstr ""
+
+#: ../admin/view/competitions.php:317
+msgid "Please enter a valid value in the \"Order by 1\" field."
+msgstr ""
+
+#: ../admin/view/competitions.php:326
+msgid "Order (Priority 2)"
+msgstr ""
+
+#: ../admin/view/competitions.php:345
+msgid "Please enter a valid value in the \"Order 2\" field."
+msgstr ""
+
+#: ../admin/view/competitions.php:386
+msgid "Order by (Priority 2)"
+msgstr ""
+
+#: ../admin/view/competitions.php:394
+msgid "Please enter a valid value in the \"Order by 2\" field."
+msgstr ""
+
+#: ../admin/view/events.php:19
+msgid "Event"
+msgstr ""
+
+#: ../admin/view/events.php:21
+msgid "Create New Event"
+msgstr ""
+
+#: ../admin/view/events.php:22
+msgid "Edit Event"
+msgstr ""
+
+#: ../admin/view/events.php:23
+msgid "Add Event"
+msgstr ""
+
+#: ../admin/view/events.php:24
+msgid "Update Event"
+msgstr ""
+
+#: ../admin/view/events.php:28
+msgid "The event has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/events.php:29
+msgid "The event has been successfully added."
+msgstr ""
+
+#: ../admin/view/events.php:30
+msgid "The event has been successfully updated."
+msgstr ""
+
+#: ../admin/view/events.php:38
+msgid "The ID of the event."
+msgstr ""
+
+#: ../admin/view/events.php:42 ../admin/view/events.php:74
+msgid "Data"
+msgstr ""
+
+#: ../admin/view/events.php:43 ../admin/view/events.php:75
+msgid "The type of data associated with the event."
+msgstr ""
+
+#: ../admin/view/events.php:48 ../admin/view/events.php:103
+#: ../admin/view/events_wizard.php:449 ../admin/view/matches.php:19
+#: ../shared/class-dase-shared.php:1170 ../shared/class-dase-shared.php:1173
+msgid "Match"
+msgstr ""
+
+#: ../admin/view/events.php:49 ../admin/view/events.php:104
+msgid "The match of the event."
+msgstr ""
+
+#: ../admin/view/events.php:55 ../admin/view/events.php:122
+msgid "The team of the event."
+msgstr ""
+
+#: ../admin/view/events.php:60 ../admin/view/events.php:150
+msgid "Match Effect"
+msgstr ""
+
+#: ../admin/view/events.php:61 ../admin/view/events.php:151
+msgid "The effect of the event on the match."
+msgstr ""
+
+#: ../admin/view/events.php:80 ../shared/class-dase-shared.php:1988
+msgid "Basic"
+msgstr ""
+
+#: ../admin/view/events.php:85 ../shared/class-dase-shared.php:1988
+msgid "Complete"
+msgstr ""
+
+#: ../admin/view/events.php:94
+msgid "Please enter a valid value in the \"Data\" field."
+msgstr ""
+
+#: ../admin/view/events.php:112
+msgid "Please enter a valid value in the \"Match\" field."
+msgstr ""
+
+#: ../admin/view/events.php:127 ../admin/view/events_wizard.php:473
+#: ../admin/view/matches.php:47 ../admin/view/matches.php:190
+#: ../class-dase-ajax.php:1103 ../class-dase-ajax.php:1362
+#: ../class-dase-ajax.php:1641 ../shared/class-dase-shared.php:4558
+#: ../shared/class-dase-shared.php:4737
+msgid "Team 1"
+msgstr ""
+
+#: ../admin/view/events.php:132 ../admin/view/events_wizard.php:520
+#: ../admin/view/matches.php:53 ../admin/view/matches.php:207
+#: ../class-dase-ajax.php:1107 ../class-dase-ajax.php:1370
+#: ../class-dase-ajax.php:1649 ../shared/class-dase-shared.php:4568
+#: ../shared/class-dase-shared.php:4757
+msgid "Team 2"
+msgstr ""
+
+#: ../admin/view/events.php:141 ../admin/view/ranking_transitions.php:80
+#: ../admin/view/team_contracts.php:113 ../admin/view/trophies.php:94
+msgid "Please enter a valid value in the \"Team\" field."
+msgstr ""
+
+#: ../admin/view/events.php:159
+msgid "Please enter a valid value in the \"Match Effect\" field."
+msgstr ""
+
+#: ../admin/view/events.php:169
+msgid "The player who caused the event."
+msgstr ""
+
+#: ../admin/view/events.php:186
+msgid "Player Substitution Out"
+msgstr ""
+
+#: ../admin/view/events.php:187
+msgid "The replaced player of a substitution event."
+msgstr ""
+
+#: ../admin/view/events.php:195
+msgid "Please enter a valid value in the \"Player Substitution Out\" field."
+msgstr ""
+
+#: ../admin/view/events.php:204
+msgid "Player Substitution In"
+msgstr ""
+
+#: ../admin/view/events.php:205
+msgid "The new player of a substitution event."
+msgstr ""
+
+#: ../admin/view/events.php:213
+msgid "Please enter a valid value in the \"Player Substitution In\" field."
+msgstr ""
+
+#: ../admin/view/events.php:223
+msgid "The staff member who caused the event."
+msgstr ""
+
+#: ../admin/view/events.php:231
+msgid "Please enter a valid value in the \"Staff\" field."
+msgstr ""
+
+#: ../admin/view/events.php:240
+msgid "Part"
+msgstr ""
+
+#: ../admin/view/events.php:241
+msgid "The part of the match."
+msgstr ""
+
+#: ../admin/view/events.php:249
+msgid "Please enter a valid value in the \"Part\" field."
+msgstr ""
+
+#: ../admin/view/events.php:258 ../admin/view/matches.php:65
+#: ../admin/view/matches.php:264 ../class-dase-ajax.php:1358
+#: ../class-dase-ajax.php:1637 ../shared/class-dase-shared.php:4548
+#: ../shared/class-dase-shared.php:4727
+msgid "Time"
+msgstr ""
+
+#: ../admin/view/events.php:259
+msgid "The time of the event in the selected match part."
+msgstr ""
+
+#: ../admin/view/events.php:269
+msgid "Additional Time"
+msgstr ""
+
+#: ../admin/view/events.php:270
+msgid "The additional time of the event in the selected match part."
+msgstr ""
+
+#: ../admin/view/events.php:281
+msgid "The description of the event."
+msgstr ""
+
+#: ../admin/view/events.php:293 ../admin/view/events_wizard.php:411
+msgid "Please add at least one match with the"
+msgstr ""
+
+#: ../admin/view/events.php:303 ../admin/view/matches.php:416
+#: ../admin/view/ranking_transitions.php:153
+#: ../admin/view/team_contracts.php:211 ../admin/view/transfers.php:202
+#: ../admin/view/trophies.php:132
+msgid "Please add at least one team with the"
+msgstr ""
+
+#: ../admin/view/events_wizard.php:34
+msgid "Please enter a valid match."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:40
+msgid "Please enter a valid value in the \"Team 1 Goals\" field."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:46
+msgid "Please enter a valid value in the \"Team 2 Goals\" field."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:52
+msgid "Please enter a valid value in the \"Team 1 Yellow Cards\" field."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:58
+msgid "Please enter a valid value in the \"Team 2 Yellow Cards\" field."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:64
+msgid "Please enter a valid value in the \"Team 1 Red Cards\" field."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:70
+msgid "Please enter a valid value in the \"Team 2 Red Cards\" field."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:76
+msgid "Please enter a valid value in the \"Team 1 Substitutions\" field."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:82
+msgid "Please enter a valid value in the \"Team 2 Subsitutions\" field."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:387
+msgid "events have been successfully generated."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:402
+msgid "Soccer Engine - Events Wizard"
+msgstr ""
+
+#: ../admin/view/events_wizard.php:468
+msgid "The match for which the result should be assigned."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:485
+msgid "The goals of team 1."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:491 ../admin/view/events_wizard.php:538
+#: ../class-dase-ajax.php:1853 ../class-dase-ajax.php:1901
+#: ../public/class-dase-public.php:2674 ../shared/class-dase-shared.php:4942
+#: ../shared/class-dase-shared.php:6165
+msgid "Yellow Cards"
+msgstr ""
+
+#: ../admin/view/events_wizard.php:495
+msgid "The yellow cards of team 1."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:501 ../admin/view/events_wizard.php:548
+#: ../class-dase-ajax.php:1857 ../class-dase-ajax.php:1905
+#: ../public/class-dase-public.php:2676 ../shared/class-dase-shared.php:4952
+#: ../shared/class-dase-shared.php:6175
+msgid "Red Cards"
+msgstr ""
+
+#: ../admin/view/events_wizard.php:505
+msgid "The red cards of team 1."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:511 ../admin/view/events_wizard.php:558
+msgid "Substitutions"
+msgstr ""
+
+#: ../admin/view/events_wizard.php:515
+msgid "The substitutions of team 1."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:532
+msgid "The goals of team 2."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:542
+msgid "The yellow cards of team 2."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:552
+msgid "The red cards of team 2."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:562
+msgid "The substitutions of team 2."
+msgstr ""
+
+#: ../admin/view/events_wizard.php:571
+msgid "Generate Events"
+msgstr ""
+
+#: ../admin/view/export.php:13
+msgid "Soccer Engine - Export"
+msgstr ""
+
+#: ../admin/view/export.php:17
+msgid ""
+"Click the Export button to generate an XML file that includes all the data."
+msgstr ""
+
+#: ../admin/view/formations.php:19 ../admin/view/matches.php:527
+#: ../admin/view/squads.php:190
+msgid "Formation"
+msgstr ""
+
+#: ../admin/view/formations.php:21
+msgid "Create New Formation"
+msgstr ""
+
+#: ../admin/view/formations.php:22
+msgid "Edit Formation"
+msgstr ""
+
+#: ../admin/view/formations.php:23
+msgid "Add Formation"
+msgstr ""
+
+#: ../admin/view/formations.php:24
+msgid "Update Formation"
+msgstr ""
+
+#: ../admin/view/formations.php:28
+msgid "The formation has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/formations.php:29
+msgid "The formation has been successfully added."
+msgstr ""
+
+#: ../admin/view/formations.php:30
+msgid "The formation has been successfully updated."
+msgstr ""
+
+#: ../admin/view/formations.php:37
+msgid "The ID of the formation."
+msgstr ""
+
+#: ../admin/view/formations.php:42 ../admin/view/formations.php:60
+msgid "The name of the formation."
+msgstr ""
+
+#: ../admin/view/formations.php:47 ../admin/view/formations.php:76
+msgid "The description of the formation."
+msgstr ""
+
+#: ../admin/view/formations.php:95
+msgid "X Position"
+msgstr ""
+
+#: ../admin/view/formations.php:96
+msgid "The X position of player"
+msgstr ""
+
+#: ../admin/view/formations.php:102
+msgid "Please enter a valid value in the \"X Position"
+msgstr ""
+
+#: ../admin/view/formations.php:114
+msgid "Y Position "
+msgstr ""
+
+#: ../admin/view/formations.php:115
+msgid "The Y position of player"
+msgstr ""
+
+#: ../admin/view/formations.php:121
+msgid "Please enter a valid value in the \"Y Position"
+msgstr ""
+
+#: ../admin/view/formations.php:122 ../admin/view/jersey_sets.php:114
+#: ../admin/view/matches.php:451 ../admin/view/matches.php:480
+#: ../admin/view/matches.php:509 ../admin/view/squads.php:114
+#: ../admin/view/squads.php:143 ../admin/view/squads.php:172
+msgid " field."
+msgstr ""
+
+#: ../admin/view/import.php:13
+msgid "Soccer Engine - Import"
+msgstr ""
+
+#: ../admin/view/import.php:133
+msgid "records have been added."
+msgstr ""
+
+#: ../admin/view/import.php:133
+msgid "Dismiss this notice."
+msgstr ""
+
+#: ../admin/view/import.php:141
+msgid ""
+"Import the tables stored in your XML file by clicking the Upload file and "
+"import button."
+msgstr ""
+
+#: ../admin/view/import.php:144
+msgid "Choose a file from your computer:"
+msgstr ""
+
+#: ../admin/view/import.php:148
+msgid "Upload file and import"
+msgstr ""
+
+#: ../admin/view/import.php:150
+msgid ""
+"IMPORTANT: This menu should only be used to import the XML files generated "
+"with the \"Export\" menu."
+msgstr ""
+
+#: ../admin/view/injuries.php:19
+msgid "Injury"
+msgstr ""
+
+#: ../admin/view/injuries.php:21
+msgid "Create New Injury"
+msgstr ""
+
+#: ../admin/view/injuries.php:22
+msgid "Edit Injury"
+msgstr ""
+
+#: ../admin/view/injuries.php:23
+msgid "Add Injury"
+msgstr ""
+
+#: ../admin/view/injuries.php:24
+msgid "Update Injury"
+msgstr ""
+
+#: ../admin/view/injuries.php:28
+msgid "The injury has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/injuries.php:29
+msgid "The injury has been successfully added."
+msgstr ""
+
+#: ../admin/view/injuries.php:30
+msgid "The injury has been successfully updated."
+msgstr ""
+
+#: ../admin/view/injuries.php:38
+msgid "The ID of the injury."
+msgstr ""
+
+#: ../admin/view/injuries.php:43 ../admin/view/injuries.php:75
+msgid "The injured player."
+msgstr ""
+
+#: ../admin/view/injuries.php:48 ../admin/view/injuries.php:90
+#: ../admin/view/injury_types.php:19 ../class-dase-ajax.php:1458
+#: ../shared/class-dase-shared.php:3012
+msgid "Injury Type"
+msgstr ""
+
+#: ../admin/view/injuries.php:49 ../admin/view/injuries.php:91
+msgid "The injury type."
+msgstr ""
+
+#: ../admin/view/injuries.php:55 ../admin/view/injuries.php:107
+#: ../admin/view/referee_badges.php:110
+#: ../admin/view/unavailable_players.php:55
+#: ../admin/view/unavailable_players.php:111
+msgid "The start date."
+msgstr ""
+
+#: ../admin/view/injuries.php:61 ../admin/view/injuries.php:123
+#: ../admin/view/referee_badges.php:126
+#: ../admin/view/unavailable_players.php:61
+#: ../admin/view/unavailable_players.php:127
+msgid "The end date."
+msgstr ""
+
+#: ../admin/view/injuries.php:98
+msgid "Please enter a valid value in the \"Injury Type\" field."
+msgstr ""
+
+#: ../admin/view/injuries.php:113 ../admin/view/unavailable_players.php:117
+msgid "Please enter a valid date in the \"Start Date\" field."
+msgstr ""
+
+#: ../admin/view/injuries.php:129 ../admin/view/unavailable_players.php:133
+msgid "Please enter a valid date in the \"End Date\" field."
+msgstr ""
+
+#: ../admin/view/injuries.php:141
+msgid "Please add at least one injury type with the"
+msgstr ""
+
+#: ../admin/view/injury_types.php:21
+msgid "Create New Injury Type"
+msgstr ""
+
+#: ../admin/view/injury_types.php:22
+msgid "Edit Injury Type"
+msgstr ""
+
+#: ../admin/view/injury_types.php:23
+msgid "Add Injury Type"
+msgstr ""
+
+#: ../admin/view/injury_types.php:24
+msgid "Update Injury Type"
+msgstr ""
+
+#: ../admin/view/injury_types.php:28
+msgid "The injury type has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/injury_types.php:29
+msgid "The injury type has been successfully added."
+msgstr ""
+
+#: ../admin/view/injury_types.php:30
+msgid "The injury type has been successfully updated."
+msgstr ""
+
+#: ../admin/view/injury_types.php:37
+msgid "The ID of the injury type."
+msgstr ""
+
+#: ../admin/view/injury_types.php:42 ../admin/view/injury_types.php:60
+msgid "The name of the injury type."
+msgstr ""
+
+#: ../admin/view/injury_types.php:47 ../admin/view/injury_types.php:76
+msgid "The description of the injury type."
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:19 ../admin/view/matches.php:547
+#: ../admin/view/squads.php:210
+msgid "Jersey Set"
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:21
+msgid "Create New Jersey Set"
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:22
+msgid "Edit Jersey Set"
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:23
+msgid "Add Jersey Set"
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:24
+msgid "Update Jersey Set"
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:28
+msgid "The jersey set has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:29
+msgid "The jersey set has been successfully added."
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:30
+msgid "The jersey set has been successfully updated."
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:37
+msgid "The ID of the jersey set."
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:42 ../admin/view/jersey_sets.php:60
+msgid "The name of the jersey set."
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:47 ../admin/view/jersey_sets.php:76
+#: ../admin/view/squads.php:48
+msgid "The description of the jersey set."
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:105 ../admin/view/matches.php:442
+#: ../admin/view/squads.php:105
+msgid "The player"
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:113
+msgid "Please enter a valid value in the \"Player"
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:125
+msgid "Jersey Number Player"
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:126
+msgid "The jersery number of player"
+msgstr ""
+
+#: ../admin/view/jersey_sets.php:132
+msgid "Please enter a valid value in the \"Jersey\" field."
+msgstr ""
+
+#: ../admin/view/maintenance.php:43 ../admin/view/maintenance.php:55
+msgid "records have been successfully deleted."
+msgstr ""
+
+#: ../admin/view/maintenance.php:46
+msgid "The are no records in this range."
+msgstr ""
+
+#: ../admin/view/maintenance.php:74
+msgid "Soccer Engine - Maintenance"
+msgstr ""
+
+#: ../admin/view/maintenance.php:105
+msgid "Task"
+msgstr ""
+
+#: ../admin/view/maintenance.php:108
+msgid "Delete Data"
+msgstr ""
+
+#: ../admin/view/maintenance.php:111
+msgid "The task that should be performed."
+msgstr ""
+
+#: ../admin/view/maintenance.php:120
+msgid "Execute Task"
+msgstr ""
+
+#: ../admin/view/maintenance.php:134
+msgid "Execute the task?"
+msgstr ""
+
+#: ../admin/view/maintenance.php:135
+msgid ""
+"Multiple database items are going to be deleted. Do you really want to "
+"proceed?"
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:19
+msgid "Market Value Transition"
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:21
+msgid "Create New Market Value Transition"
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:22
+msgid "Edit Market Value Transition"
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:23
+msgid "Add Market Value Transition"
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:24
+msgid "Update Market Value Transition"
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:28
+msgid "The market value transition has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:29
+msgid "The market value transition has been successfully added."
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:30
+msgid "The market value transition has been successfully updated."
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:37
+msgid "The ID of the market value transition."
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:47
+#: ../admin/view/market_value_transitions.php:85 ../admin/view/matches.php:59
+#: ../admin/view/matches.php:248 ../admin/view/ranking_transitions.php:53
+#: ../admin/view/ranking_transitions.php:107 ../admin/view/transfers.php:65
+#: ../admin/view/transfers.php:157 ../class-dase-ajax.php:1354
+#: ../class-dase-ajax.php:1510 ../class-dase-ajax.php:1633
+#: ../class-dase-ajax.php:1777 ../class-dase-ajax.php:1817
+#: ../class-dase-ajax.php:2202 ../shared/class-dase-shared.php:2387
+#: ../shared/class-dase-shared.php:4200 ../shared/class-dase-shared.php:4391
+#: ../shared/class-dase-shared.php:4538 ../shared/class-dase-shared.php:4717
+msgid "Date"
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:48
+#: ../admin/view/market_value_transitions.php:86
+msgid "The date of the market value transition."
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:53
+#: ../admin/view/market_value_transitions.php:101
+#: ../admin/view/ranking_transitions.php:59
+#: ../admin/view/ranking_transitions.php:123 ../class-dase-ajax.php:1514
+#: ../class-dase-ajax.php:1781 ../class-dase-ajax.php:1821
+#: ../shared/class-dase-shared.php:4210 ../shared/class-dase-shared.php:4401
+msgid "Value"
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:54
+#: ../admin/view/market_value_transitions.php:102
+msgid "The value of the player."
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:92 ../admin/view/matches.php:255
+#: ../admin/view/ranking_transitions.php:114 ../admin/view/transfers.php:164
+msgid "Please enter a valid value in the \"Date\" field."
+msgstr ""
+
+#: ../admin/view/market_value_transitions.php:108
+#: ../admin/view/ranking_transitions.php:130
+msgid "Please enter a valid value in the \"Value\" field."
+msgstr ""
+
+#: ../admin/view/matches.php:21
+msgid "Create Match"
+msgstr ""
+
+#: ../admin/view/matches.php:22
+msgid "Edit Match"
+msgstr ""
+
+#: ../admin/view/matches.php:23
+msgid "Add Match"
+msgstr ""
+
+#: ../admin/view/matches.php:24
+msgid "Update Match"
+msgstr ""
+
+#: ../admin/view/matches.php:28
+msgid "The match has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/matches.php:29
+msgid "The match has been successfully added."
+msgstr ""
+
+#: ../admin/view/matches.php:30
+msgid "The match has been successfully updated."
+msgstr ""
+
+#: ../admin/view/matches.php:38
+msgid "The ID of the match."
+msgstr ""
+
+#: ../admin/view/matches.php:43 ../admin/view/matches.php:80
+msgid "The name of the match."
+msgstr ""
+
+#: ../admin/view/matches.php:48 ../admin/view/matches.php:191
+msgid "The team 1 of the match."
+msgstr ""
+
+#: ../admin/view/matches.php:54 ../admin/view/matches.php:208
+msgid "The team 2 of the match."
+msgstr ""
+
+#: ../admin/view/matches.php:60 ../admin/view/matches.php:249
+msgid "The date of the match."
+msgstr ""
+
+#: ../admin/view/matches.php:66
+msgid "The time of the match."
+msgstr ""
+
+#: ../admin/view/matches.php:96 ../admin/view/teams.php:77
+msgid "The description of the team."
+msgstr ""
+
+#: ../admin/view/matches.php:112
+msgid "The competition of the match."
+msgstr ""
+
+#: ../admin/view/matches.php:120
+msgid "Please enter a valid value in the \"Competition\" field."
+msgstr ""
+
+#: ../admin/view/matches.php:129 ../class-dase-ajax.php:1189
+msgid "Round"
+msgstr ""
+
+#: ../admin/view/matches.php:130
+msgid "The round of the competition."
+msgstr ""
+
+#: ../admin/view/matches.php:163
+msgid "The type of round of the competition."
+msgstr ""
+
+#: ../admin/view/matches.php:168 ../class-dase-ajax.php:1215
+msgid "Single Leg"
+msgstr ""
+
+#: ../admin/view/matches.php:173 ../class-dase-ajax.php:1219
+msgid "First Leg"
+msgstr ""
+
+#: ../admin/view/matches.php:178 ../class-dase-ajax.php:1223
+msgid "Second Leg"
+msgstr ""
+
+#: ../admin/view/matches.php:198
+msgid "Please enter a valid value in the \"Team 1\" field."
+msgstr ""
+
+#: ../admin/view/matches.php:216
+msgid "Please enter a valid value in the \"Team 2\" field."
+msgstr ""
+
+#: ../admin/view/matches.php:225
+msgid "Import Squad 1"
+msgstr ""
+
+#: ../admin/view/matches.php:226
+msgid ""
+"Use this selector to import the lineup, the substitutes, the staff members "
+"and the advanced options of team 1 from a squad."
+msgstr ""
+
+#: ../admin/view/matches.php:236
+msgid "Import Squad 2"
+msgstr ""
+
+#: ../admin/view/matches.php:237
+msgid ""
+"Use this selector to import the lineup, the substitutes, the staff members "
+"and the advanced options of team 2 from a squad."
+msgstr ""
+
+#: ../admin/view/matches.php:265
+msgid "The time of the match in the HH:MM format. E.g. 9:30, 15:00, 20:45"
+msgstr ""
+
+#: ../admin/view/matches.php:271
+msgid ""
+"Please enter a valid value in the \"Time\" field. E.g. 9:30, 15:00, 20:45"
+msgstr ""
+
+#: ../admin/view/matches.php:279
+msgid "Additional Information"
+msgstr ""
+
+#: ../admin/view/matches.php:286
+msgid "First Half Additional Time"
+msgstr ""
+
+#: ../admin/view/matches.php:287
+msgid "The additional time of the first half in minutes."
+msgstr ""
+
+#: ../admin/view/matches.php:293
+msgid "Please enter a valid value in the \"First Half Extra Time\" field."
+msgstr ""
+
+#: ../admin/view/matches.php:304
+msgid "Second Half Additional Time"
+msgstr ""
+
+#: ../admin/view/matches.php:305
+msgid "The additional time of the second half in minutes."
+msgstr ""
+
+#: ../admin/view/matches.php:311
+msgid ""
+"Please enter a valid value in the \"Second Half Additional Time\" field."
+msgstr ""
+
+#: ../admin/view/matches.php:322
+msgid "First Half Extra Time Additional Time"
+msgstr ""
+
+#: ../admin/view/matches.php:323
+msgid "The additional time of the first half extra time in minutes."
+msgstr ""
+
+#: ../admin/view/matches.php:329
+msgid ""
+"Please enter a valid value in the \"First Half Extra Time Additional Time\" "
+"field."
+msgstr ""
+
+#: ../admin/view/matches.php:340
+msgid "Second Half Extra Time Additional Time"
+msgstr ""
+
+#: ../admin/view/matches.php:341
+msgid "The additional time of the second half extra time in minutes."
+msgstr ""
+
+#: ../admin/view/matches.php:347
+msgid ""
+"Please enter a valid value in the \"Second Half Extra Time Additional Time\" "
+"field."
+msgstr ""
+
+#: ../admin/view/matches.php:358 ../admin/view/referee_badges.php:42
+#: ../admin/view/referee_badges.php:74 ../admin/view/referees.php:19
+#: ../public/class-dase-public.php:1991
+msgid "Referee"
+msgstr ""
+
+#: ../admin/view/matches.php:359
+msgid "The referee of the match."
+msgstr ""
+
+#: ../admin/view/matches.php:367 ../admin/view/referee_badges.php:82
+msgid "Please enter a valid value in the \"Referee\" field."
+msgstr ""
+
+#: ../admin/view/matches.php:377 ../admin/view/stadiums.php:19
+#: ../admin/view/teams.php:173
+msgid "Stadium"
+msgstr ""
+
+#: ../admin/view/matches.php:378
+msgid "The stadium of the match."
+msgstr ""
+
+#: ../admin/view/matches.php:386 ../admin/view/teams.php:182
+msgid "Please enter a valid value in the \"Stadium\" field."
+msgstr ""
+
+#: ../admin/view/matches.php:396 ../public/class-dase-public.php:1990
+msgid "Attendance"
+msgstr ""
+
+#: ../admin/view/matches.php:397
+msgid "The attendance of the match."
+msgstr ""
+
+#: ../admin/view/matches.php:403
+msgid "Please enter a valid value in the \"Attendance\" field."
+msgstr ""
+
+#: ../admin/view/matches.php:432
+msgid "Lineup Team"
+msgstr ""
+
+#: ../admin/view/matches.php:442 ../admin/view/matches.php:471
+#: ../admin/view/matches.php:500 ../admin/view/matches.php:528
+#: ../admin/view/matches.php:548
+msgid "of team"
+msgstr ""
+
+#: ../admin/view/matches.php:450 ../admin/view/squads.php:113
+msgid "Please enter a valid value in the \"Player "
+msgstr ""
+
+#: ../admin/view/matches.php:461
+msgid "Substitutes Team"
+msgstr ""
+
+#: ../admin/view/matches.php:470 ../admin/view/squads.php:133
+msgid "Substitute"
+msgstr ""
+
+#: ../admin/view/matches.php:471 ../admin/view/squads.php:134
+msgid "The substitute"
+msgstr ""
+
+#: ../admin/view/matches.php:479
+msgid "Please enter a valid value in the \"Substitute"
+msgstr ""
+
+#: ../admin/view/matches.php:490
+msgid "Staff Team"
+msgstr ""
+
+#: ../admin/view/matches.php:500
+msgid "The staff"
+msgstr ""
+
+#: ../admin/view/matches.php:508 ../admin/view/squads.php:171
+msgid "Please enter a valid value in the \"Staff"
+msgstr ""
+
+#: ../admin/view/matches.php:519
+msgid "Advanced Team"
+msgstr ""
+
+#: ../admin/view/matches.php:528 ../admin/view/squads.php:191
+msgid "The formation"
+msgstr ""
+
+#: ../admin/view/matches.php:536 ../admin/view/squads.php:199
+msgid "Please enter a valid value in the \"Formation\" field."
+msgstr ""
+
+#: ../admin/view/matches.php:548
+msgid "The jersey set"
+msgstr ""
+
+#: ../admin/view/matches.php:556 ../admin/view/squads.php:219
+msgid "Please enter a valid value in the \"Jersey Set\" field."
+msgstr ""
+
+#: ../admin/view/options.php:4
+msgid "You do not have sufficient capabilities to access this page."
+msgstr ""
+
+#: ../admin/view/options.php:11
+msgid "Soccer Engine - Options"
+msgstr ""
+
+#: ../admin/view/options.php:42
+msgid "Colors"
+msgstr ""
+
+#: ../admin/view/options.php:45
+msgid "Capabilities"
+msgstr ""
+
+#: ../admin/view/options.php:48
+msgid "Pagination"
+msgstr ""
+
+#: ../admin/view/options.php:51 ../admin/view/squads.php:182
+msgid "Advanced"
+msgstr ""
+
+#: ../admin/view/options.php:91
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/view/player_award_types.php:19 ../admin/view/player_awards.php:47
+#: ../admin/view/player_awards.php:84 ../class-dase-ajax.php:1677
+#: ../shared/class-dase-shared.php:2664
+msgid "Player Award Type"
+msgstr ""
+
+#: ../admin/view/player_award_types.php:21
+msgid "Create New Player Award Type"
+msgstr ""
+
+#: ../admin/view/player_award_types.php:22
+msgid "Edit Player Award Type"
+msgstr ""
+
+#: ../admin/view/player_award_types.php:23
+msgid "Add Player Award Type"
+msgstr ""
+
+#: ../admin/view/player_award_types.php:24
+msgid "Update Player Award Type"
+msgstr ""
+
+#: ../admin/view/player_award_types.php:28
+msgid "The player award type has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/player_award_types.php:29
+msgid "The player award type has been successfully added."
+msgstr ""
+
+#: ../admin/view/player_award_types.php:30
+msgid "The player award type has been successfully updated."
+msgstr ""
+
+#: ../admin/view/player_award_types.php:37
+msgid "The ID of the player award type."
+msgstr ""
+
+#: ../admin/view/player_award_types.php:42
+#: ../admin/view/player_award_types.php:60
+msgid "The name of the player award type."
+msgstr ""
+
+#: ../admin/view/player_award_types.php:47
+#: ../admin/view/player_award_types.php:76
+msgid "The description of the player award type."
+msgstr ""
+
+#: ../admin/view/player_awards.php:19
+msgid "Player Award"
+msgstr ""
+
+#: ../admin/view/player_awards.php:21
+msgid "Create New Player Award"
+msgstr ""
+
+#: ../admin/view/player_awards.php:22
+msgid "Edit Player Award"
+msgstr ""
+
+#: ../admin/view/player_awards.php:23
+msgid "Add Player Award"
+msgstr ""
+
+#: ../admin/view/player_awards.php:24
+msgid "Update Player Award"
+msgstr ""
+
+#: ../admin/view/player_awards.php:28
+msgid "The player award has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/player_awards.php:29
+msgid "The player award has been successfully added."
+msgstr ""
+
+#: ../admin/view/player_awards.php:30
+msgid "The player award has been successfully updated."
+msgstr ""
+
+#: ../admin/view/player_awards.php:37
+msgid "The ID of the player award."
+msgstr ""
+
+#: ../admin/view/player_awards.php:48 ../admin/view/player_awards.php:85
+msgid "The player award type."
+msgstr ""
+
+#: ../admin/view/player_awards.php:53 ../admin/view/player_awards.php:101
+#: ../admin/view/staff_awards.php:53 ../admin/view/staff_awards.php:103
+#: ../admin/view/trophies.php:53 ../admin/view/trophies.php:103
+#: ../class-dase-ajax.php:1681 ../class-dase-ajax.php:2077
+#: ../class-dase-ajax.php:2118 ../shared/class-dase-shared.php:2654
+#: ../shared/class-dase-shared.php:3389 ../shared/class-dase-shared.php:3568
+msgid "Assignment Date"
+msgstr ""
+
+#: ../admin/view/player_awards.php:54 ../admin/view/player_awards.php:102
+msgid "The assignment date of the player award."
+msgstr ""
+
+#: ../admin/view/player_awards.php:93
+msgid "Please enter a valid value in the \"Player Award Type\" field."
+msgstr ""
+
+#: ../admin/view/player_awards.php:108 ../admin/view/staff_awards.php:110
+#: ../admin/view/trophies.php:110
+msgid "Please enter a valid value in the \"Assignment Date\" field."
+msgstr ""
+
+#: ../admin/view/player_awards.php:120
+msgid "Please add at least one player award type with the"
+msgstr ""
+
+#: ../admin/view/player_positions.php:19 ../admin/view/players.php:53
+#: ../admin/view/players.php:240
+msgid "Player Position"
+msgstr ""
+
+#: ../admin/view/player_positions.php:21
+msgid "Create New Player Position"
+msgstr ""
+
+#: ../admin/view/player_positions.php:22
+msgid "Edit Player Position"
+msgstr ""
+
+#: ../admin/view/player_positions.php:23
+msgid "Add Player Position"
+msgstr ""
+
+#: ../admin/view/player_positions.php:24
+msgid "Update Player Position"
+msgstr ""
+
+#: ../admin/view/player_positions.php:28
+msgid "The player position has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/player_positions.php:29
+msgid "The player position has been successfully added."
+msgstr ""
+
+#: ../admin/view/player_positions.php:30
+msgid "The player position has been successfully updated."
+msgstr ""
+
+#: ../admin/view/player_positions.php:37
+msgid "The ID of the player position."
+msgstr ""
+
+#: ../admin/view/player_positions.php:42 ../admin/view/player_positions.php:65
+msgid "The name of the player position."
+msgstr ""
+
+#: ../admin/view/player_positions.php:47 ../admin/view/player_positions.php:81
+msgid "The description of the player position."
+msgstr ""
+
+#: ../admin/view/player_positions.php:51 ../admin/view/player_positions.php:96
+msgid "Abbreviation"
+msgstr ""
+
+#: ../admin/view/player_positions.php:52 ../admin/view/player_positions.php:97
+msgid "The abbreviation of the player position."
+msgstr ""
+
+#: ../admin/view/player_positions.php:103
+msgid "Please enter a valid value in the \"Abbreviation\" field."
+msgstr ""
+
+#: ../admin/view/players.php:21
+msgid "Create New Player"
+msgstr ""
+
+#: ../admin/view/players.php:22
+msgid "Edit Player"
+msgstr ""
+
+#: ../admin/view/players.php:23
+msgid "Add Player"
+msgstr ""
+
+#: ../admin/view/players.php:24
+msgid "Update Player"
+msgstr ""
+
+#: ../admin/view/players.php:29
+msgid "The player has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/players.php:30
+msgid "The player has been successfully added."
+msgstr ""
+
+#: ../admin/view/players.php:31
+msgid "The player has been successfully updated."
+msgstr ""
+
+#: ../admin/view/players.php:39
+msgid "The ID of the player."
+msgstr ""
+
+#: ../admin/view/players.php:43 ../admin/view/players.php:67
+#: ../admin/view/referees.php:42 ../admin/view/referees.php:60
+#: ../admin/view/staff.php:42 ../admin/view/staff.php:66
+msgid "First Name"
+msgstr ""
+
+#: ../admin/view/players.php:44 ../admin/view/players.php:68
+msgid "The first name of the player."
+msgstr ""
+
+#: ../admin/view/players.php:48 ../admin/view/players.php:83
+#: ../admin/view/referees.php:47 ../admin/view/referees.php:76
+#: ../admin/view/staff.php:47 ../admin/view/staff.php:82
+msgid "Last Name"
+msgstr ""
+
+#: ../admin/view/players.php:49 ../admin/view/players.php:84
+msgid "The last name of the player."
+msgstr ""
+
+#: ../admin/view/players.php:54 ../admin/view/players.php:241
+msgid "The position of the player."
+msgstr ""
+
+#: ../admin/view/players.php:74 ../admin/view/team_contracts.php:95
+msgid "Please enter a valid value in the \"First Name\" field."
+msgstr ""
+
+#: ../admin/view/players.php:90 ../admin/view/staff.php:89
+msgid "Please enter a valid value in the \"Last Name\" field."
+msgstr ""
+
+#: ../admin/view/players.php:99 ../admin/view/referees.php:92
+#: ../admin/view/stadiums.php:91 ../admin/view/staff.php:98
+msgid "Image"
+msgstr ""
+
+#: ../admin/view/players.php:100
+msgid "Select an image that represents this player."
+msgstr ""
+
+#: ../admin/view/players.php:108 ../admin/view/referees.php:101
+#: ../admin/view/stadiums.php:100 ../admin/view/staff.php:107
+msgid "Please enter a valid value in the \"Image\" field."
+msgstr ""
+
+#: ../admin/view/players.php:117 ../admin/view/referees.php:110
+#: ../admin/view/staff.php:116
+msgid "Gender"
+msgstr ""
+
+#: ../admin/view/players.php:118
+msgid "The gender of the player."
+msgstr ""
+
+#: ../admin/view/players.php:123 ../admin/view/referees.php:116
+#: ../admin/view/staff.php:122 ../class-dase-ajax.php:932
+msgid "Male"
+msgstr ""
+
+#: ../admin/view/players.php:128 ../admin/view/referees.php:121
+#: ../admin/view/staff.php:127 ../class-dase-ajax.php:936
+msgid "Female"
+msgstr ""
+
+#: ../admin/view/players.php:137 ../admin/view/players.php:169
+msgid "Please enter a valid date in the \"Date of Death\" field."
+msgstr ""
+
+#: ../admin/view/players.php:146 ../admin/view/referees.php:139
+#: ../admin/view/staff.php:145 ../class-dase-ajax.php:1933
+#: ../class-dase-ajax.php:1969 ../class-dase-ajax.php:2001
+#: ../public/class-dase-public.php:2535 ../public/class-dase-public.php:2596
+#: ../public/class-dase-public.php:2656 ../shared/class-dase-shared.php:5667
+#: ../shared/class-dase-shared.php:5835 ../shared/class-dase-shared.php:5987
+msgid "Date of Birth"
+msgstr ""
+
+#: ../admin/view/players.php:147
+msgid "The date of birth of the player."
+msgstr ""
+
+#: ../admin/view/players.php:153
+msgid "Please enter a valid date in the \"Date of Birth\" field."
+msgstr ""
+
+#: ../admin/view/players.php:162 ../admin/view/referees.php:155
+#: ../admin/view/staff.php:161
+msgid "Date of Death"
+msgstr ""
+
+#: ../admin/view/players.php:163
+msgid "The date of death of the player."
+msgstr ""
+
+#: ../admin/view/players.php:178 ../admin/view/referees.php:171
+#: ../admin/view/staff.php:177 ../class-dase-ajax.php:1474
+#: ../class-dase-ajax.php:1543 ../class-dase-ajax.php:1575
+#: ../class-dase-ajax.php:1603 ../class-dase-ajax.php:1689
+#: ../class-dase-ajax.php:1721 ../class-dase-ajax.php:1813
+#: ../class-dase-ajax.php:1937 ../class-dase-ajax.php:1973
+#: ../class-dase-ajax.php:2005 ../class-dase-ajax.php:2041
+#: ../class-dase-ajax.php:2085 ../class-dase-ajax.php:2162
+#: ../class-dase-ajax.php:2214 ../class-dase-ajax.php:2251
+#: ../class-dase-ajax.php:2327 ../public/class-dase-public.php:2541
+#: ../public/class-dase-public.php:2600 ../public/class-dase-public.php:2660
+#: ../shared/class-dase-shared.php:2058 ../shared/class-dase-shared.php:2417
+#: ../shared/class-dase-shared.php:2644 ../shared/class-dase-shared.php:2853
+#: ../shared/class-dase-shared.php:3052 ../shared/class-dase-shared.php:3221
+#: ../shared/class-dase-shared.php:3409 ../shared/class-dase-shared.php:3778
+#: ../shared/class-dase-shared.php:4036 ../shared/class-dase-shared.php:4230
+#: ../shared/class-dase-shared.php:5218 ../shared/class-dase-shared.php:5373
+#: ../shared/class-dase-shared.php:5512 ../shared/class-dase-shared.php:5677
+#: ../shared/class-dase-shared.php:5997
+msgid "Citizenship"
+msgstr ""
+
+#: ../admin/view/players.php:179
+msgid "The citizenship of the player."
+msgstr ""
+
+#: ../admin/view/players.php:186 ../admin/view/referees.php:179
+#: ../admin/view/staff.php:185
+msgid "Please enter a valid value in the \"Citizenship\" field."
+msgstr ""
+
+#: ../admin/view/players.php:195 ../admin/view/staff.php:194
+msgid "Second Citizenship"
+msgstr ""
+
+#: ../admin/view/players.php:196
+msgid "The second citizenship of the player."
+msgstr ""
+
+#: ../admin/view/players.php:203 ../admin/view/referees.php:196
+#: ../admin/view/staff.php:202
+msgid "Please enter a valid value in the \"Second Citizenship\" field."
+msgstr ""
+
+#: ../admin/view/players.php:212 ../admin/view/referees.php:205
+#: ../admin/view/staff.php:211 ../public/class-dase-public.php:2668
+msgid "Retired"
+msgstr ""
+
+#: ../admin/view/players.php:213
+msgid "The retired status of the player."
+msgstr ""
+
+#: ../admin/view/players.php:230 ../admin/view/staff.php:230
+msgid "Please enter a valid value in the \"Retired\" field."
+msgstr ""
+
+#: ../admin/view/players.php:247
+msgid "Please enter a valid value in the \"Player Position\" field."
+msgstr ""
+
+#: ../admin/view/players.php:257 ../class-dase-ajax.php:1725
+#: ../public/class-dase-public.php:2545 ../shared/class-dase-shared.php:2068
+msgid "Foot"
+msgstr ""
+
+#: ../admin/view/players.php:258
+msgid "The foot of the player."
+msgstr ""
+
+#: ../admin/view/players.php:264
+msgid "Please enter a valid value in the \"Foot\" field."
+msgstr ""
+
+#: ../admin/view/players.php:274 ../class-dase-ajax.php:1729
+#: ../public/class-dase-public.php:2539 ../shared/class-dase-shared.php:2078
+msgid "Height"
+msgstr ""
+
+#: ../admin/view/players.php:275
+msgid "The height of the player."
+msgstr ""
+
+#: ../admin/view/players.php:281
+msgid "Please enter a valid date in the \"Height\" field."
+msgstr ""
+
+#: ../admin/view/players.php:294
+msgid "Please add at least one player position with the"
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:19
+msgid "Ranking Transition"
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:21
+msgid "Create New Ranking Transition"
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:22
+msgid "Edit Ranking Transition"
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:23
+msgid "Add Ranking Transition"
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:24
+msgid "Update Ranking Transition"
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:28
+msgid "The ranking transition has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:29
+msgid "The ranking transition has been successfully added."
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:30
+msgid "The ranking transition has been successfully updated."
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:37
+msgid "The ID of the ranking transition."
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:42
+#: ../admin/view/ranking_transitions.php:73
+msgid "The team of the ranking transition."
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:47
+#: ../admin/view/ranking_transitions.php:89 ../admin/view/ranking_types.php:19
+#: ../class-dase-ajax.php:1773 ../shared/class-dase-shared.php:4381
+msgid "Ranking Type"
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:48
+#: ../admin/view/ranking_transitions.php:90
+msgid "The ranking type."
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:54
+#: ../admin/view/ranking_transitions.php:108
+msgid "The date of the ranking transition."
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:60
+#: ../admin/view/ranking_transitions.php:124
+msgid "The ranking value."
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:98
+msgid "Please enter a valid value in the \"Ranking Type\" field."
+msgstr ""
+
+#: ../admin/view/ranking_transitions.php:143
+msgid "Please add at least one ranking type with the"
+msgstr ""
+
+#: ../admin/view/ranking_types.php:21
+msgid "Create New Ranking Type"
+msgstr ""
+
+#: ../admin/view/ranking_types.php:22
+msgid "Edit Ranking Type"
+msgstr ""
+
+#: ../admin/view/ranking_types.php:23
+msgid "Add Ranking Type"
+msgstr ""
+
+#: ../admin/view/ranking_types.php:24
+msgid "Update Ranking Type"
+msgstr ""
+
+#: ../admin/view/ranking_types.php:28
+msgid "The ranking type has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/ranking_types.php:29
+msgid "The ranking type has been successfully added."
+msgstr ""
+
+#: ../admin/view/ranking_types.php:30
+msgid "The ranking type has been successfully updated."
+msgstr ""
+
+#: ../admin/view/ranking_types.php:37
+msgid "The ID of the ranking type."
+msgstr ""
+
+#: ../admin/view/ranking_types.php:42 ../admin/view/ranking_types.php:60
+msgid "The name of the ranking type."
+msgstr ""
+
+#: ../admin/view/ranking_types.php:47 ../admin/view/ranking_types.php:76
+msgid "The description of the ranking type."
+msgstr ""
+
+#: ../admin/view/referee_badge_types.php:19
+#: ../admin/view/referee_badges.php:48 ../admin/view/referee_badges.php:91
+msgid "Referee Badge Type"
+msgstr ""
+
+#: ../admin/view/referee_badge_types.php:21
+msgid "Create New Referee Badge Type"
+msgstr ""
+
+#: ../admin/view/referee_badge_types.php:22
+msgid "Edit Referee Badge Type"
+msgstr ""
+
+#: ../admin/view/referee_badge_types.php:23
+msgid "Add Referee Badge Type"
+msgstr ""
+
+#: ../admin/view/referee_badge_types.php:24
+msgid "Update Referee Badge Type"
+msgstr ""
+
+#: ../admin/view/referee_badge_types.php:28
+msgid "The referee badge type has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/referee_badge_types.php:29
+msgid "The referee badge type has been successfully added."
+msgstr ""
+
+#: ../admin/view/referee_badge_types.php:30
+msgid "The referee badge type has been successfully updated."
+msgstr ""
+
+#: ../admin/view/referee_badge_types.php:37
+msgid "The ID of the referee badge type."
+msgstr ""
+
+#: ../admin/view/referee_badge_types.php:42
+#: ../admin/view/referee_badge_types.php:60
+#: ../admin/view/referee_badges.php:49
+msgid "The name of the referee badge type."
+msgstr ""
+
+#: ../admin/view/referee_badge_types.php:47
+#: ../admin/view/referee_badge_types.php:76
+msgid "The description of the referee badge type."
+msgstr ""
+
+#: ../admin/view/referee_badges.php:19
+msgid "Referee Badge"
+msgstr ""
+
+#: ../admin/view/referee_badges.php:21
+msgid "Create New Referee Badge"
+msgstr ""
+
+#: ../admin/view/referee_badges.php:22
+msgid "Edit Referee Badge"
+msgstr ""
+
+#: ../admin/view/referee_badges.php:23
+msgid "Add Referee Badge"
+msgstr ""
+
+#: ../admin/view/referee_badges.php:24
+msgid "Update Referee Badge"
+msgstr ""
+
+#: ../admin/view/referee_badges.php:28
+msgid "The referee badge has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/referee_badges.php:29
+msgid "The referee badge has been successfully added."
+msgstr ""
+
+#: ../admin/view/referee_badges.php:30
+msgid "The referee badge has been successfully updated."
+msgstr ""
+
+#: ../admin/view/referee_badges.php:38
+msgid "The ID of the referee badge."
+msgstr ""
+
+#: ../admin/view/referee_badges.php:43 ../admin/view/referee_badges.php:75
+msgid "The referee."
+msgstr ""
+
+#: ../admin/view/referee_badges.php:55
+msgid "The start date of the referee badge."
+msgstr ""
+
+#: ../admin/view/referee_badges.php:61
+msgid "The end date of the referee badge."
+msgstr ""
+
+#: ../admin/view/referee_badges.php:92
+msgid "The referee badge type."
+msgstr ""
+
+#: ../admin/view/referee_badges.php:100
+msgid "Please enter a valid value in the \"Referee Badge Type\" field."
+msgstr ""
+
+#: ../admin/view/referee_badges.php:144
+msgid "Please add at least one referee with the"
+msgstr ""
+
+#: ../admin/view/referee_badges.php:154
+msgid "Please add at least one referee badge type with the"
+msgstr ""
+
+#: ../admin/view/referees.php:21
+msgid "Create New Referee"
+msgstr ""
+
+#: ../admin/view/referees.php:22
+msgid "Edit Referee"
+msgstr ""
+
+#: ../admin/view/referees.php:23
+msgid "Add Referee"
+msgstr ""
+
+#: ../admin/view/referees.php:24
+msgid "Update Referee"
+msgstr ""
+
+#: ../admin/view/referees.php:28
+msgid "The referee has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/referees.php:29
+msgid "The referee has been successfully added."
+msgstr ""
+
+#: ../admin/view/referees.php:30
+msgid "The referee has been successfully updated."
+msgstr ""
+
+#: ../admin/view/referees.php:38
+msgid "The ID of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:43 ../admin/view/referees.php:61
+msgid "The first name of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:48 ../admin/view/referees.php:77
+msgid "The last name of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:93
+msgid "Select an image that represents this referee."
+msgstr ""
+
+#: ../admin/view/referees.php:111
+msgid "The gender of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:130 ../admin/view/staff.php:136
+msgid "Please enter a valid value in the \"Gender\" field."
+msgstr ""
+
+#: ../admin/view/referees.php:140
+msgid "The date of birth of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:146 ../admin/view/staff.php:152
+msgid "Please enter a valid value in the \"Date of Birth\" field."
+msgstr ""
+
+#: ../admin/view/referees.php:156
+msgid "The date of death of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:162 ../admin/view/staff.php:168
+msgid "Please enter a valid value in the \"Date of Death\" field."
+msgstr ""
+
+#: ../admin/view/referees.php:172
+msgid "The citizenship of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:188
+msgid "Second citizenship"
+msgstr ""
+
+#: ../admin/view/referees.php:189
+msgid "The second citizenship of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:206
+msgid "The retired status of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:224
+msgid "Please enter a valid value in the \"Status\" field."
+msgstr ""
+
+#: ../admin/view/referees.php:233 ../public/class-dase-public.php:2662
+msgid "Place of Birth"
+msgstr ""
+
+#: ../admin/view/referees.php:234
+msgid "The place of birth of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:240
+msgid "Please enter a valid value in the \"Place of Birth\" field."
+msgstr ""
+
+#: ../admin/view/referees.php:249 ../public/class-dase-public.php:2664
+msgid "Residence"
+msgstr ""
+
+#: ../admin/view/referees.php:250
+msgid "The residence of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:256
+msgid "Please enter a valid value in the \"Residence\" field."
+msgstr ""
+
+#: ../admin/view/referees.php:265 ../public/class-dase-public.php:2666
+msgid "Job"
+msgstr ""
+
+#: ../admin/view/referees.php:266
+msgid "The job of the referee."
+msgstr ""
+
+#: ../admin/view/referees.php:272
+msgid "Please enter a valid value in the \"Job\" field."
+msgstr ""
+
+#: ../admin/view/squads.php:19
+msgid "Squad"
+msgstr ""
+
+#: ../admin/view/squads.php:21
+msgid "Create Squad"
+msgstr ""
+
+#: ../admin/view/squads.php:22
+msgid "Edit Squad"
+msgstr ""
+
+#: ../admin/view/squads.php:23
+msgid "Add Squad"
+msgstr ""
+
+#: ../admin/view/squads.php:24
+msgid "Update Squad"
+msgstr ""
+
+#: ../admin/view/squads.php:28
+msgid "The squad has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/squads.php:29
+msgid "The squad has been successfully added."
+msgstr ""
+
+#: ../admin/view/squads.php:30
+msgid "The squad has been successfully updated."
+msgstr ""
+
+#: ../admin/view/squads.php:38
+msgid "The ID of the squad."
+msgstr ""
+
+#: ../admin/view/squads.php:43 ../admin/view/squads.php:61
+msgid "The name of the squad."
+msgstr ""
+
+#: ../admin/view/squads.php:77
+msgid "The description of the squad."
+msgstr ""
+
+#: ../admin/view/squads.php:95
+msgid "Lineup"
+msgstr ""
+
+#: ../admin/view/squads.php:105 ../admin/view/squads.php:134
+msgid "of the squad."
+msgstr ""
+
+#: ../admin/view/squads.php:124 ../public/class-dase-public.php:2131
+msgid "Substitutes"
+msgstr ""
+
+#: ../admin/view/squads.php:142
+msgid "Please enter a valid value in the \"Substitutes"
+msgstr ""
+
+#: ../admin/view/squads.php:163
+msgid "The staff member"
+msgstr ""
+
+#: ../admin/view/squads.php:211
+msgid "The jersey set."
+msgstr ""
+
+#: ../admin/view/stadiums.php:21
+msgid "Create New Stadium"
+msgstr ""
+
+#: ../admin/view/stadiums.php:22
+msgid "Edit Stadium"
+msgstr ""
+
+#: ../admin/view/stadiums.php:23
+msgid "Add Stadium"
+msgstr ""
+
+#: ../admin/view/stadiums.php:24
+msgid "Update Stadium"
+msgstr ""
+
+#: ../admin/view/stadiums.php:28
+msgid "The stadium has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/stadiums.php:29
+msgid "The stadium has been successfully added."
+msgstr ""
+
+#: ../admin/view/stadiums.php:30
+msgid "The stadium has been successfully updated."
+msgstr ""
+
+#: ../admin/view/stadiums.php:37
+msgid "The ID of the stadium."
+msgstr ""
+
+#: ../admin/view/stadiums.php:42 ../admin/view/stadiums.php:60
+msgid "The name of the stadium."
+msgstr ""
+
+#: ../admin/view/stadiums.php:47 ../admin/view/stadiums.php:76
+msgid "The description of the stadium."
+msgstr ""
+
+#: ../admin/view/stadiums.php:92
+msgid "Select an image that represents this stadium."
+msgstr ""
+
+#: ../admin/view/staff.php:21
+msgid "Create New Staff"
+msgstr ""
+
+#: ../admin/view/staff.php:22
+msgid "Edit Staff"
+msgstr ""
+
+#: ../admin/view/staff.php:23
+msgid "Add Staff"
+msgstr ""
+
+#: ../admin/view/staff.php:24
+msgid "Update Staff"
+msgstr ""
+
+#: ../admin/view/staff.php:28
+msgid "The staff has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/staff.php:29
+msgid "The staff has been successfully added."
+msgstr ""
+
+#: ../admin/view/staff.php:30
+msgid "The staff has been successfully updated."
+msgstr ""
+
+#: ../admin/view/staff.php:38
+msgid "The ID of the staff member."
+msgstr ""
+
+#: ../admin/view/staff.php:43 ../admin/view/staff.php:67
+msgid "The first name of the staff member."
+msgstr ""
+
+#: ../admin/view/staff.php:48 ../admin/view/staff.php:83
+msgid "The last name of the staff member."
+msgstr ""
+
+#: ../admin/view/staff.php:52 ../admin/view/staff.php:239
+#: ../admin/view/staff_types.php:19 ../class-dase-ajax.php:2045
+#: ../public/class-dase-public.php:2602 ../shared/class-dase-shared.php:3231
+msgid "Staff Type"
+msgstr ""
+
+#: ../admin/view/staff.php:53 ../admin/view/staff.php:240
+msgid "The staff member type."
+msgstr ""
+
+#: ../admin/view/staff.php:99
+msgid "Select an image that represents this staff member."
+msgstr ""
+
+#: ../admin/view/staff.php:117
+msgid "The gender of the staff member."
+msgstr ""
+
+#: ../admin/view/staff.php:146
+msgid "The date of birth of the staff member."
+msgstr ""
+
+#: ../admin/view/staff.php:162
+msgid "The date of death of the staff member."
+msgstr ""
+
+#: ../admin/view/staff.php:178
+msgid "The citizenship of the staff member."
+msgstr ""
+
+#: ../admin/view/staff.php:195
+msgid "The second citizenship of the staff member."
+msgstr ""
+
+#: ../admin/view/staff.php:212
+msgid "The retired status of the staff member."
+msgstr ""
+
+#: ../admin/view/staff.php:248
+msgid "Please enter a valid value in the \"Staff Type\" field."
+msgstr ""
+
+#: ../admin/view/staff.php:260
+msgid "Please add at least one staff type with the"
+msgstr ""
+
+#: ../admin/view/staff_award_types.php:19 ../admin/view/staff_awards.php:47
+#: ../admin/view/staff_awards.php:85 ../class-dase-ajax.php:2073
+#: ../shared/class-dase-shared.php:3379
+msgid "Staff Award Type"
+msgstr ""
+
+#: ../admin/view/staff_award_types.php:21
+msgid "Create New Staff Award Type"
+msgstr ""
+
+#: ../admin/view/staff_award_types.php:22
+msgid "Edit Staff Award Type"
+msgstr ""
+
+#: ../admin/view/staff_award_types.php:23
+msgid "Add Staff Award Type"
+msgstr ""
+
+#: ../admin/view/staff_award_types.php:24
+msgid "Update Staff Award Type"
+msgstr ""
+
+#: ../admin/view/staff_award_types.php:28
+msgid "The staff award type has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/staff_award_types.php:29
+msgid "The staff award type has been successfully added."
+msgstr ""
+
+#: ../admin/view/staff_award_types.php:30
+msgid "The staff award type has been successfully updated."
+msgstr ""
+
+#: ../admin/view/staff_award_types.php:37
+msgid "The ID of the staff award type."
+msgstr ""
+
+#: ../admin/view/staff_award_types.php:42
+#: ../admin/view/staff_award_types.php:60
+msgid "The name of the staff award type."
+msgstr ""
+
+#: ../admin/view/staff_award_types.php:47
+#: ../admin/view/staff_award_types.php:76
+msgid "The description of the staff award type."
+msgstr ""
+
+#: ../admin/view/staff_awards.php:19
+msgid "Staff Award"
+msgstr ""
+
+#: ../admin/view/staff_awards.php:21
+msgid "Create New Staff Award"
+msgstr ""
+
+#: ../admin/view/staff_awards.php:22
+msgid "Edit Staff Award"
+msgstr ""
+
+#: ../admin/view/staff_awards.php:23
+msgid "Add Staff Award"
+msgstr ""
+
+#: ../admin/view/staff_awards.php:24
+msgid "Update Staff Award"
+msgstr ""
+
+#: ../admin/view/staff_awards.php:28
+msgid "The staff award has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/staff_awards.php:29
+msgid "The staff award has been successfully added."
+msgstr ""
+
+#: ../admin/view/staff_awards.php:30
+msgid "The staff award has been successfully updated."
+msgstr ""
+
+#: ../admin/view/staff_awards.php:37
+msgid "The ID of the staff award."
+msgstr ""
+
+#: ../admin/view/staff_awards.php:42
+msgid "The staff name."
+msgstr ""
+
+#: ../admin/view/staff_awards.php:48 ../admin/view/staff_awards.php:86
+msgid "The staff award type."
+msgstr ""
+
+#: ../admin/view/staff_awards.php:54 ../admin/view/staff_awards.php:104
+#: ../admin/view/trophies.php:54 ../admin/view/trophies.php:104
+msgid "The assignment date."
+msgstr ""
+
+#: ../admin/view/staff_awards.php:68
+msgid "The staff member."
+msgstr ""
+
+#: ../admin/view/staff_awards.php:76
+msgid "Please enter a valid value in the \"Staff Exists\" field."
+msgstr ""
+
+#: ../admin/view/staff_awards.php:94
+msgid "Please enter a valid value in the \"Staff Award Type\" field."
+msgstr ""
+
+#: ../admin/view/staff_awards.php:122
+msgid "Please add at least one staff award type with the"
+msgstr ""
+
+#: ../admin/view/staff_awards.php:132
+msgid "Please add at least one staff with the"
+msgstr ""
+
+#: ../admin/view/staff_types.php:21
+msgid "Create New Staff Type"
+msgstr ""
+
+#: ../admin/view/staff_types.php:22
+msgid "Edit Staff Type"
+msgstr ""
+
+#: ../admin/view/staff_types.php:23
+msgid "Add Staff Type"
+msgstr ""
+
+#: ../admin/view/staff_types.php:24
+msgid "Update Staff Type"
+msgstr ""
+
+#: ../admin/view/staff_types.php:28
+msgid "The staff type has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/staff_types.php:29
+msgid "The staff type has been successfully added."
+msgstr ""
+
+#: ../admin/view/staff_types.php:30
+msgid "The staff type has been successfully updated"
+msgstr ""
+
+#: ../admin/view/staff_types.php:37
+msgid "The ID of the staff type."
+msgstr ""
+
+#: ../admin/view/staff_types.php:42 ../admin/view/staff_types.php:60
+msgid "The name of the staff type."
+msgstr ""
+
+#: ../admin/view/staff_types.php:47 ../admin/view/staff_types.php:76
+msgid "The description of the staff type."
+msgstr ""
+
+#: ../admin/view/team_contract_types.php:19 ../class-dase-ajax.php:2267
+#: ../shared/class-dase-shared.php:3723
+msgid "Team Contract Type"
+msgstr ""
+
+#: ../admin/view/team_contract_types.php:21
+msgid "Create New Team Contract Type"
+msgstr ""
+
+#: ../admin/view/team_contract_types.php:22
+msgid "Edit Team Contract Type"
+msgstr ""
+
+#: ../admin/view/team_contract_types.php:23
+msgid "Add Team Contract Type"
+msgstr ""
+
+#: ../admin/view/team_contract_types.php:24
+msgid "Update Team Contract Type"
+msgstr ""
+
+#: ../admin/view/team_contract_types.php:28
+msgid "The team contract type has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/team_contract_types.php:29
+msgid "The team contract type has been successfully added."
+msgstr ""
+
+#: ../admin/view/team_contract_types.php:30
+msgid "The team contract type has been successfully updated."
+msgstr ""
+
+#: ../admin/view/team_contract_types.php:37
+msgid "The ID of the team contract type."
+msgstr ""
+
+#: ../admin/view/team_contract_types.php:42
+#: ../admin/view/team_contract_types.php:60
+msgid "The name of the team contract type."
+msgstr ""
+
+#: ../admin/view/team_contract_types.php:47
+#: ../admin/view/team_contract_types.php:76
+msgid "The description of the team contract type."
+msgstr ""
+
+#: ../admin/view/team_contracts.php:19
+msgid "Team Contract"
+msgstr ""
+
+#: ../admin/view/team_contracts.php:21
+msgid "Create New Team Contract"
+msgstr ""
+
+#: ../admin/view/team_contracts.php:22
+msgid "Edit Team Contract"
+msgstr ""
+
+#: ../admin/view/team_contracts.php:23
+msgid "Add Team Contract"
+msgstr ""
+
+#: ../admin/view/team_contracts.php:24
+msgid "Update Team Contract"
+msgstr ""
+
+#: ../admin/view/team_contracts.php:49 ../admin/view/team_contracts.php:105
+msgid "The team of the player."
+msgstr ""
+
+#: ../admin/view/team_contracts.php:72 ../admin/view/team_contracts.php:172
+#: ../class-dase-ajax.php:2271 ../shared/class-dase-shared.php:3756
+msgid "Salary"
+msgstr ""
+
+#: ../admin/view/team_contracts.php:73
+msgid "The salary of the player."
+msgstr ""
+
+#: ../admin/view/team_contracts.php:131
+msgid "Please enter a valid value in the \"Contract Type\" field."
+msgstr ""
+
+#: ../admin/view/team_contracts.php:173
+msgid "The salary of the contract."
+msgstr ""
+
+#: ../admin/view/team_contracts.php:179
+msgid "Please enter a valid value in the \"Salary\" field."
+msgstr ""
+
+#: ../admin/view/team_contracts.php:191 ../admin/view/transfers.php:192
+msgid "Please add at least one player type with the"
+msgstr ""
+
+#: ../admin/view/team_contracts.php:201
+msgid "Please add at least one team contract type with the"
+msgstr ""
+
+#: ../admin/view/teams.php:21
+msgid "Create Team"
+msgstr ""
+
+#: ../admin/view/teams.php:22
+msgid "Edit Team"
+msgstr ""
+
+#: ../admin/view/teams.php:23
+msgid "Add Team"
+msgstr ""
+
+#: ../admin/view/teams.php:24
+msgid "Update Team"
+msgstr ""
+
+#: ../admin/view/teams.php:28
+msgid "The team has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/teams.php:29
+msgid "The team has been successfully added."
+msgstr ""
+
+#: ../admin/view/teams.php:30
+msgid "The team has been successfully updated."
+msgstr ""
+
+#: ../admin/view/teams.php:37
+msgid "The ID of the team."
+msgstr ""
+
+#: ../admin/view/teams.php:42 ../admin/view/teams.php:61
+msgid "The name of the team."
+msgstr ""
+
+#: ../admin/view/teams.php:47 ../admin/view/teams.php:111
+msgid "The type of team."
+msgstr ""
+
+#: ../admin/view/teams.php:93
+msgid "Select a logo that represents this team."
+msgstr ""
+
+#: ../admin/view/teams.php:129
+msgid "Please enter a valid value in the \"Type\" field."
+msgstr ""
+
+#: ../admin/view/teams.php:138
+msgid "Club Nation"
+msgstr ""
+
+#: ../admin/view/teams.php:139
+msgid "The club nation."
+msgstr ""
+
+#: ../admin/view/teams.php:146
+msgid "Please enter a valid value in the \"Club Nation\" field."
+msgstr ""
+
+#: ../admin/view/teams.php:155
+msgid "National Team Confederation"
+msgstr ""
+
+#: ../admin/view/teams.php:156
+msgid "The national team confederation."
+msgstr ""
+
+#: ../admin/view/teams.php:164
+msgid ""
+"Please enter a valid value in the \"National Team Confederation\" field."
+msgstr ""
+
+#: ../admin/view/teams.php:174
+msgid "The stadium of the team."
+msgstr ""
+
+#: ../admin/view/teams.php:192
+msgid "The full name of the team."
+msgstr ""
+
+#: ../admin/view/teams.php:208
+msgid "The address of the team."
+msgstr ""
+
+#: ../admin/view/teams.php:223
+msgid "Tel"
+msgstr ""
+
+#: ../admin/view/teams.php:224
+msgid "The telephone number of the team."
+msgstr ""
+
+#: ../admin/view/teams.php:230
+msgid "Please enter a valid value in the \"Tel\" field."
+msgstr ""
+
+#: ../admin/view/teams.php:239
+msgid "Fax"
+msgstr ""
+
+#: ../admin/view/teams.php:240
+msgid "The fax number of the team."
+msgstr ""
+
+#: ../admin/view/teams.php:255
+msgid "Website URL"
+msgstr ""
+
+#: ../admin/view/teams.php:256
+msgid "The website URL of the team."
+msgstr ""
+
+#: ../admin/view/teams.php:262
+msgid "Please enter a valid value in the \"Website URL\" field."
+msgstr ""
+
+#: ../admin/view/teams.php:271
+msgid "Foundation Date"
+msgstr ""
+
+#: ../admin/view/teams.php:272
+msgid "The foundation date of the team."
+msgstr ""
+
+#: ../admin/view/teams.php:278
+msgid "Please enter a valid value in the \"Foundation Date\" field."
+msgstr ""
+
+#: ../admin/view/transfer_types.php:19 ../admin/view/transfers.php:47
+#: ../admin/view/transfers.php:103 ../class-dase-ajax.php:2190
+#: ../shared/class-dase-shared.php:2357
+msgid "Transfer Type"
+msgstr ""
+
+#: ../admin/view/transfer_types.php:21
+msgid "Create New Transfer Type"
+msgstr ""
+
+#: ../admin/view/transfer_types.php:22
+msgid "Edit Transfer Type"
+msgstr ""
+
+#: ../admin/view/transfer_types.php:23
+msgid "Add Transfer Type"
+msgstr ""
+
+#: ../admin/view/transfer_types.php:24
+msgid "Update Transfer Type"
+msgstr ""
+
+#: ../admin/view/transfer_types.php:28
+msgid "The transfer type has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/transfer_types.php:29
+msgid "The transfer type has been successfully added."
+msgstr ""
+
+#: ../admin/view/transfer_types.php:30
+msgid "The transfer type has been successfully updated."
+msgstr ""
+
+#: ../admin/view/transfer_types.php:37
+msgid "The ID of the transfer type."
+msgstr ""
+
+#: ../admin/view/transfer_types.php:42 ../admin/view/transfer_types.php:60
+msgid "The name of the transfer type."
+msgstr ""
+
+#: ../admin/view/transfer_types.php:47 ../admin/view/transfer_types.php:76
+msgid "The description of the transfer type."
+msgstr ""
+
+#: ../admin/view/transfers.php:21
+msgid "Create New Transfer"
+msgstr ""
+
+#: ../admin/view/transfers.php:22
+msgid "Edit Transfer"
+msgstr ""
+
+#: ../admin/view/transfers.php:23
+msgid "Add Transfer"
+msgstr ""
+
+#: ../admin/view/transfers.php:24
+msgid "Update Transfer"
+msgstr ""
+
+#: ../admin/view/transfers.php:28
+msgid "The transfer has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/transfers.php:29
+msgid "The transfer has been successfully added."
+msgstr ""
+
+#: ../admin/view/transfers.php:30
+msgid "The transfer has been successfully updated."
+msgstr ""
+
+#: ../admin/view/transfers.php:37
+msgid "The ID of the transfer."
+msgstr ""
+
+#: ../admin/view/transfers.php:48 ../admin/view/transfers.php:104
+msgid "The transfer type."
+msgstr ""
+
+#: ../admin/view/transfers.php:53 ../admin/view/transfers.php:121
+#: ../class-dase-ajax.php:2194 ../shared/class-dase-shared.php:2367
+msgid "Team Left"
+msgstr ""
+
+#: ../admin/view/transfers.php:54 ../admin/view/transfers.php:122
+msgid "The team left by the player."
+msgstr ""
+
+#: ../admin/view/transfers.php:59 ../admin/view/transfers.php:139
+#: ../class-dase-ajax.php:2198 ../shared/class-dase-shared.php:2377
+msgid "Team Joined"
+msgstr ""
+
+#: ../admin/view/transfers.php:60 ../admin/view/transfers.php:140
+msgid "The team joined by the player."
+msgstr ""
+
+#: ../admin/view/transfers.php:66 ../admin/view/transfers.php:158
+msgid "The date of the transfer."
+msgstr ""
+
+#: ../admin/view/transfers.php:71 ../admin/view/transfers.php:173
+#: ../class-dase-ajax.php:2206 ../shared/class-dase-shared.php:2397
+msgid "Fee"
+msgstr ""
+
+#: ../admin/view/transfers.php:72
+msgid "The transfer fee."
+msgstr ""
+
+#: ../admin/view/transfers.php:112
+msgid "Please enter a valid value in the \"Transfer Type\" field."
+msgstr ""
+
+#: ../admin/view/transfers.php:130
+msgid "Please enter a valid value in the \"Team Left\" field."
+msgstr ""
+
+#: ../admin/view/transfers.php:148
+msgid "Please enter a valid value in the \"Team Joined\" field."
+msgstr ""
+
+#: ../admin/view/transfers.php:174
+msgid "The fee of the transfer."
+msgstr ""
+
+#: ../admin/view/transfers.php:180
+msgid "Please enter a valid value in the \"Fee\" field."
+msgstr ""
+
+#: ../admin/view/transfers.php:212
+msgid "Please add at least one transfer type with the"
+msgstr ""
+
+#: ../admin/view/trophies.php:19
+msgid "Trophy"
+msgstr ""
+
+#: ../admin/view/trophies.php:21
+msgid "Create New Trophy"
+msgstr ""
+
+#: ../admin/view/trophies.php:22
+msgid "Edit Trophy"
+msgstr ""
+
+#: ../admin/view/trophies.php:23
+msgid "Add Trophy"
+msgstr ""
+
+#: ../admin/view/trophies.php:24
+msgid "Update Trophy"
+msgstr ""
+
+#: ../admin/view/trophies.php:28
+msgid "The trophy has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/trophies.php:29
+msgid "The trophy has been successfully added."
+msgstr ""
+
+#: ../admin/view/trophies.php:30
+msgid "The trophy has been successfully updated."
+msgstr ""
+
+#: ../admin/view/trophies.php:37
+msgid "The ID of the trophy."
+msgstr ""
+
+#: ../admin/view/trophies.php:41 ../admin/view/trophies.php:67
+#: ../admin/view/trophy_types.php:19 ../class-dase-ajax.php:2110
+#: ../shared/class-dase-shared.php:3548
+msgid "Trophy Type"
+msgstr ""
+
+#: ../admin/view/trophies.php:42 ../admin/view/trophies.php:68
+msgid "The trophy type."
+msgstr ""
+
+#: ../admin/view/trophies.php:48
+msgid "The team."
+msgstr ""
+
+#: ../admin/view/trophies.php:76
+msgid "Please enter a valid value in the \"Trophy Type\" field."
+msgstr ""
+
+#: ../admin/view/trophies.php:86
+msgid "The team associated with the trophy."
+msgstr ""
+
+#: ../admin/view/trophies.php:122
+msgid "Please add at least one trophy type with the"
+msgstr ""
+
+#: ../admin/view/trophy_types.php:21
+msgid "Create New Trophy Type"
+msgstr ""
+
+#: ../admin/view/trophy_types.php:22
+msgid "Edit Trophy Type"
+msgstr ""
+
+#: ../admin/view/trophy_types.php:23
+msgid "Add Trophy Type"
+msgstr ""
+
+#: ../admin/view/trophy_types.php:24
+msgid "Update Trophy Type"
+msgstr ""
+
+#: ../admin/view/trophy_types.php:28
+msgid "The trophy type has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/trophy_types.php:29
+msgid "The trophy type has been successfully added."
+msgstr ""
+
+#: ../admin/view/trophy_types.php:30
+msgid "The trophy type has been successfully updated."
+msgstr ""
+
+#: ../admin/view/trophy_types.php:37
+msgid "The ID of the trophy type."
+msgstr ""
+
+#: ../admin/view/trophy_types.php:42 ../admin/view/trophy_types.php:60
+msgid "The name of the trophy type."
+msgstr ""
+
+#: ../admin/view/trophy_types.php:47 ../admin/view/trophy_types.php:76
+msgid "The description of the trophy type."
+msgstr ""
+
+#: ../admin/view/trophy_types.php:92
+msgid "Select a logo that represents this trophy."
+msgstr ""
+
+#: ../admin/view/unavailable_player_types.php:19
+#: ../admin/view/unavailable_players.php:48
+#: ../admin/view/unavailable_players.php:92 ../class-dase-ajax.php:2146
+#: ../shared/class-dase-shared.php:2813
+msgid "Unavailable Player Type"
+msgstr ""
+
+#: ../admin/view/unavailable_player_types.php:21
+msgid "Create New Unavailable Player Type"
+msgstr ""
+
+#: ../admin/view/unavailable_player_types.php:22
+msgid "Edit Unavailable Player Type"
+msgstr ""
+
+#: ../admin/view/unavailable_player_types.php:23
+msgid "Add Unavailable Player Type"
+msgstr ""
+
+#: ../admin/view/unavailable_player_types.php:24
+msgid "Update Unavailable Player Type"
+msgstr ""
+
+#: ../admin/view/unavailable_player_types.php:28
+msgid "The unavailable player type has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/unavailable_player_types.php:29
+msgid "The unavailable player type has been successfully added."
+msgstr ""
+
+#: ../admin/view/unavailable_player_types.php:30
+msgid "The unavailable player type has been successfully updated"
+msgstr ""
+
+#: ../admin/view/unavailable_player_types.php:37
+msgid "The ID of the unavailable player type."
+msgstr ""
+
+#: ../admin/view/unavailable_player_types.php:42
+#: ../admin/view/unavailable_player_types.php:60
+msgid "The name of the unavailable player type."
+msgstr ""
+
+#: ../admin/view/unavailable_player_types.php:47
+#: ../admin/view/unavailable_player_types.php:76
+msgid "The description of the unavailable player type."
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:19
+msgid "Unavailable Player"
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:21
+msgid "Create New Unavailable Player"
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:22
+msgid "Edit Unavailable Player"
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:23
+msgid "Add Unavailable Player"
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:24
+msgid "Update Unavailable Player"
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:28
+msgid "The unavailable player has been successfully deleted."
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:29
+msgid "The unavailable player has been successfully added."
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:30
+msgid "The unavailable player has been successfully updated."
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:38
+msgid "The ID of the unavailable player."
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:43
+#: ../admin/view/unavailable_players.php:75
+msgid "The unavailable player."
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:49
+#: ../admin/view/unavailable_players.php:93
+msgid "The unavailable player type."
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:83
+msgid "Please enter a valid player in the \"Player\" field."
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:101
+msgid ""
+"Please enter a valid unavailable player type in the \"Unavailable Player Type"
+"\" field."
+msgstr ""
+
+#: ../admin/view/unavailable_players.php:155
+msgid "Please add at least one unavailable player type with the"
+msgstr ""
+
+#: ../class-dase-ajax.php:252 ../class-dase-ajax.php:304
+#: ../class-dase-ajax.php:355 ../class-dase-ajax.php:395
+#: ../class-dase-ajax.php:435 ../class-dase-ajax.php:475
+#: ../class-dase-ajax.php:514 ../class-dase-ajax.php:560
+#: ../class-dase-ajax.php:602 ../class-dase-ajax.php:653
+#: ../class-dase-ajax.php:693 ../class-dase-ajax.php:733
+#: ../class-dase-ajax.php:773 ../class-dase-ajax.php:813
+#: ../class-dase-ajax.php:856 ../class-dase-ajax.php:906
+#: ../class-dase-ajax.php:944 ../class-dase-ajax.php:984
+#: ../class-dase-ajax.php:1024 ../class-dase-ajax.php:1066
+#: ../class-dase-ajax.php:1149 ../class-dase-ajax.php:1265
+#: ../class-dase-ajax.php:1318
+msgid "All"
+msgstr ""
+
+#: ../class-dase-ajax.php:1366 ../class-dase-ajax.php:1645
+#: ../shared/class-dase-shared.php:4578 ../shared/class-dase-shared.php:4747
+msgid "Result"
+msgstr ""
+
+#: ../class-dase-ajax.php:1394 ../public/class-dase-public.php:2010
+#: ../public/class-dase-public.php:2543
+msgid "Position"
+msgstr ""
+
+#: ../class-dase-ajax.php:1402
+msgid "Played"
+msgstr ""
+
+#: ../class-dase-ajax.php:1418
+msgid "Goals For"
+msgstr ""
+
+#: ../class-dase-ajax.php:1422
+msgid "Goals Against"
+msgstr ""
+
+#: ../class-dase-ajax.php:1470 ../class-dase-ajax.php:1502
+#: ../class-dase-ajax.php:1685 ../class-dase-ajax.php:1717
+#: ../class-dase-ajax.php:1809 ../class-dase-ajax.php:2037
+#: ../class-dase-ajax.php:2081 ../class-dase-ajax.php:2158
+#: ../class-dase-ajax.php:2210 ../class-dase-ajax.php:2247
+#: ../class-dase-ajax.php:2323 ../public/class-dase-public.php:2537
+#: ../public/class-dase-public.php:2598 ../public/class-dase-public.php:2658
+#: ../shared/class-dase-shared.php:2048 ../shared/class-dase-shared.php:2407
+#: ../shared/class-dase-shared.php:2634 ../shared/class-dase-shared.php:2843
+#: ../shared/class-dase-shared.php:3042 ../shared/class-dase-shared.php:3211
+#: ../shared/class-dase-shared.php:3399 ../shared/class-dase-shared.php:3767
+#: ../shared/class-dase-shared.php:4026 ../shared/class-dase-shared.php:4220
+msgid "Age"
+msgstr ""
+
+#: ../class-dase-ajax.php:1506 ../shared/class-dase-shared.php:5845
+msgid "Nat."
+msgstr ""
+
+#: ../class-dase-ajax.php:1547 ../class-dase-ajax.php:1607
+#: ../class-dase-ajax.php:1941 ../class-dase-ajax.php:2009
+#: ../shared/class-dase-shared.php:5228 ../shared/class-dase-shared.php:5522
+#: ../shared/class-dase-shared.php:5687 ../shared/class-dase-shared.php:6007
+msgid "Jersey Number"
+msgstr ""
+
+#: ../class-dase-ajax.php:1733 ../public/class-dase-public.php:2553
+#: ../shared/class-dase-shared.php:2088
+msgid "Current Club"
+msgstr ""
+
+#: ../class-dase-ajax.php:1737 ../public/class-dase-public.php:2549
+#: ../shared/class-dase-shared.php:2098
+msgid "Ownership"
+msgstr ""
+
+#: ../class-dase-ajax.php:1741 ../public/class-dase-public.php:2551
+#: ../shared/class-dase-shared.php:2108
+msgid "Contract Expires"
+msgstr ""
+
+#: ../class-dase-ajax.php:1745 ../class-dase-ajax.php:2218
+#: ../class-dase-ajax.php:2275 ../shared/class-dase-shared.php:2118
+#: ../shared/class-dase-shared.php:2427 ../shared/class-dase-shared.php:3789
+msgid "Market Value"
+msgstr ""
+
+#: ../class-dase-ajax.php:1849 ../class-dase-ajax.php:1885
+#: ../public/class-dase-public.php:2672 ../shared/class-dase-shared.php:4902
+#: ../shared/class-dase-shared.php:6155
+msgid "Appearances"
+msgstr ""
+
+#: ../class-dase-ajax.php:2319
+msgid "End date"
+msgstr ""
+
+#: ../class-dase-ajax.php:2355
+msgid "10"
+msgstr ""
+
+#: ../class-dase-ajax.php:2359
+msgid "20"
+msgstr ""
+
+#: ../class-dase-ajax.php:2363
+msgid "30"
+msgstr ""
+
+#: ../class-dase-ajax.php:2367
+msgid "40"
+msgstr ""
+
+#: ../class-dase-ajax.php:2371
+msgid "50"
+msgstr ""
+
+#: ../class-dase-ajax.php:2375
+msgid "60"
+msgstr ""
+
+#: ../class-dase-ajax.php:2379
+msgid "70"
+msgstr ""
+
+#: ../class-dase-ajax.php:2383
+msgid "80"
+msgstr ""
+
+#: ../class-dase-ajax.php:2387
+msgid "90"
+msgstr ""
+
+#: ../class-dase-ajax.php:2391
+msgid "100"
+msgstr ""
+
+#: ../public/class-dase-public.php:706 ../public/class-dase-public.php:1074
+#: ../public/class-dase-public.php:1648 ../public/class-dase-public.php:1665
+#: ../public/class-dase-public.php:1887 ../public/class-dase-public.php:2048
+#: ../public/class-dase-public.php:2241 ../public/class-dase-public.php:2527
+#: ../public/class-dase-public.php:2588 ../public/class-dase-public.php:2648
+msgid "There are no data associated with your selection."
+msgstr ""
+
+#: ../public/class-dase-public.php:1675
+msgid "Match Timeline"
+msgstr ""
+
+#: ../public/class-dase-public.php:1706
+msgid "Own Goal"
+msgstr ""
+
+#: ../public/class-dase-public.php:1708 ../shared/class-dase-shared.php:730
+msgid "Goal"
+msgstr ""
+
+#: ../public/class-dase-public.php:1722 ../public/class-dase-public.php:2317
+#: ../shared/class-dase-shared.php:731
+msgid "Yellow Card"
+msgstr ""
+
+#: ../public/class-dase-public.php:1734 ../public/class-dase-public.php:2334
+#: ../shared/class-dase-shared.php:732
+msgid "Red Card"
+msgstr ""
+
+#: ../public/class-dase-public.php:1742 ../public/class-dase-public.php:2347
+#: ../shared/class-dase-shared.php:733
+msgid "Substitution"
+msgstr ""
+
+#: ../public/class-dase-public.php:1954
+msgid "Match Score"
+msgstr ""
+
+#: ../public/class-dase-public.php:1970
+msgid "Position:"
+msgstr ""
+
+#: ../public/class-dase-public.php:2069
+msgid "Starting Lineup"
+msgstr ""
+
+#: ../public/class-dase-public.php:2250
+msgid "Match Commentary"
+msgstr ""
+
+#: ../public/class-dase-public.php:2305
+msgid "Goal for"
+msgstr ""
+
+#: ../public/class-dase-public.php:2318
+msgid "Yellow Card for"
+msgstr ""
+
+#: ../public/class-dase-public.php:2335
+msgid "Red Card for"
+msgstr ""
+
+#: ../public/class-dase-public.php:2349
+msgid "For"
+msgstr ""
+
+#: ../public/class-dase-public.php:2531
+msgid "Player Summary"
+msgstr ""
+
+#: ../public/class-dase-public.php:2555
+msgid "Joined"
+msgstr ""
+
+#: ../public/class-dase-public.php:2592
+msgid "Staff Summary"
+msgstr ""
+
+#: ../public/class-dase-public.php:2604
+msgid "Preferred Formation"
+msgstr ""
+
+#: ../public/class-dase-public.php:2606
+msgid "PPM"
+msgstr ""
+
+#: ../public/class-dase-public.php:2652
+msgid "Referee Summary"
+msgstr ""
+
+#: ../public/class-dase-public.php:2670
+msgid "Badges"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:953
+msgid "ranking type"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:962
+msgid "staff"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:978
+msgid "referee"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:988
+msgid "referee badge type"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:997
+msgid "staff type"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1006
+msgid "player award type"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1015
+msgid "staff award type"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1024
+msgid "unavailable player type"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1033
+msgid "trophy type"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1042
+msgid "agency"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1051
+msgid "team contract type"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1060
+msgid "agency contract type"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1069
+msgid "injury type"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1078
+msgid "transfer type"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1087
+msgid "player"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1119
+msgid "player position"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1128
+msgid "stadium"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1138
+msgid "single_elimination"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1147
+msgid "competition"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1156
+msgid "team"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1184
+msgid "match"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1193
+msgid "formation"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1208
+msgid "round_robin"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1217
+msgid "jersey set"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1236
+msgid "This"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1236
+msgid ""
+"is associated with one or more of the following items and can't be deleted:"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1670
+msgid "Club"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:1674
+msgid "National Team"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:6380
+msgid "#"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:6400
+msgid "MP"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:6410
+msgid "W"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:6420
+msgid "D"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:6430
+msgid "L"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:6440
+msgid "GF"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:6450
+msgid "GA"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:6460
+msgid "GD"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:6470
+msgid "PTS"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:6483
+msgid "Please select a valid competition."
+msgstr ""
+
+#: ../shared/class-dase-shared.php:6488
+msgid ""
+"You can't create a standing table for a competition of type \"Elimination\"."
+msgstr ""
+
+#: ../shared/class-dase-shared.php:7389
+msgid "NA"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:7601
+msgid "Final"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:7605
+msgid "Semi-Finals"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:7609
+msgid "Quarter-Finals"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:7615
+msgid "last"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:7621
+msgid "Matchday"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:7645
+msgid "1st Leg"
+msgstr ""
+
+#: ../shared/class-dase-shared.php:7647
+msgid "2nd Leg"
+msgstr ""

@@ -1,0 +1,156 @@
+/* Match Timeline Block --------------------------------------------------------------------------------------------- */
+.dase-match-timeline{
+    margin: 20px 0 !important;
+}
+
+.dase-match-timeline-table img{
+    width: 40px !important;
+    height: 40px !important;
+}
+
+.dase-match-timeline-player-container-team-1-image img,
+.dase-match-timeline-player-container-team-1-image svg{
+    
+}
+
+.dase-match-timeline-player-container-team-2-image img,
+.dase-match-timeline-player-container-team-2-image svg{
+    float: left !important;
+}
+
+.dase-match-timeline-player-container-team-1-image img,
+.dase-match-timeline-player-container-team-1-image svg,
+.dase-match-timeline-player-container-team-2-image img,
+.dase-match-timeline-player-container-team-2-image svg{
+    width: 40px !important;
+    height: 40px !important;
+}
+
+.dase-match-timeline-player-container-team-1{
+    display: flex !important;
+}
+
+.dase-match-timeline-player-container-team-1-image{
+    flex-basis: 40px !important;
+    order: 2 !important;
+    margin-left: 10px !important;
+    height: 40px !important;
+}
+
+.dase-match-timeline-player-container-team-1-content{
+    flex-basis: calc(100% - 50px) !important;
+    order: 1 !important;
+}
+
+.dase-match-timeline-player-container-team-2{
+    display: flex !important;
+}
+
+.dase-match-timeline-player-container-team-2-image{
+    flex-basis: 40px !important;
+    order: 1 !important;
+    margin-right: 10px !important;
+    height: 40px !important;
+}
+
+.dase-match-timeline-player-container-team-2-content{
+    flex-basis: calc(100% - 50px) !important;
+    order: 2 !important;
+}
+
+.dase-match-timeline-player-name{
+    margin-top: 2px !important;
+}
+
+.dase-match-timeline-player-container-team-1 .dase-match-timeline-player-name{
+    text-align: right !important;
+    font-size: 11px !important;
+    line-height: 18px !important;
+    color: #666 !important;
+}
+
+.dase-match-timeline-player-container-team-1 .dase-match-timeline-description{
+    text-align: right !important;
+    font-size: 11px !important;
+    line-height: 18px !important;
+    color: #666 !important;
+}
+
+.dase-match-timeline-player-container-team-2 .dase-match-timeline-player-name{
+    text-align: left !important;
+    font-size: 11px !important;
+    line-height: 18px !important;
+    color: #666 !important;
+}
+
+.dase-match-timeline-player-container-team-2 .dase-match-timeline-description{
+    text-align: left !important;
+    font-size: 11px !important;
+    line-height: 18px !important;
+    color: #666 !important;
+}
+
+.dase-match-timeline-content-clock > div{
+    margin: 0 10px !important;
+}
+
+.dase-match-timeline-title{
+    text-transform: none !important;
+    background: #f2f2f2 !important;
+    color: #333 !important;
+    font-weight: 700 !important;
+    padding: 7px 10px !important;
+    line-height: 16px !important;
+    border-color: #e1e1e1 !important;
+    font-size: 11px !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+}
+
+.dase-match-timeline-content-row{
+    display: flex !important;
+    border-width: 0 1px 1px 1px !important;
+    border-color: #e1e1e1 !important;
+    border-style: solid !important;
+    padding: 7px 0 !important;
+}
+
+.dase-match-timeline-content-row-cell{
+    min-height: 40px !important;
+}
+
+.dase-match-timeline-content-team-1-logo{
+    flex-basis: 60px !important;
+}
+
+.dase-match-timeline-content-team-1-logo img,
+.dase-match-timeline-content-team-1-logo svg{
+    width: 40px !important;
+    height: 40px !important;
+    margin: 0 10px !important;
+    float: left !important;
+}
+
+.dase-match-timeline-content-team-1-player{
+    flex-basis: calc(50% - 90px) !important;
+}
+
+.dase-match-timeline-content-clock{
+    flex-basis: 60px !important;
+}
+
+.dase-match-timeline-content-team-2-player{
+    flex-basis: calc(50% - 90px) !important;
+}
+
+.dase-match-timeline-content-team-2-logo{
+    flex-basis: 60px !important;
+}
+
+.dase-match-timeline-content-team-2-logo img,
+.dase-match-timeline-content-team-2-logo svg{
+    width: 40px !important;
+    height: 40px !important;
+    margin: 0 10px !important;
+    float: right !important;
+}

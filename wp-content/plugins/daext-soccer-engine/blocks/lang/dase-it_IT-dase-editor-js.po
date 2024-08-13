@@ -1,0 +1,664 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-02-26 19:43+0100\n"
+"PO-Revision-Date: 2020-02-26 20:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: dist\n"
+
+#: src/blocks/agency-contracts/index.js:44
+msgid "Agency"
+msgstr "Agenzia"
+
+#: src/blocks/agency-contracts/index.js:50
+msgid "Agency Contract Type"
+msgstr "Tipologia Contratto Agenzia"
+
+#: src/blocks/agency-contracts/index.js:56
+#: src/blocks/competition-round/index.js:68
+#: src/blocks/competition-standings-table/index.js:48
+#: src/blocks/injuries/index.js:56
+#: src/blocks/market-value-transitions/index.js:66
+#: src/blocks/match-lineup/index.js:57 src/blocks/match-staff/index.js:57
+#: src/blocks/match-substitutions/index.js:57 src/blocks/matches/index.js:74
+#: src/blocks/player-awards/index.js:47 src/blocks/players/index.js:98
+#: src/blocks/ranking-transitions/index.js:76
+#: src/blocks/referee-statistics-by-competition/index.js:48
+#: src/blocks/referee-statistics-by-team/index.js:48
+#: src/blocks/squad-lineup/index.js:48 src/blocks/squad-staff/index.js:48
+#: src/blocks/squad-substitutions/index.js:48
+#: src/blocks/staff-awards/index.js:47 src/blocks/staff/index.js:65
+#: src/blocks/team-contracts/index.js:56 src/blocks/transfers/index.js:114
+#: src/blocks/trophies/index.js:75 src/blocks/unavailable-players/index.js:56
+msgid "Columns"
+msgstr "Colonne"
+
+#: src/blocks/agency-contracts/index.js:62
+#: src/blocks/competition-round/index.js:74
+#: src/blocks/competition-standings-table/index.js:54
+#: src/blocks/injuries/index.js:62
+#: src/blocks/market-value-transitions/index.js:72
+#: src/blocks/match-lineup/index.js:63 src/blocks/match-staff/index.js:63
+#: src/blocks/match-substitutions/index.js:63 src/blocks/matches/index.js:80
+#: src/blocks/player-awards/index.js:53 src/blocks/players/index.js:104
+#: src/blocks/ranking-transitions/index.js:82
+#: src/blocks/referee-statistics-by-competition/index.js:54
+#: src/blocks/referee-statistics-by-team/index.js:54
+#: src/blocks/squad-lineup/index.js:54 src/blocks/squad-staff/index.js:54
+#: src/blocks/squad-substitutions/index.js:54
+#: src/blocks/staff-awards/index.js:53 src/blocks/staff/index.js:71
+#: src/blocks/team-contracts/index.js:62 src/blocks/transfers/index.js:120
+#: src/blocks/trophies/index.js:81 src/blocks/unavailable-players/index.js:62
+msgid "Hidden Columns (Breakpoint 1)"
+msgstr "Colonne Nascoste (Breakpoint 1)"
+
+#: src/blocks/agency-contracts/index.js:68
+#: src/blocks/competition-round/index.js:80
+#: src/blocks/competition-standings-table/index.js:60
+#: src/blocks/injuries/index.js:68
+#: src/blocks/market-value-transitions/index.js:78
+#: src/blocks/match-lineup/index.js:69 src/blocks/match-staff/index.js:69
+#: src/blocks/match-substitutions/index.js:69 src/blocks/matches/index.js:86
+#: src/blocks/player-awards/index.js:59 src/blocks/players/index.js:110
+#: src/blocks/ranking-transitions/index.js:88
+#: src/blocks/referee-statistics-by-competition/index.js:60
+#: src/blocks/referee-statistics-by-team/index.js:60
+#: src/blocks/squad-lineup/index.js:60 src/blocks/squad-staff/index.js:60
+#: src/blocks/squad-substitutions/index.js:60
+#: src/blocks/staff-awards/index.js:59 src/blocks/staff/index.js:77
+#: src/blocks/team-contracts/index.js:68 src/blocks/transfers/index.js:126
+#: src/blocks/trophies/index.js:87 src/blocks/unavailable-players/index.js:68
+msgid "Hidden Columns (Breakpoint 2)"
+msgstr "Colonne Nascoste (Breakpoint 2)"
+
+#: src/blocks/agency-contracts/index.js:74
+#: src/blocks/competition-round/index.js:86
+#: src/blocks/competition-standings-table/index.js:66
+#: src/blocks/injuries/index.js:74
+#: src/blocks/market-value-transitions/index.js:84
+#: src/blocks/match-lineup/index.js:75 src/blocks/match-staff/index.js:75
+#: src/blocks/match-substitutions/index.js:75 src/blocks/matches/index.js:92
+#: src/blocks/player-awards/index.js:65 src/blocks/players/index.js:116
+#: src/blocks/ranking-transitions/index.js:94
+#: src/blocks/referee-statistics-by-competition/index.js:66
+#: src/blocks/referee-statistics-by-team/index.js:66
+#: src/blocks/squad-lineup/index.js:66 src/blocks/squad-staff/index.js:66
+#: src/blocks/squad-substitutions/index.js:66
+#: src/blocks/staff-awards/index.js:65 src/blocks/staff/index.js:83
+#: src/blocks/team-contracts/index.js:74 src/blocks/transfers/index.js:132
+#: src/blocks/trophies/index.js:93 src/blocks/unavailable-players/index.js:74
+msgid "Pagination"
+msgstr "Paginazione"
+
+#: src/blocks/agency-contracts/index.js:78
+#: src/blocks/agency-contracts/index.js:97
+msgid "Agency Contracts"
+msgstr "Contratti Agenzia"
+
+#: src/blocks/agency-contracts/index.js:101
+msgid "agency"
+msgstr "agenzia"
+
+#: src/blocks/agency-contracts/index.js:102
+#: src/blocks/team-contracts/index.js:102
+msgid "contract"
+msgstr "contratto"
+
+#: src/blocks/agency-contracts/index.js:103
+#: src/blocks/competition-round/index.js:115
+#: src/blocks/competition-standings-table/index.js:93
+#: src/blocks/injuries/index.js:103
+#: src/blocks/market-value-transitions-chart/index.js:106
+#: src/blocks/market-value-transitions/index.js:113
+#: src/blocks/match-commentary/index.js:52 src/blocks/match-lineup/index.js:103
+#: src/blocks/match-score/index.js:52 src/blocks/match-staff/index.js:103
+#: src/blocks/match-substitutions/index.js:103
+#: src/blocks/match-timeline/index.js:62
+#: src/blocks/match-visual-lineup/index.js:62 src/blocks/matches/index.js:122
+#: src/blocks/player-awards/index.js:93 src/blocks/player-summary/index.js:53
+#: src/blocks/players/index.js:148
+#: src/blocks/ranking-transitions-chart/index.js:117
+#: src/blocks/ranking-transitions/index.js:124
+#: src/blocks/referee-statistics-by-competition/index.js:93
+#: src/blocks/referee-statistics-by-team/index.js:93
+#: src/blocks/referee-summary/index.js:52 src/blocks/squad-lineup/index.js:93
+#: src/blocks/squad-staff/index.js:93
+#: src/blocks/squad-substitutions/index.js:93
+#: src/blocks/staff-awards/index.js:93 src/blocks/staff-summary/index.js:53
+#: src/blocks/staff/index.js:112 src/blocks/team-contracts/index.js:103
+#: src/blocks/transfers/index.js:166 src/blocks/trophies/index.js:123
+#: src/blocks/unavailable-players/index.js:103
+msgid "soccer"
+msgstr "soccer"
+
+#: src/blocks/competition-round/index.js:47
+#: src/blocks/competition-standings-table/index.js:41
+msgid "Competition"
+msgstr "Competizione"
+
+#: src/blocks/competition-round/index.js:54
+msgid "Round"
+msgstr "Round"
+
+#: src/blocks/competition-round/index.js:61
+msgid "Type"
+msgstr "Tipo"
+
+#: src/blocks/competition-round/index.js:90
+#: src/blocks/competition-round/index.js:110
+msgid "Competition Round"
+msgstr "Round Competizione"
+
+#: src/blocks/competition-round/index.js:114
+msgid "competition round"
+msgstr "round competizione"
+
+#: src/blocks/competition-round/index.js:116
+#: src/blocks/competition-standings-table/index.js:94
+#: src/blocks/market-value-transitions-chart/index.js:107
+#: src/blocks/market-value-transitions/index.js:114
+#: src/blocks/match-commentary/index.js:53 src/blocks/match-lineup/index.js:104
+#: src/blocks/match-score/index.js:53 src/blocks/match-staff/index.js:104
+#: src/blocks/match-substitutions/index.js:104
+#: src/blocks/match-timeline/index.js:63
+#: src/blocks/match-visual-lineup/index.js:63 src/blocks/matches/index.js:123
+#: src/blocks/players/index.js:149
+#: src/blocks/ranking-transitions-chart/index.js:118
+#: src/blocks/ranking-transitions/index.js:125
+#: src/blocks/referee-statistics-by-competition/index.js:94
+#: src/blocks/referee-statistics-by-team/index.js:94
+#: src/blocks/referee-summary/index.js:53 src/blocks/squad-lineup/index.js:94
+#: src/blocks/squad-staff/index.js:94
+#: src/blocks/squad-substitutions/index.js:94 src/blocks/staff/index.js:113
+#: src/blocks/transfers/index.js:167 src/blocks/trophies/index.js:124
+msgid "engine"
+msgstr "engine"
+
+#: src/blocks/competition-standings-table/index.js:70
+#: src/blocks/competition-standings-table/index.js:88
+msgid "Competition Standings Table"
+msgstr "Classifica Competizione"
+
+#: src/blocks/competition-standings-table/index.js:92
+msgid "competition standings table"
+msgstr "classifica competizione"
+
+#: src/blocks/injuries/index.js:44
+#: src/blocks/market-value-transitions/index.js:48
+#: src/blocks/player-summary/index.js:28 src/blocks/transfers/index.js:66
+#: src/blocks/unavailable-players/index.js:44
+msgid "Player"
+msgstr "Giocatore"
+
+#: src/blocks/injuries/index.js:50
+msgid "Injury Type"
+msgstr "Tipologia Infortunio"
+
+#: src/blocks/injuries/index.js:78 src/blocks/injuries/index.js:97
+msgid "Injuries"
+msgstr "Infortuni"
+
+#: src/blocks/injuries/index.js:101
+msgid "injuries"
+msgstr "Infortuni"
+
+#: src/blocks/injuries/index.js:102 src/blocks/players/index.js:147
+#: src/blocks/unavailable-players/index.js:102
+msgid "players"
+msgstr "giocatori"
+
+#: src/blocks/market-value-transitions-chart/index.js:44
+msgid "Player 1"
+msgstr "Giocatore 1"
+
+#: src/blocks/market-value-transitions-chart/index.js:51
+msgid "Player 2"
+msgstr "Giocatore 2"
+
+#: src/blocks/market-value-transitions-chart/index.js:58
+msgid "Player 3"
+msgstr "Giocatore 3"
+
+#: src/blocks/market-value-transitions-chart/index.js:65
+msgid "Player 4"
+msgstr "Giocatore 4"
+
+#: src/blocks/market-value-transitions-chart/index.js:70
+#: src/blocks/market-value-transitions/index.js:52
+#: src/blocks/matches/index.js:61
+#: src/blocks/ranking-transitions-chart/index.js:80
+#: src/blocks/ranking-transitions/index.js:62 src/blocks/transfers/index.js:70
+msgid "Start Date"
+msgstr "Data Inizio"
+
+#: src/blocks/market-value-transitions-chart/index.js:76
+#: src/blocks/market-value-transitions/index.js:58
+#: src/blocks/matches/index.js:66
+#: src/blocks/ranking-transitions-chart/index.js:86
+#: src/blocks/ranking-transitions/index.js:68 src/blocks/transfers/index.js:76
+msgid "End Date"
+msgstr "Data Fine"
+
+#: src/blocks/market-value-transitions-chart/index.js:82
+#: src/blocks/market-value-transitions-chart/index.js:101
+msgid "Market Value Transitions Chart"
+msgstr "Grafico Transizione Valore Mercato"
+
+#: src/blocks/market-value-transitions-chart/index.js:105
+msgid "market value transitions chart"
+msgstr "grafico transizione valore mercato"
+
+#: src/blocks/market-value-transitions/index.js:88
+#: src/blocks/market-value-transitions/index.js:108
+msgid "Market Value Transitions"
+msgstr "Transizione Valore Mercato"
+
+#: src/blocks/market-value-transitions/index.js:112
+msgid "market value transitions"
+msgstr "transizione valore mercato"
+
+#: src/blocks/match-commentary/index.js:28 src/blocks/match-lineup/index.js:44
+#: src/blocks/match-score/index.js:28 src/blocks/match-staff/index.js:44
+#: src/blocks/match-substitutions/index.js:44
+#: src/blocks/match-timeline/index.js:31
+#: src/blocks/match-visual-lineup/index.js:31
+msgid "Match"
+msgstr "Partita"
+
+#: src/blocks/match-commentary/index.js:33
+#: src/blocks/match-commentary/index.js:47
+msgid "Match Commentary"
+msgstr "Commento Partita"
+
+#: src/blocks/match-commentary/index.js:51
+msgid "match commentary"
+msgstr "commento partita"
+
+#: src/blocks/match-lineup/index.js:51 src/blocks/match-staff/index.js:51
+#: src/blocks/match-substitutions/index.js:51
+#: src/blocks/match-visual-lineup/index.js:38
+#: src/blocks/ranking-transitions/index.js:52
+#: src/blocks/team-contracts/index.js:44 src/blocks/trophies/index.js:57
+msgid "Team"
+msgstr "Team"
+
+#: src/blocks/match-lineup/index.js:79 src/blocks/match-lineup/index.js:98
+msgid "Match Lineup"
+msgstr "Lineup Partita"
+
+#: src/blocks/match-lineup/index.js:102
+msgid "match lineup"
+msgstr "lineup partita"
+
+#: src/blocks/match-score/index.js:33 src/blocks/match-score/index.js:47
+msgid "Match Score"
+msgstr "Punteggio Partita"
+
+#: src/blocks/match-score/index.js:51
+msgid "match score"
+msgstr "punteggio partita"
+
+#: src/blocks/match-staff/index.js:79 src/blocks/match-staff/index.js:98
+msgid "Match Staff"
+msgstr "Staff Partita"
+
+#: src/blocks/match-staff/index.js:102
+msgid "match staff"
+msgstr "staff partita"
+
+#: src/blocks/match-substitutions/index.js:79
+#: src/blocks/match-substitutions/index.js:98
+msgid "Match Substitutions"
+msgstr "Sostituzioni Partita"
+
+#: src/blocks/match-substitutions/index.js:102
+msgid "match substitutions"
+msgstr "sostituzioni partita"
+
+#: src/blocks/match-timeline/index.js:38
+msgid "Match Effect"
+msgstr "Effetto su Partita"
+
+#: src/blocks/match-timeline/index.js:42 src/blocks/match-timeline/index.js:57
+msgid "Match Timeline"
+msgstr "Timeline Partita"
+
+#: src/blocks/match-timeline/index.js:61
+msgid "match timeline"
+msgstr "timeline partita"
+
+#: src/blocks/match-visual-lineup/index.js:42
+#: src/blocks/match-visual-lineup/index.js:57
+msgid "Match Visual Lineup"
+msgstr "Lineup Visuale Partita"
+
+#: src/blocks/match-visual-lineup/index.js:61
+msgid "match visual lineup"
+msgstr "lineup visuale partita"
+
+#: src/blocks/matches/index.js:51
+#: src/blocks/ranking-transitions-chart/index.js:47
+msgid "Team 1"
+msgstr "Team 1"
+
+#: src/blocks/matches/index.js:57
+#: src/blocks/ranking-transitions-chart/index.js:54
+msgid "Team 2"
+msgstr "Team 2"
+
+#: src/blocks/matches/index.js:96 src/blocks/matches/index.js:117
+msgid "Matches"
+msgstr "Partite"
+
+#: src/blocks/matches/index.js:121
+msgid "matches"
+msgstr "partite"
+
+#: src/blocks/player-awards/index.js:41
+msgid "Player Award Type"
+msgstr "Tipologie Premi Giocatore"
+
+#: src/blocks/player-awards/index.js:69 src/blocks/player-awards/index.js:87
+msgid "Player Awards"
+msgstr "Premi Giocatore"
+
+#: src/blocks/player-awards/index.js:91 src/blocks/player-summary/index.js:51
+msgid "player"
+msgstr "giocatore"
+
+#: src/blocks/player-awards/index.js:92 src/blocks/staff-awards/index.js:92
+msgid "awards"
+msgstr "premi"
+
+#: src/blocks/player-summary/index.js:33 src/blocks/player-summary/index.js:47
+msgid "Player Summary"
+msgstr "Sommario Giocatore"
+
+#: src/blocks/player-summary/index.js:52 src/blocks/staff-summary/index.js:52
+msgid "summary"
+msgstr "sommario"
+
+#: src/blocks/players/index.js:61
+msgid "Citizenship"
+msgstr "Cittadinanza"
+
+#: src/blocks/players/index.js:65
+msgid "Start Date of Birth"
+msgstr "Inizio Data di Nascita"
+
+#: src/blocks/players/index.js:71
+msgid "End Date of Birth"
+msgstr "Fine Data di Nascita"
+
+#: src/blocks/players/index.js:79
+msgid "Foot"
+msgstr "Piede"
+
+#: src/blocks/players/index.js:85 src/blocks/squad-lineup/index.js:41
+#: src/blocks/squad-staff/index.js:41
+#: src/blocks/squad-substitutions/index.js:41 src/blocks/staff/index.js:59
+msgid "Squad"
+msgstr "Squadra"
+
+#: src/blocks/players/index.js:92
+msgid "Player Position"
+msgstr "Posizione Giocatore"
+
+#: src/blocks/players/index.js:120 src/blocks/players/index.js:143
+msgid "Players"
+msgstr "Giocatori"
+
+#: src/blocks/ranking-transitions-chart/index.js:61
+msgid "Team 3"
+msgstr "Team 3"
+
+#: src/blocks/ranking-transitions-chart/index.js:68
+msgid "Team 4"
+msgstr "Team 4"
+
+#: src/blocks/ranking-transitions-chart/index.js:75
+#: src/blocks/ranking-transitions/index.js:58
+msgid "Ranking Type"
+msgstr "Tipologia Ranking"
+
+#: src/blocks/ranking-transitions-chart/index.js:92
+#: src/blocks/ranking-transitions-chart/index.js:112
+msgid "Ranking Transitions Chart"
+msgstr "Grafico Transizioni Ranking"
+
+#: src/blocks/ranking-transitions-chart/index.js:116
+msgid "ranking transitions chart"
+msgstr "grafico transizioni ranking"
+
+#: src/blocks/ranking-transitions/index.js:98
+#: src/blocks/ranking-transitions/index.js:119
+msgid "Ranking Transitions"
+msgstr "Transizioni Ranking"
+
+#: src/blocks/ranking-transitions/index.js:123
+msgid "ranking transitions"
+msgstr "transizioni ranking"
+
+#: src/blocks/referee-statistics-by-competition/index.js:41
+#: src/blocks/referee-statistics-by-team/index.js:41
+#: src/blocks/referee-summary/index.js:28
+msgid "Referee"
+msgstr "Arbitro"
+
+#: src/blocks/referee-statistics-by-competition/index.js:70
+#: src/blocks/referee-statistics-by-competition/index.js:88
+msgid "Referee Statistics by Competition"
+msgstr "Statistiche Arbitro per Competizione"
+
+#: src/blocks/referee-statistics-by-competition/index.js:92
+msgid "referee statistics by competition"
+msgstr "statistiche arbitro per competizione"
+
+#: src/blocks/referee-statistics-by-team/index.js:70
+#: src/blocks/referee-statistics-by-team/index.js:88
+msgid "Referee Statistics by Team"
+msgstr "Statistiche Arbitro per Team"
+
+#: src/blocks/referee-statistics-by-team/index.js:92
+msgid "referee statistics by team"
+msgstr "statistiche arbitro per team"
+
+#: src/blocks/referee-summary/index.js:33
+msgid "Referee Summary"
+msgstr "Sommario Arbitro"
+
+#: src/blocks/referee-summary/index.js:51
+msgid "referee summary"
+msgstr "sommario arbitro"
+
+#: src/blocks/squad-lineup/index.js:70 src/blocks/squad-lineup/index.js:88
+msgid "Squad Lineup"
+msgstr "Lineup Squadra"
+
+#: src/blocks/squad-lineup/index.js:92
+msgid "squad lineup"
+msgstr "lineup squadra"
+
+#: src/blocks/squad-staff/index.js:70 src/blocks/squad-staff/index.js:88
+msgid "Squad Staff"
+msgstr "Staff Squadra"
+
+#: src/blocks/squad-staff/index.js:92
+msgid "squad staff"
+msgstr "staff squadra"
+
+#: src/blocks/squad-substitutions/index.js:70
+#: src/blocks/squad-substitutions/index.js:88
+msgid "Squad Substitutions"
+msgstr "Sostituzioni Squadra"
+
+#: src/blocks/squad-substitutions/index.js:92
+msgid "squad substitutions"
+msgstr "sostituzioni squadra"
+
+#: src/blocks/staff-awards/index.js:41
+msgid "Staff Award Type"
+msgstr "Tipologia Premi Staff"
+
+#: src/blocks/staff-awards/index.js:69 src/blocks/staff-awards/index.js:87
+msgid "Staff Awards"
+msgstr "Premi Staff"
+
+#: src/blocks/staff-awards/index.js:91 src/blocks/staff-summary/index.js:51
+#: src/blocks/staff/index.js:111
+msgid "staff"
+msgstr "staff"
+
+#: src/blocks/staff-summary/index.js:28 src/blocks/staff/index.js:87
+#: src/blocks/staff/index.js:107
+msgid "Staff"
+msgstr "Staff"
+
+#: src/blocks/staff-summary/index.js:33 src/blocks/staff-summary/index.js:47
+msgid "Staff Summary"
+msgstr "Sommario Staff"
+
+#: src/blocks/staff/index.js:47
+msgid "Retired"
+msgstr "Ritirato"
+
+#: src/blocks/staff/index.js:53
+msgid "Gender"
+msgstr "Genere"
+
+#: src/blocks/team-contracts/index.js:50
+msgid "Team Contract Type"
+msgstr "Tipologia Contratto Team"
+
+#: src/blocks/team-contracts/index.js:78 src/blocks/team-contracts/index.js:97
+msgid "Team Contracts"
+msgstr "Contratti Team"
+
+#: src/blocks/team-contracts/index.js:101
+msgid "team"
+msgstr "team"
+
+#: src/blocks/transfers/index.js:84
+msgid "Team Left"
+msgstr "Team Lasciato"
+
+#: src/blocks/transfers/index.js:90
+msgid "Team Joined"
+msgstr "Team Entrata"
+
+#: src/blocks/transfers/index.js:95
+msgid "Fee Lower Limit"
+msgstr "Limite Inferiore Commissione"
+
+#: src/blocks/transfers/index.js:96
+msgid "Set the fee lower limit"
+msgstr "Imposta il limite inferiore della commissione"
+
+#: src/blocks/transfers/index.js:101
+msgid "Fee Higher Limit"
+msgstr "Limite Superiore Commissione"
+
+#: src/blocks/transfers/index.js:102
+msgid "Set the fee higher limit"
+msgstr "Imposta il limite superiore della commissione"
+
+#: src/blocks/transfers/index.js:108
+msgid "Transfer Type"
+msgstr "Tipologia Trasferimento"
+
+#: src/blocks/transfers/index.js:136 src/blocks/transfers/index.js:161
+msgid "Transfers"
+msgstr "Trasferimenti"
+
+#: src/blocks/transfers/index.js:165
+msgid "transfers"
+msgstr "trasferimenti"
+
+#: src/blocks/trophies/index.js:51
+msgid "Trophy Type"
+msgstr "Tipologia Trofei"
+
+#: src/blocks/trophies/index.js:61
+msgid "Start Assignment Date"
+msgstr "Inizio Data Assegnazione"
+
+#: src/blocks/trophies/index.js:67
+msgid "End Assignment Date"
+msgstr "Fine Data Assegnazione"
+
+#: src/blocks/trophies/index.js:97 src/blocks/trophies/index.js:118
+msgid "Trophies"
+msgstr "Trofei"
+
+#: src/blocks/trophies/index.js:122
+msgid "trophies"
+msgstr "trofei"
+
+#: src/blocks/unavailable-players/index.js:50
+msgid "Unavailable Player Type"
+msgstr "Tipologia Giocatori Indisponibile"
+
+#: src/blocks/unavailable-players/index.js:78
+#: src/blocks/unavailable-players/index.js:97
+msgid "Unavailable Players"
+msgstr "Giocatori Indisponibili"
+
+#: src/blocks/unavailable-players/index.js:101
+msgid "unavailable"
+msgstr "indisponibile"
+
+#: src/components/GenericReactSelect.js:84
+#: src/components/GenericReactSelect.js:130
+#: src/components/MultiReactSelect.js:93
+msgid "Select..."
+msgstr "Scegli..."
+
+#: src/components/GenericReactSelect.js:129
+#: src/components/MultiReactSelect.js:142
+msgid "No options"
+msgstr "Nessuna opzione"
+
+#: src/init.php:82
+msgid "Soccer Engine"
+msgstr "Soccer Engine"
+
+#~ msgid "Season"
+#~ msgstr "Stagione"
+
+#~ msgid "Home Team"
+#~ msgstr "Team in Casa"
+
+#~ msgid "Away Team"
+#~ msgstr "Team in Trasferta"
+
+#~ msgid "Date of Birth Start"
+#~ msgstr "Inizio Data di Nascità"
+
+#~ msgid "Squad Staffs"
+#~ msgstr "Staff Squadra"
+
+#~ msgid "Transfer Window"
+#~ msgstr "Finestra Mercato"
+
+#~ msgid "Assignment Date Start"
+#~ msgstr "Date Assegnazione Inizio"
+
+#~ msgid "standings"
+#~ msgstr "classifiche"
+
+#~ msgid "ladder"
+#~ msgstr "ladder"
+
+#~ msgid "test"
+#~ msgstr "test"

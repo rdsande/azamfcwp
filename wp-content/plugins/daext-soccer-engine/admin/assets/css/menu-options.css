@@ -1,0 +1,71 @@
+/* Spectrum Color Picker -------------------------------------------------------------------------------------------- */
+.spectrum-toggle {
+    width: 20px;
+    height: 20px;
+    background: url('../img/color-picker.png') 0 0 no-repeat !important;
+    float: left;
+    cursor: pointer;
+    visibility: hidden;
+    margin: 2px 0 2px 8px;
+}
+
+.spectrum-input{
+    display: none;
+}
+
+.sp-replacer {
+    display: none !important;
+}
+
+#dase-table-header-background-color,
+#dase-table-header-border-color,
+#dase-table-header-font-color,
+#dase-table-body-background-color,
+#dase-table-body-border-color,
+#dase-table-body-font-color,
+#dase-table-pagination-background-color,
+#dase-table-pagination-border-color,
+#dase-table-pagination-font-color,
+#dase-table-pagination-disabled-background-color,
+#dase-table-pagination-disabled-border-color,
+#dase-table-pagination-disabled-font-color,
+#dase-line-chart-dataset-background-color,
+#dase-line-chart-font-color,
+#dase-line-chart-tooltips-background-color,
+#dase-line-chart-tooltips-font-color,
+#dase-line-chart-gridlines-color,
+#dase-line-chart-dataset-line-color,
+#dase-formation-field-background-color,
+#dase-formation-field-line-color,
+#dase-formation-field-player-number-background-color,
+#dase-formation-field-player-number-border-color,
+#dase-formation-field-player-number-font-color,
+#dase-formation-field-player-number-font-family,
+#dase-formation-field-player-number-font-weight,
+#dase-formation-field-player-number-font-style,
+#dase-formation-field-player-name-font-color,
+#dase-formation-field-player-name-font-family,
+#dase-formation-field-player-name-font-weight,
+#dase-formation-field-player-name-font-style,
+#dase-clock-background-color,
+#dase-clock-secondary-ticks-color,
+#dase-clock-primary-ticks-color,
+#dase-clock-border-color,
+#dase-clock-overlay-color,
+#dase-clock-extra-time-overlay-color,
+#dase-event-icon-goal-color,
+#dase-event-icon-yellow-card-color,
+#dase-event-icon-red-card-color,
+#dase-event-icon-substitution-left-arrow-color,
+#dase-event-icon-substitution-right-arrow-color,
+#dase-default-avatar-color,
+#dase-default-avatar-background-color,
+#dase-default-team-logo-color,
+#dase-default-team-logo-background-color,
+#dase-default-competition-logo-color,
+#dase-default-competition-logo-background-color,
+#dase-default-trophy-type-logo-color,
+#dase-default-trophy-type-logo-background-color
+{
+    float: left;
+}
